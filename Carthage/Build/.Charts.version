@@ -1,0 +1,10 @@
+{
+  "commitish" : "v3.5.0",
+  "iOS" : [
+    {
+      "name" : "Charts",
+      "hash" : "1647d83d7c860866f85e1efc074f54eb387d5ae97e258ba36e40da186f7f3cc6",
+      "swiftToolchainVersion" : "5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+    }
+  ]
+}

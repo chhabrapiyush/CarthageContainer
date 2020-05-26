@@ -1,0 +1,16 @@
+PODS:
+  - Haring (2.0.8)
+
+DEPENDENCIES:
+  - Haring (from `../`)
+
+EXTERNAL SOURCES:
+  Haring:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Haring: d2a4cfc00dfb63836dffc93e45919369f850e134
+
+PODFILE CHECKSUM: d5ab7311f83212522ff02a707349c95c905f4e1d
+
+COCOAPODS: 1.8.0

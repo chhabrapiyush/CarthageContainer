@@ -1,0 +1,11 @@
+framework module Haring {
+  umbrella header "Haring-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Haring.Swift {
+    header "Haring-Swift.h"
+    requires objc
+}

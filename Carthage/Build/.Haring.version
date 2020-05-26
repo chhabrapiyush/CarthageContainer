@@ -1,0 +1,10 @@
+{
+  "commitish" : "27af7e9908d7ff6118897a6ff9394eb56c6480ff",
+  "iOS" : [
+    {
+      "name" : "Haring",
+      "hash" : "e97f4dfff3cf7fb06f4ba4bb41dd91b1a1db7fc1c2854c841127d7b367fe5aac",
+      "swiftToolchainVersion" : "5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+    }
+  ]
+}

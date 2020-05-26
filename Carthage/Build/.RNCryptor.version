@@ -1,0 +1,15 @@
+{
+  "commitish" : "5.1.0",
+  "iOS" : [
+    {
+      "name" : "RNCryptor",
+      "hash" : "5baf77c7bd135c34a93ad6a3438caec50888acf7558741570898d6de6f9ec60c",
+      "swiftToolchainVersion" : "5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+    },
+    {
+      "name" : "RNCryptor",
+      "hash" : "5baf77c7bd135c34a93ad6a3438caec50888acf7558741570898d6de6f9ec60c",
+      "swiftToolchainVersion" : "5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+    }
+  ]
+}

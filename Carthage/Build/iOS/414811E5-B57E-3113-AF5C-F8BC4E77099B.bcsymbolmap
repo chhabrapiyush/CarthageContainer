@@ -1,0 +1,4153 @@
+BCSymbolMap Version: 2.0
+Apple clang version 11.0.3 (clang-1103.0.32.59)
+/Users/echo/Library/Developer/Xcode/DerivedData/BranchSDK-fsqnktmjkkiboncwqweddyunjxkp/Build/Intermediates.noindex/ArchiveIntermediates/Branch iOS SDK Carthage/IntermediateBuildFilesPath/BranchSDK.build/Release-iphoneos/Branch.build/DerivedSources/Branch_vers.c
+/Users/echo/github/ios-branch-deep-linking-attribution/carthage-files
+-[BNCContentDiscoveryManager init]
+-[BNCContentDiscoveryManager spotlightIdentifierFromActivity:]
+-[BNCContentDiscoveryManager standardSpotlightIdentifierFromActivity:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:callback:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:callback:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:type:callback:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:type:thumbnailUrl:callback:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:type:thumbnailUrl:keywords:callback:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:type:thumbnailUrl:keywords:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:type:thumbnailUrl:keywords:userInfo:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:thumbnailUrl:userInfo:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:thumbnailUrl:keywords:userInfo:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:type:thumbnailUrl:keywords:userInfo:expirationDate:callback:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:canonicalId:publiclyIndexable:type:thumbnailUrl:keywords:userInfo:expirationDate:callback:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:type:thumbnailUrl:keywords:userInfo:callback:]
+-[BNCContentDiscoveryManager indexContentWithTitle:description:publiclyIndexable:type:thumbnailUrl:keywords:userInfo:spotlightCallback:]
+-[BNCContentDiscoveryManager indexObject:onCompletion:]
+___55-[BNCContentDiscoveryManager indexObject:onCompletion:]_block_invoke
+___copy_helper_block_e4_20b24s
+___destroy_helper_block_e4_20s24s
+-[BNCContentDiscoveryManager indexContentWithTitle:description:canonicalId:publiclyIndexable:type:thumbnailUrl:keywords:userInfo:expirationDate:callback:spotlightCallback:]
+___172-[BNCContentDiscoveryManager indexContentWithTitle:description:canonicalId:publiclyIndexable:type:thumbnailUrl:keywords:userInfo:expirationDate:callback:spotlightCallback:]_block_invoke
+___copy_helper_block_e4_20b24b
+___172-[BNCContentDiscoveryManager indexContentWithTitle:description:canonicalId:publiclyIndexable:type:thumbnailUrl:keywords:userInfo:expirationDate:callback:spotlightCallback:]_block_invoke.72
+-[BNCContentDiscoveryManager workQueue]
+-[BNCContentDiscoveryManager spotlight]
+-[BNCContentDiscoveryManager setSpotlight:]
+-[BNCContentDiscoveryManager .cxx_destruct]
+_OBJC_CLASSLIST_SUP_REFS_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_CLASSLIST_REFERENCES_$_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+___block_descriptor_28_e4_20bs24s_e42_v16?0"NSString"4"NSString"8"NSError"12l
+_OBJC_CLASSLIST_REFERENCES_$_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_CLASSLIST_REFERENCES_$_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_CLASSLIST_REFERENCES_$_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+___block_descriptor_28_e4_20bs24bs_e55_v16?0"BranchUniversalObject"4"NSString"8"NSError"12l
+_OBJC_SELECTOR_REFERENCES_.71
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_NSUserActivityDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSUserActivityDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSUserActivityDelegate
+__OBJC_PROTOCOL_$_NSUserActivityDelegate
+__OBJC_LABEL_PROTOCOL_$_NSUserActivityDelegate
+__OBJC_CLASS_PROTOCOLS_$_BNCContentDiscoveryManager
+__OBJC_METACLASS_RO_$_BNCContentDiscoveryManager
+__OBJC_$_INSTANCE_METHODS_BNCContentDiscoveryManager
+_OBJC_IVAR_$_BNCContentDiscoveryManager._workQueue
+_OBJC_IVAR_$_BNCContentDiscoveryManager._spotlight
+__OBJC_$_INSTANCE_VARIABLES_BNCContentDiscoveryManager
+__OBJC_$_PROP_LIST_BNCContentDiscoveryManager
+__OBJC_CLASS_RO_$_BNCContentDiscoveryManager
+_OBJC_LABEL_CLASS_$
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCContentDiscoveryManager.m
+Branch-SDK/Branch-SDK/BNCContentDiscoveryManager.m
+/Users/echo/github/ios-branch-deep-linking-attribution
+__172-[BNCContentDiscoveryManager indexContentWithTitle:description:canonicalId:publiclyIndexable:type:thumbnailUrl:keywords:userInfo:expirationDate:callback:spotlightCallback:]_block_invoke.72
+__copy_helper_block_e4_20b24b
+__172-[BNCContentDiscoveryManager indexContentWithTitle:description:canonicalId:publiclyIndexable:type:thumbnailUrl:keywords:userInfo:expirationDate:callback:spotlightCallback:]_block_invoke
+__destroy_helper_block_e4_20s24s
+__copy_helper_block_e4_20b24s
+__55-[BNCContentDiscoveryManager indexObject:onCompletion:]_block_invoke
+___BNCLogSetOutputToURL_block_invoke
+___copy_helper_block_e4_20s
+___destroy_helper_block_e4_20s
+___BNCLogRecordWrapOpenURL_block_invoke
+___copy_helper_block_e4_20s24r
+___destroy_helper_block_e4_20s24r
+___BNCLogSetOutputToURLByteWrap_block_invoke
+___BNCLogDisplayLevel_block_invoke
+___copy_helper_block_e4_20r
+___destroy_helper_block_e4_20r
+___BNCLogSetDisplayLevel_block_invoke
+___BNCLogBreakPointsAreEnabled_block_invoke
+___BNCLogSetBreakPointsEnabled_block_invoke
+___BNCLogOutputFunction_block_invoke
+___BNCLogCloseLogFile_block_invoke
+___BNCLogSetOutputFunction_block_invoke
+___BNCLogFlushFunction_block_invoke
+___BNCLogSetFlushFunction_block_invoke
+___BNCLogWriteMessageFormat_block_invoke
+___BNCLogFlushMessages_block_invoke
+___BNCLogInitialize_block_invoke
+_bnc_LogIsInitialized
+_bnc_LogQueue
+_bnc_LogDateFormatter
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.17
+_bnc_LogDescriptor
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_bnc_LoggingFunction
+_bnc_LogFlushFunction
+___block_descriptor_24_e4_20s_e5_v4?0l
+_bnc_LogRecordSize
+_bnc_LogOffset
+_bnc_LogOffsetMax
+_OBJC_CLASSLIST_REFERENCES_$_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.47
+___block_descriptor_36_e4_20s24r_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+___block_descriptor_32_e4_20s24r_e5_v4?0l
+_bnc_LogDisplayLevel
+___block_descriptor_24_e4_20r_e5_v4?0l
+___block_descriptor_24_e5_v4?0l
+_bnc_logLevelStrings
+_OBJC_SELECTOR_REFERENCES_.83
+_bnc_LogClientInitializeFunctionPtr
+_bnc_LogBreakPointsAreEnabled
+___block_descriptor_21_e5_v4?0l
+___block_descriptor_20_e5_v4?0l
+___block_literal_global
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_SELECTOR_REFERENCES_.121
+___block_descriptor_28_e4_20s_e5_v4?0l
+___block_literal_global.122
+_BNCLogInitialize.onceToken
+___block_literal_global.123
+_OBJC_CLASSLIST_REFERENCES_$_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_CLASSLIST_REFERENCES_$_.128
+_OBJC_SELECTOR_REFERENCES_.132
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_CLASSLIST_REFERENCES_$_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_CLASSLIST_REFERENCES_$_.144
+_OBJC_SELECTOR_REFERENCES_.146
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCLog.m
+__BNCLogInitialize_block_invoke
+Branch-SDK/Branch-SDK/BNCLog.m
+BNCLogInitialize
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/usr/include/dispatch/once.h
+__BNCLogFlushMessages_block_invoke
+BNCLogFlushMessages
+BNCLogWriteMessage
+__BNCLogWriteMessageFormat_block_invoke
+BNCLogWriteMessageFormat
+BNCLogInitializeClient_Internal
+BNCLogSetClientInitializeFunction
+__BNCLogSetFlushFunction_block_invoke
+BNCLogSetFlushFunction
+__BNCLogFlushFunction_block_invoke
+BNCLogFlushFunction
+__BNCLogSetOutputFunction_block_invoke
+BNCLogSetOutputFunction
+__BNCLogCloseLogFile_block_invoke
+BNCLogCloseLogFile
+__BNCLogOutputFunction_block_invoke
+BNCLogOutputFunction
+__BNCLogSetBreakPointsEnabled_block_invoke
+BNCLogSetBreakPointsEnabled
+__BNCLogBreakPointsAreEnabled_block_invoke
+BNCLogBreakPointsAreEnabled
+BNCLogLevelFromString
+BNCLogStringFromLogLevel
+__BNCLogSetDisplayLevel_block_invoke
+BNCLogSetDisplayLevel
+__destroy_helper_block_e4_20r
+__copy_helper_block_e4_20r
+__BNCLogDisplayLevel_block_invoke
+BNCLogDisplayLevel
+__BNCLogSetOutputToURLByteWrap_block_invoke
+BNCLogSetOutputToURLByteWrap
+BNCLogByteWrapOpenURL_Internal
+BNCLogByteWrapReadNextRecord
+BNCLogByteWrapFlush
+BNCLogByteWrapWrite
+BNCLogSetOutputToURLRecordWrap
+BNCLogSetOutputToURLRecordWrapSize
+__destroy_helper_block_e4_20s24r
+__copy_helper_block_e4_20s24r
+__BNCLogRecordWrapOpenURL_block_invoke
+BNCLogRecordWrapOpenURL
+BNCLogRecordWrapOpenURL_Internal
+BNCLogRecordWrapFlush
+BNCLogRecordWrapWrite
+__destroy_helper_block_e4_20s
+__copy_helper_block_e4_20s
+__BNCLogSetOutputToURL_block_invoke
+BNCLogSetOutputToURL
+BNCLogSetOutputToURL_Interal
+BNCLogFlushFileDescriptor
+BNCLogFunctionOutputToFileDescriptor
+BNCLogFunctionOutputToStdErr
+BNCLogFunctionOutputToStdOut
+BNCLogInternalErrorFunction
+-[BNCServerRequest makeRequest:key:callback:]
+-[BNCServerRequest processResponse:error:]
+-[BNCServerRequest initWithCoder:]
+-[BNCServerRequest encodeWithCoder:]
+-[BNCServerRequest safeSetValue:forKey:onDict:]
++[BNCServerRequest supportsSecureCoding]
+_OBJC_SELECTOR_REFERENCES_.5
+__OBJC_$_CLASS_METHODS_BNCServerRequest
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCoding
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSCoding
+__OBJC_PROTOCOL_$_NSCoding
+__OBJC_LABEL_PROTOCOL_$_NSCoding
+__OBJC_$_PROTOCOL_REFS_NSSecureCoding
+__OBJC_$_PROTOCOL_CLASS_METHODS_NSSecureCoding
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSSecureCoding
+__OBJC_PROTOCOL_$_NSSecureCoding
+__OBJC_LABEL_PROTOCOL_$_NSSecureCoding
+__OBJC_CLASS_PROTOCOLS_$_BNCServerRequest
+__OBJC_METACLASS_RO_$_BNCServerRequest
+__OBJC_$_INSTANCE_METHODS_BNCServerRequest
+__OBJC_CLASS_RO_$_BNCServerRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/BNCServerRequest.m
+Branch-SDK/Branch-SDK/Networking/BNCServerRequest.m
+-[BNCInitSessionResponse params]
+-[BNCInitSessionResponse setParams:]
+-[BNCInitSessionResponse universalObject]
+-[BNCInitSessionResponse setUniversalObject:]
+-[BNCInitSessionResponse linkProperties]
+-[BNCInitSessionResponse setLinkProperties:]
+-[BNCInitSessionResponse sceneIdentifier]
+-[BNCInitSessionResponse setSceneIdentifier:]
+-[BNCInitSessionResponse error]
+-[BNCInitSessionResponse setError:]
+-[BNCInitSessionResponse .cxx_destruct]
+__OBJC_METACLASS_RO_$_BNCInitSessionResponse
+__OBJC_$_INSTANCE_METHODS_BNCInitSessionResponse
+_OBJC_IVAR_$_BNCInitSessionResponse._params
+_OBJC_IVAR_$_BNCInitSessionResponse._universalObject
+_OBJC_IVAR_$_BNCInitSessionResponse._linkProperties
+_OBJC_IVAR_$_BNCInitSessionResponse._sceneIdentifier
+_OBJC_IVAR_$_BNCInitSessionResponse._error
+__OBJC_$_INSTANCE_VARIABLES_BNCInitSessionResponse
+__OBJC_$_PROP_LIST_BNCInitSessionResponse
+__OBJC_CLASS_RO_$_BNCInitSessionResponse
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCInitSessionResponse.m
+Branch-SDK/Branch-SDK/BNCInitSessionResponse.m
+Branch-SDK/Branch-SDK/BNCInitSessionResponse.h
++[BNCDeviceInfo getInstance]
+___28+[BNCDeviceInfo getInstance]_block_invoke
+-[BNCDeviceInfo init]
+-[BNCDeviceInfo registerPluginName:version:]
+-[BNCDeviceInfo loadDeviceInfo]
+-[BNCDeviceInfo extensionType]
+-[BNCDeviceInfo localIPAddress]
+-[BNCDeviceInfo connectionType]
+-[BNCDeviceInfo userAgentString]
+-[BNCDeviceInfo checkAdvertisingIdentifier]
+-[BNCDeviceInfo v2dictionary]
+-[BNCDeviceInfo hardwareId]
+-[BNCDeviceInfo setHardwareId:]
+-[BNCDeviceInfo hardwareIdType]
+-[BNCDeviceInfo setHardwareIdType:]
+-[BNCDeviceInfo isRealHardwareId]
+-[BNCDeviceInfo setIsRealHardwareId:]
+-[BNCDeviceInfo advertiserId]
+-[BNCDeviceInfo setAdvertiserId:]
+-[BNCDeviceInfo vendorId]
+-[BNCDeviceInfo setVendorId:]
+-[BNCDeviceInfo isAdTrackingEnabled]
+-[BNCDeviceInfo setIsAdTrackingEnabled:]
+-[BNCDeviceInfo unidentifiedDevice]
+-[BNCDeviceInfo setUnidentifiedDevice:]
+-[BNCDeviceInfo brandName]
+-[BNCDeviceInfo setBrandName:]
+-[BNCDeviceInfo modelName]
+-[BNCDeviceInfo setModelName:]
+-[BNCDeviceInfo osName]
+-[BNCDeviceInfo setOsName:]
+-[BNCDeviceInfo osVersion]
+-[BNCDeviceInfo setOsVersion:]
+-[BNCDeviceInfo osBuildVersion]
+-[BNCDeviceInfo setOsBuildVersion:]
+-[BNCDeviceInfo setExtensionType:]
+-[BNCDeviceInfo cpuType]
+-[BNCDeviceInfo setCpuType:]
+-[BNCDeviceInfo screenWidth]
+-[BNCDeviceInfo setScreenWidth:]
+-[BNCDeviceInfo screenHeight]
+-[BNCDeviceInfo setScreenHeight:]
+-[BNCDeviceInfo screenScale]
+-[BNCDeviceInfo setScreenScale:]
+-[BNCDeviceInfo carrierName]
+-[BNCDeviceInfo setCarrierName:]
+-[BNCDeviceInfo locale]
+-[BNCDeviceInfo setLocale:]
+-[BNCDeviceInfo country]
+-[BNCDeviceInfo setCountry:]
+-[BNCDeviceInfo language]
+-[BNCDeviceInfo setLanguage:]
+-[BNCDeviceInfo applicationVersion]
+-[BNCDeviceInfo setApplicationVersion:]
+-[BNCDeviceInfo pluginName]
+-[BNCDeviceInfo setPluginName:]
+-[BNCDeviceInfo pluginVersion]
+-[BNCDeviceInfo setPluginVersion:]
+-[BNCDeviceInfo branchSDKVersion]
+-[BNCDeviceInfo setBranchSDKVersion:]
+-[BNCDeviceInfo randomId]
+-[BNCDeviceInfo setRandomId:]
+-[BNCDeviceInfo .cxx_destruct]
+_getInstance.bnc_deviceInfo
+_getInstance.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.9
+_OBJC_CLASSLIST_REFERENCES_$_.10
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_CLASSLIST_REFERENCES_$_.12
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_CLASSLIST_REFERENCES_$_.60
+_OBJC_CLASSLIST_REFERENCES_$_.61
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_CLASSLIST_REFERENCES_$_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_CLASSLIST_REFERENCES_$_.93
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_CLASSLIST_REFERENCES_$_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_CLASSLIST_REFERENCES_$_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_CLASSLIST_REFERENCES_$_.136
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_CLASSLIST_REFERENCES_$_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_CLASSLIST_REFERENCES_$_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.202
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_SELECTOR_REFERENCES_.214
+_OBJC_SELECTOR_REFERENCES_.222
+_OBJC_SELECTOR_REFERENCES_.226
+_OBJC_SELECTOR_REFERENCES_.230
+_OBJC_SELECTOR_REFERENCES_.234
+_OBJC_SELECTOR_REFERENCES_.244
+_OBJC_SELECTOR_REFERENCES_.248
+_OBJC_SELECTOR_REFERENCES_.252
+_OBJC_SELECTOR_REFERENCES_.256
+_OBJC_SELECTOR_REFERENCES_.262
+_OBJC_SELECTOR_REFERENCES_.266
+__OBJC_$_CLASS_METHODS_BNCDeviceInfo
+__OBJC_METACLASS_RO_$_BNCDeviceInfo
+__OBJC_$_INSTANCE_METHODS_BNCDeviceInfo
+_OBJC_IVAR_$_BNCDeviceInfo._isRealHardwareId
+_OBJC_IVAR_$_BNCDeviceInfo._isAdTrackingEnabled
+_OBJC_IVAR_$_BNCDeviceInfo._unidentifiedDevice
+_OBJC_IVAR_$_BNCDeviceInfo._hardwareId
+_OBJC_IVAR_$_BNCDeviceInfo._hardwareIdType
+_OBJC_IVAR_$_BNCDeviceInfo._advertiserId
+_OBJC_IVAR_$_BNCDeviceInfo._vendorId
+_OBJC_IVAR_$_BNCDeviceInfo._brandName
+_OBJC_IVAR_$_BNCDeviceInfo._modelName
+_OBJC_IVAR_$_BNCDeviceInfo._osName
+_OBJC_IVAR_$_BNCDeviceInfo._osVersion
+_OBJC_IVAR_$_BNCDeviceInfo._osBuildVersion
+_OBJC_IVAR_$_BNCDeviceInfo._extensionType
+_OBJC_IVAR_$_BNCDeviceInfo._cpuType
+_OBJC_IVAR_$_BNCDeviceInfo._screenWidth
+_OBJC_IVAR_$_BNCDeviceInfo._screenHeight
+_OBJC_IVAR_$_BNCDeviceInfo._screenScale
+_OBJC_IVAR_$_BNCDeviceInfo._carrierName
+_OBJC_IVAR_$_BNCDeviceInfo._locale
+_OBJC_IVAR_$_BNCDeviceInfo._country
+_OBJC_IVAR_$_BNCDeviceInfo._language
+_OBJC_IVAR_$_BNCDeviceInfo._applicationVersion
+_OBJC_IVAR_$_BNCDeviceInfo._pluginName
+_OBJC_IVAR_$_BNCDeviceInfo._pluginVersion
+_OBJC_IVAR_$_BNCDeviceInfo._branchSDKVersion
+_OBJC_IVAR_$_BNCDeviceInfo._randomId
+__OBJC_$_INSTANCE_VARIABLES_BNCDeviceInfo
+__OBJC_$_PROP_LIST_BNCDeviceInfo
+__OBJC_CLASS_RO_$_BNCDeviceInfo
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCDeviceInfo.m
+Branch-SDK/Branch-SDK/BNCDeviceInfo.m
+Branch-SDK/Branch-SDK/BNCDeviceInfo.h
+__28+[BNCDeviceInfo getInstance]_block_invoke
+-[BranchContentDiscoveryManifest init]
++[BranchContentDiscoveryManifest getInstance]
+-[BranchContentDiscoveryManifest onBranchInitialised:withUrl:]
+-[BranchContentDiscoveryManifest getManifestVersion]
+-[BranchContentDiscoveryManifest getContentPathProperties:]
+-[BranchContentDiscoveryManifest cdManifest]
+-[BranchContentDiscoveryManifest setCdManifest:]
+-[BranchContentDiscoveryManifest referredLink]
+-[BranchContentDiscoveryManifest setReferredLink:]
+-[BranchContentDiscoveryManifest maxTextLen]
+-[BranchContentDiscoveryManifest setMaxTextLen:]
+-[BranchContentDiscoveryManifest maxViewHistoryLength]
+-[BranchContentDiscoveryManifest setMaxViewHistoryLength:]
+-[BranchContentDiscoveryManifest maxPktSize]
+-[BranchContentDiscoveryManifest setMaxPktSize:]
+-[BranchContentDiscoveryManifest isCDEnabled]
+-[BranchContentDiscoveryManifest setIsCDEnabled:]
+-[BranchContentDiscoveryManifest contentPaths]
+-[BranchContentDiscoveryManifest setContentPaths:]
+-[BranchContentDiscoveryManifest manifestVersion]
+-[BranchContentDiscoveryManifest setManifestVersion:]
+-[BranchContentDiscoveryManifest .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_getInstance.contentDiscoveryManifest
+_OBJC_CLASSLIST_REFERENCES_$_.8
+_OBJC_CLASSLIST_REFERENCES_$_.17
+_OBJC_CLASSLIST_REFERENCES_$_.28
+_OBJC_SELECTOR_REFERENCES_.30
+__OBJC_$_CLASS_METHODS_BranchContentDiscoveryManifest
+__OBJC_METACLASS_RO_$_BranchContentDiscoveryManifest
+__OBJC_$_INSTANCE_METHODS_BranchContentDiscoveryManifest
+_OBJC_IVAR_$_BranchContentDiscoveryManifest._isCDEnabled
+_OBJC_IVAR_$_BranchContentDiscoveryManifest._cdManifest
+_OBJC_IVAR_$_BranchContentDiscoveryManifest._referredLink
+_OBJC_IVAR_$_BranchContentDiscoveryManifest._maxTextLen
+_OBJC_IVAR_$_BranchContentDiscoveryManifest._maxViewHistoryLength
+_OBJC_IVAR_$_BranchContentDiscoveryManifest._maxPktSize
+_OBJC_IVAR_$_BranchContentDiscoveryManifest._contentPaths
+_OBJC_IVAR_$_BranchContentDiscoveryManifest._manifestVersion
+__OBJC_$_INSTANCE_VARIABLES_BranchContentDiscoveryManifest
+__OBJC_$_PROP_LIST_BranchContentDiscoveryManifest
+__OBJC_CLASS_RO_$_BranchContentDiscoveryManifest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchContentDiscoveryManifest.m
+Branch-SDK/Branch-SDK/BranchContentDiscoveryManifest.m
+Branch-SDK/Branch-SDK/BranchContentDiscoveryManifest.h
+-[BranchEventRequest initWithServerURL:eventDictionary:completion:]
+-[BranchEventRequest makeRequest:key:callback:]
+-[BranchEventRequest processResponse:error:]
+-[BranchEventRequest initWithCoder:]
+-[BranchEventRequest encodeWithCoder:]
++[BranchEventRequest supportsSecureCoding]
+-[BranchEventRequest eventDictionary]
+-[BranchEventRequest setEventDictionary:]
+-[BranchEventRequest serverURL]
+-[BranchEventRequest setServerURL:]
+-[BranchEventRequest completion]
+-[BranchEventRequest setCompletion:]
+-[BranchEventRequest .cxx_destruct]
+-[BranchEvent initWithName:]
++[BranchEvent standardEvent:]
++[BranchEvent standardEvent:withContentItem:]
++[BranchEvent customEventWithName:]
++[BranchEvent customEventWithName:contentItem:]
+-[BranchEvent jsonStringForAdType:]
+-[BranchEvent dictionary]
++[BranchEvent standardEvents]
+-[BranchEvent logEventWithCompletion:]
+-[BranchEvent logEvent]
+-[BranchEvent buildRequestWithEventDictionary:]
+-[BranchEvent buildEventDictionary]
+-[BranchEvent description]
+-[BranchEvent alias]
+-[BranchEvent setAlias:]
+-[BranchEvent transactionID]
+-[BranchEvent setTransactionID:]
+-[BranchEvent currency]
+-[BranchEvent setCurrency:]
+-[BranchEvent revenue]
+-[BranchEvent setRevenue:]
+-[BranchEvent shipping]
+-[BranchEvent setShipping:]
+-[BranchEvent tax]
+-[BranchEvent setTax:]
+-[BranchEvent coupon]
+-[BranchEvent setCoupon:]
+-[BranchEvent affiliation]
+-[BranchEvent setAffiliation:]
+-[BranchEvent eventDescription]
+-[BranchEvent setEventDescription:]
+-[BranchEvent searchQuery]
+-[BranchEvent setSearchQuery:]
+-[BranchEvent adType]
+-[BranchEvent setAdType:]
+-[BranchEvent contentItems]
+-[BranchEvent setContentItems:]
+-[BranchEvent customData]
+-[BranchEvent setCustomData:]
+-[BranchEvent eventName]
+-[BranchEvent setEventName:]
+-[BranchEvent .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_CLASSLIST_REFERENCES_$_.69
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_IVAR_$_BranchEventRequest._eventDictionary
+_OBJC_IVAR_$_BranchEventRequest._serverURL
+_OBJC_IVAR_$_BranchEventRequest._completion
+__OBJC_$_CLASS_METHODS_BranchEventRequest
+__OBJC_CLASS_PROTOCOLS_$_BranchEventRequest
+__OBJC_METACLASS_RO_$_BranchEventRequest
+__OBJC_$_INSTANCE_METHODS_BranchEventRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchEventRequest
+__OBJC_$_PROP_LIST_BranchEventRequest
+__OBJC_CLASS_RO_$_BranchEventRequest
+_OBJC_CLASSLIST_SUP_REFS_$_.110
+_OBJC_CLASSLIST_REFERENCES_$_.111
+_OBJC_CLASSLIST_REFERENCES_$_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_CLASSLIST_REFERENCES_$_.133
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_SELECTOR_REFERENCES_.177
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_CLASSLIST_REFERENCES_$_.191
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_CLASSLIST_REFERENCES_$_.196
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_SELECTOR_REFERENCES_.204
+_OBJC_CLASSLIST_REFERENCES_$_.207
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_CLASSLIST_REFERENCES_$_.210
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_CLASSLIST_REFERENCES_$_.217
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_SELECTOR_REFERENCES_.229
+_OBJC_SELECTOR_REFERENCES_.233
+_OBJC_CLASSLIST_REFERENCES_$_.236
+_OBJC_CLASSLIST_REFERENCES_$_.237
+_OBJC_SELECTOR_REFERENCES_.239
+_OBJC_SELECTOR_REFERENCES_.240
+_OBJC_CLASSLIST_REFERENCES_$_.253
+_OBJC_SELECTOR_REFERENCES_.255
+_OBJC_SELECTOR_REFERENCES_.257
+_OBJC_SELECTOR_REFERENCES_.259
+__OBJC_$_CLASS_METHODS_BranchEvent
+__OBJC_METACLASS_RO_$_BranchEvent
+__OBJC_$_INSTANCE_METHODS_BranchEvent
+_OBJC_IVAR_$_BranchEvent._alias
+_OBJC_IVAR_$_BranchEvent._transactionID
+_OBJC_IVAR_$_BranchEvent._currency
+_OBJC_IVAR_$_BranchEvent._revenue
+_OBJC_IVAR_$_BranchEvent._shipping
+_OBJC_IVAR_$_BranchEvent._tax
+_OBJC_IVAR_$_BranchEvent._coupon
+_OBJC_IVAR_$_BranchEvent._affiliation
+_OBJC_IVAR_$_BranchEvent._eventDescription
+_OBJC_IVAR_$_BranchEvent._searchQuery
+_OBJC_IVAR_$_BranchEvent._adType
+_OBJC_IVAR_$_BranchEvent._contentItems
+_OBJC_IVAR_$_BranchEvent._customData
+_OBJC_IVAR_$_BranchEvent._eventName
+__OBJC_$_INSTANCE_VARIABLES_BranchEvent
+__OBJC_$_PROP_LIST_BranchEvent
+__OBJC_CLASS_RO_$_BranchEvent
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchEvent.m
+Branch-SDK/Branch-SDK/BranchEvent.m
+Branch-SDK/Branch-SDK/BranchEvent.h
++[BNCReachability shared]
+___25+[BNCReachability shared]_block_invoke
+-[BNCReachability init]
+-[BNCReachability setupForInternet]
+-[BNCReachability networkStatusForFlags:]
+-[BNCReachability currentReachabilityStatus]
+-[BNCReachability translateReachabilityStatus:]
+-[BNCReachability reachabilityStatus]
+-[BNCReachability dealloc]
+-[BNCReachability reachability]
+-[BNCReachability setReachability:]
+_shared.reachability
+_shared.onceToken
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.19
+__OBJC_$_CLASS_METHODS_BNCReachability
+__OBJC_METACLASS_RO_$_BNCReachability
+__OBJC_$_INSTANCE_METHODS_BNCReachability
+_OBJC_IVAR_$_BNCReachability._reachability
+__OBJC_$_INSTANCE_VARIABLES_BNCReachability
+__OBJC_$_PROP_LIST_BNCReachability
+__OBJC_CLASS_RO_$_BNCReachability
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCReachability.m
+Branch-SDK/Branch-SDK/BNCReachability.m
+__25+[BNCReachability shared]_block_invoke
+-[BranchLoadRewardsRequest initWithCallback:]
+-[BranchLoadRewardsRequest makeRequest:key:callback:]
+-[BranchLoadRewardsRequest processResponse:error:]
+-[BranchLoadRewardsRequest callback]
+-[BranchLoadRewardsRequest setCallback:]
+-[BranchLoadRewardsRequest .cxx_destruct]
+_OBJC_IVAR_$_BranchLoadRewardsRequest._callback
+_OBJC_CLASSLIST_REFERENCES_$_.23
+_OBJC_CLASSLIST_REFERENCES_$_.31
+__OBJC_METACLASS_RO_$_BranchLoadRewardsRequest
+__OBJC_$_INSTANCE_METHODS_BranchLoadRewardsRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchLoadRewardsRequest
+__OBJC_$_PROP_LIST_BranchLoadRewardsRequest
+__OBJC_CLASS_RO_$_BranchLoadRewardsRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchLoadRewardsRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchLoadRewardsRequest.m
+-[BranchContentMetadata dictionary]
++[BranchContentMetadata contentMetadataWithDictionary:]
+-[BranchContentMetadata customMetadata]
+-[BranchContentMetadata setCustomMetadata:]
+-[BranchContentMetadata setImageCaptions:]
+-[BranchContentMetadata imageCaptions]
+-[BranchContentMetadata description]
+-[BranchContentMetadata contentSchema]
+-[BranchContentMetadata setContentSchema:]
+-[BranchContentMetadata quantity]
+-[BranchContentMetadata setQuantity:]
+-[BranchContentMetadata price]
+-[BranchContentMetadata setPrice:]
+-[BranchContentMetadata currency]
+-[BranchContentMetadata setCurrency:]
+-[BranchContentMetadata sku]
+-[BranchContentMetadata setSku:]
+-[BranchContentMetadata productName]
+-[BranchContentMetadata setProductName:]
+-[BranchContentMetadata productBrand]
+-[BranchContentMetadata setProductBrand:]
+-[BranchContentMetadata productCategory]
+-[BranchContentMetadata setProductCategory:]
+-[BranchContentMetadata productVariant]
+-[BranchContentMetadata setProductVariant:]
+-[BranchContentMetadata condition]
+-[BranchContentMetadata setCondition:]
+-[BranchContentMetadata ratingAverage]
+-[BranchContentMetadata setRatingAverage:]
+-[BranchContentMetadata ratingCount]
+-[BranchContentMetadata setRatingCount:]
+-[BranchContentMetadata ratingMax]
+-[BranchContentMetadata setRatingMax:]
+-[BranchContentMetadata rating]
+-[BranchContentMetadata setRating:]
+-[BranchContentMetadata addressStreet]
+-[BranchContentMetadata setAddressStreet:]
+-[BranchContentMetadata addressCity]
+-[BranchContentMetadata setAddressCity:]
+-[BranchContentMetadata addressRegion]
+-[BranchContentMetadata setAddressRegion:]
+-[BranchContentMetadata addressCountry]
+-[BranchContentMetadata setAddressCountry:]
+-[BranchContentMetadata addressPostalCode]
+-[BranchContentMetadata setAddressPostalCode:]
+-[BranchContentMetadata latitude]
+-[BranchContentMetadata setLatitude:]
+-[BranchContentMetadata longitude]
+-[BranchContentMetadata setLongitude:]
+-[BranchContentMetadata .cxx_destruct]
+-[BranchUniversalObject initWithCanonicalIdentifier:]
+-[BranchUniversalObject initWithTitle:]
+-[BranchUniversalObject metadata]
+-[BranchUniversalObject setMetadata:]
+-[BranchUniversalObject addMetadataKey:value:]
+-[BranchUniversalObject price]
+-[BranchUniversalObject setPrice:]
+-[BranchUniversalObject currency]
+-[BranchUniversalObject setCurrency:]
+-[BranchUniversalObject type]
+-[BranchUniversalObject setType:]
+-[BranchUniversalObject contentIndexMode]
+-[BranchUniversalObject setContentIndexMode:]
+-[BranchUniversalObject automaticallyListOnSpotlight]
+-[BranchUniversalObject setAutomaticallyListOnSpotlight:]
+-[BranchUniversalObject contentMetadata]
+-[BranchUniversalObject description]
+-[BranchUniversalObject registerView]
+-[BranchUniversalObject registerViewWithCallback:]
+-[BranchUniversalObject userCompletedAction:]
+-[BranchUniversalObject userCompletedAction:withState:]
+-[BranchUniversalObject getShortUrlWithLinkProperties:]
+-[BranchUniversalObject getShortUrlWithLinkProperties:andCallback:]
+-[BranchUniversalObject getShortUrlWithLinkPropertiesAndIgnoreFirstClick:]
+-[BranchUniversalObject getLongUrlWithChannel:andTags:andFeature:andStage:andAlias:]
+-[BranchUniversalObject getBranchActivityItemWithLinkProperties:]
+-[BranchUniversalObject showShareSheetWithShareText:completion:]
+-[BranchUniversalObject showShareSheetWithLinkProperties:andShareText:fromViewController:completion:]
+-[BranchUniversalObject showShareSheetWithLinkProperties:andShareText:fromViewController:completionWithError:]
+-[BranchUniversalObject showShareSheetWithLinkProperties:andShareText:fromViewController:anchor:completion:]
+-[BranchUniversalObject showShareSheetWithLinkProperties:andShareText:fromViewController:anchor:completionWithError:]
+-[BranchUniversalObject showShareSheetWithLinkProperties:andShareText:fromViewController:anchor:completion:orCompletionWithError:]
+___130-[BranchUniversalObject showShareSheetWithLinkProperties:andShareText:fromViewController:anchor:completion:orCompletionWithError:]_block_invoke
+___copy_helper_block_e4_20s24b28b
+___destroy_helper_block_e4_20s24s28s
+-[BranchUniversalObject listOnSpotlight]
+-[BranchUniversalObject listOnSpotlightWithCallback:]
+___53-[BranchUniversalObject listOnSpotlightWithCallback:]_block_invoke
+___copy_helper_block_e4_20b
+-[BranchUniversalObject listOnSpotlightWithIdentifierCallback:]
+-[BranchUniversalObject listOnSpotlightWithLinkProperties:callback:]
+___68-[BranchUniversalObject listOnSpotlightWithLinkProperties:callback:]_block_invoke
+-[BranchUniversalObject removeFromSpotlightWithCallback:]
+___57-[BranchUniversalObject removeFromSpotlightWithCallback:]_block_invoke
+-[BranchUniversalObject getParamsForServerRequestWithAddedLinkProperties:]
+-[BranchUniversalObject getDictionaryWithCompleteLinkProperties:]
+-[BranchUniversalObject safeSetValue:forKey:onDict:]
++[BranchUniversalObject objectWithDictionary:]
+-[BranchUniversalObject dictionary]
+-[BranchUniversalObject canonicalIdentifier]
+-[BranchUniversalObject setCanonicalIdentifier:]
+-[BranchUniversalObject canonicalUrl]
+-[BranchUniversalObject setCanonicalUrl:]
+-[BranchUniversalObject title]
+-[BranchUniversalObject setTitle:]
+-[BranchUniversalObject contentDescription]
+-[BranchUniversalObject setContentDescription:]
+-[BranchUniversalObject imageUrl]
+-[BranchUniversalObject setImageUrl:]
+-[BranchUniversalObject keywords]
+-[BranchUniversalObject setKeywords:]
+-[BranchUniversalObject creationDate]
+-[BranchUniversalObject setCreationDate:]
+-[BranchUniversalObject expirationDate]
+-[BranchUniversalObject setExpirationDate:]
+-[BranchUniversalObject locallyIndex]
+-[BranchUniversalObject setLocallyIndex:]
+-[BranchUniversalObject publiclyIndex]
+-[BranchUniversalObject setPubliclyIndex:]
+-[BranchUniversalObject setContentMetadata:]
+-[BranchUniversalObject spotlightIdentifier]
+-[BranchUniversalObject setSpotlightIdentifier:]
+-[BranchUniversalObject .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_CLASSLIST_REFERENCES_$_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_CLASSLIST_REFERENCES_$_.168
+_OBJC_CLASSLIST_REFERENCES_$_.169
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_CLASSLIST_REFERENCES_$_.182
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_SELECTOR_REFERENCES_.218
+_OBJC_SELECTOR_REFERENCES_.220
+_OBJC_SELECTOR_REFERENCES_.224
+_OBJC_CLASSLIST_REFERENCES_$_.225
+_OBJC_CLASSLIST_REFERENCES_$_.226
+_OBJC_SELECTOR_REFERENCES_.228
+_OBJC_SELECTOR_REFERENCES_.232
+_OBJC_SELECTOR_REFERENCES_.236
+__OBJC_$_CLASS_METHODS_BranchContentMetadata
+__OBJC_METACLASS_RO_$_BranchContentMetadata
+__OBJC_$_INSTANCE_METHODS_BranchContentMetadata
+_OBJC_IVAR_$_BranchContentMetadata._imageCaptions
+_OBJC_IVAR_$_BranchContentMetadata._customMetadata
+_OBJC_IVAR_$_BranchContentMetadata._contentSchema
+_OBJC_IVAR_$_BranchContentMetadata._price
+_OBJC_IVAR_$_BranchContentMetadata._currency
+_OBJC_IVAR_$_BranchContentMetadata._sku
+_OBJC_IVAR_$_BranchContentMetadata._productName
+_OBJC_IVAR_$_BranchContentMetadata._productBrand
+_OBJC_IVAR_$_BranchContentMetadata._productCategory
+_OBJC_IVAR_$_BranchContentMetadata._productVariant
+_OBJC_IVAR_$_BranchContentMetadata._condition
+_OBJC_IVAR_$_BranchContentMetadata._ratingCount
+_OBJC_IVAR_$_BranchContentMetadata._addressStreet
+_OBJC_IVAR_$_BranchContentMetadata._addressCity
+_OBJC_IVAR_$_BranchContentMetadata._addressRegion
+_OBJC_IVAR_$_BranchContentMetadata._addressCountry
+_OBJC_IVAR_$_BranchContentMetadata._addressPostalCode
+_OBJC_IVAR_$_BranchContentMetadata._quantity
+_OBJC_IVAR_$_BranchContentMetadata._ratingAverage
+_OBJC_IVAR_$_BranchContentMetadata._ratingMax
+_OBJC_IVAR_$_BranchContentMetadata._rating
+_OBJC_IVAR_$_BranchContentMetadata._latitude
+_OBJC_IVAR_$_BranchContentMetadata._longitude
+__OBJC_$_INSTANCE_VARIABLES_BranchContentMetadata
+__OBJC_$_PROP_LIST_BranchContentMetadata
+__OBJC_CLASS_RO_$_BranchContentMetadata
+_OBJC_SELECTOR_REFERENCES_.328
+_OBJC_SELECTOR_REFERENCES_.330
+_OBJC_SELECTOR_REFERENCES_.332
+_OBJC_SELECTOR_REFERENCES_.334
+_OBJC_SELECTOR_REFERENCES_.335
+_OBJC_SELECTOR_REFERENCES_.337
+_OBJC_SELECTOR_REFERENCES_.339
+_OBJC_SELECTOR_REFERENCES_.343
+_OBJC_SELECTOR_REFERENCES_.345
+_OBJC_SELECTOR_REFERENCES_.347
+_OBJC_SELECTOR_REFERENCES_.349
+_OBJC_SELECTOR_REFERENCES_.353
+_OBJC_SELECTOR_REFERENCES_.355
+_OBJC_SELECTOR_REFERENCES_.357
+_OBJC_SELECTOR_REFERENCES_.359
+_OBJC_SELECTOR_REFERENCES_.361
+_OBJC_SELECTOR_REFERENCES_.363
+_OBJC_SELECTOR_REFERENCES_.365
+_OBJC_CLASSLIST_REFERENCES_$_.368
+_OBJC_SELECTOR_REFERENCES_.370
+_OBJC_CLASSLIST_REFERENCES_$_.374
+_OBJC_SELECTOR_REFERENCES_.376
+_OBJC_CLASSLIST_REFERENCES_$_.377
+_OBJC_SELECTOR_REFERENCES_.379
+_OBJC_SELECTOR_REFERENCES_.381
+_OBJC_SELECTOR_REFERENCES_.383
+_OBJC_SELECTOR_REFERENCES_.385
+_OBJC_SELECTOR_REFERENCES_.387
+_OBJC_SELECTOR_REFERENCES_.389
+_OBJC_SELECTOR_REFERENCES_.390
+_OBJC_SELECTOR_REFERENCES_.392
+_OBJC_SELECTOR_REFERENCES_.394
+_OBJC_CLASSLIST_REFERENCES_$_.397
+_OBJC_SELECTOR_REFERENCES_.399
+_OBJC_SELECTOR_REFERENCES_.401
+_OBJC_SELECTOR_REFERENCES_.403
+_OBJC_SELECTOR_REFERENCES_.405
+_OBJC_SELECTOR_REFERENCES_.407
+_OBJC_SELECTOR_REFERENCES_.409
+_OBJC_SELECTOR_REFERENCES_.411
+_OBJC_SELECTOR_REFERENCES_.413
+_OBJC_SELECTOR_REFERENCES_.415
+_OBJC_SELECTOR_REFERENCES_.417
+_OBJC_CLASSLIST_REFERENCES_$_.420
+_OBJC_SELECTOR_REFERENCES_.422
+_OBJC_SELECTOR_REFERENCES_.424
+_OBJC_SELECTOR_REFERENCES_.426
+_OBJC_CLASSLIST_REFERENCES_$_.427
+_OBJC_SELECTOR_REFERENCES_.429
+_OBJC_SELECTOR_REFERENCES_.431
+_OBJC_SELECTOR_REFERENCES_.433
+_OBJC_SELECTOR_REFERENCES_.435
+_OBJC_SELECTOR_REFERENCES_.437
+_OBJC_SELECTOR_REFERENCES_.441
+_OBJC_SELECTOR_REFERENCES_.443
+_OBJC_SELECTOR_REFERENCES_.445
+_OBJC_SELECTOR_REFERENCES_.447
+_OBJC_SELECTOR_REFERENCES_.449
+_OBJC_SELECTOR_REFERENCES_.451
+_OBJC_SELECTOR_REFERENCES_.453
+_OBJC_CLASSLIST_REFERENCES_$_.454
+_OBJC_SELECTOR_REFERENCES_.456
+_OBJC_SELECTOR_REFERENCES_.458
+_OBJC_SELECTOR_REFERENCES_.460
+___block_descriptor_32_e4_20s24bs28bs_e44_v20?0"NSString"4c8"NSArray"12"NSError"16l
+_OBJC_SELECTOR_REFERENCES_.463
+_OBJC_SELECTOR_REFERENCES_.465
+_OBJC_SELECTOR_REFERENCES_.467
+_OBJC_CLASSLIST_REFERENCES_$_.468
+_OBJC_SELECTOR_REFERENCES_.470
+_OBJC_SELECTOR_REFERENCES_.472
+_OBJC_SELECTOR_REFERENCES_.478
+_OBJC_CLASSLIST_REFERENCES_$_.479
+_OBJC_SELECTOR_REFERENCES_.481
+_OBJC_CLASSLIST_REFERENCES_$_.482
+_OBJC_SELECTOR_REFERENCES_.484
+_OBJC_SELECTOR_REFERENCES_.486
+_OBJC_SELECTOR_REFERENCES_.488
+_OBJC_SELECTOR_REFERENCES_.490
+_OBJC_SELECTOR_REFERENCES_.494
+___block_descriptor_24_e4_20bs_e55_v16?0"BranchUniversalObject"4"NSString"8"NSError"12l
+_OBJC_SELECTOR_REFERENCES_.497
+_OBJC_SELECTOR_REFERENCES_.499
+_OBJC_SELECTOR_REFERENCES_.501
+_OBJC_CLASSLIST_REFERENCES_$_.502
+_OBJC_SELECTOR_REFERENCES_.504
+_OBJC_SELECTOR_REFERENCES_.506
+_OBJC_SELECTOR_REFERENCES_.508
+_OBJC_CLASSLIST_REFERENCES_$_.509
+_OBJC_SELECTOR_REFERENCES_.511
+_OBJC_SELECTOR_REFERENCES_.513
+___block_descriptor_24_e4_20bs_e16_v8?0"NSError"4l
+_OBJC_SELECTOR_REFERENCES_.516
+_OBJC_SELECTOR_REFERENCES_.522
+_OBJC_CLASSLIST_REFERENCES_$_.523
+_OBJC_SELECTOR_REFERENCES_.529
+_OBJC_CLASSLIST_REFERENCES_$_.532
+_OBJC_SELECTOR_REFERENCES_.534
+_OBJC_SELECTOR_REFERENCES_.536
+_OBJC_SELECTOR_REFERENCES_.540
+_OBJC_SELECTOR_REFERENCES_.544
+_OBJC_SELECTOR_REFERENCES_.548
+_OBJC_SELECTOR_REFERENCES_.552
+_OBJC_SELECTOR_REFERENCES_.556
+_OBJC_SELECTOR_REFERENCES_.561
+_OBJC_SELECTOR_REFERENCES_.563
+_OBJC_SELECTOR_REFERENCES_.567
+_OBJC_SELECTOR_REFERENCES_.569
+_OBJC_SELECTOR_REFERENCES_.571
+_OBJC_SELECTOR_REFERENCES_.573
+__OBJC_$_CLASS_METHODS_BranchUniversalObject
+__OBJC_METACLASS_RO_$_BranchUniversalObject
+__OBJC_$_INSTANCE_METHODS_BranchUniversalObject
+_OBJC_IVAR_$_BranchUniversalObject._locallyIndex
+_OBJC_IVAR_$_BranchUniversalObject._publiclyIndex
+_OBJC_IVAR_$_BranchUniversalObject._canonicalIdentifier
+_OBJC_IVAR_$_BranchUniversalObject._canonicalUrl
+_OBJC_IVAR_$_BranchUniversalObject._title
+_OBJC_IVAR_$_BranchUniversalObject._contentDescription
+_OBJC_IVAR_$_BranchUniversalObject._imageUrl
+_OBJC_IVAR_$_BranchUniversalObject._keywords
+_OBJC_IVAR_$_BranchUniversalObject._creationDate
+_OBJC_IVAR_$_BranchUniversalObject._expirationDate
+_OBJC_IVAR_$_BranchUniversalObject._contentMetadata
+_OBJC_IVAR_$_BranchUniversalObject._spotlightIdentifier
+__OBJC_$_INSTANCE_VARIABLES_BranchUniversalObject
+__OBJC_$_PROP_LIST_BranchUniversalObject
+__OBJC_CLASS_RO_$_BranchUniversalObject
+_OBJC_CLASSLIST_REFERENCES_$_.662
+_OBJC_SELECTOR_REFERENCES_.664
+_OBJC_SELECTOR_REFERENCES_.666
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchUniversalObject.m
+Branch-SDK/Branch-SDK/BranchUniversalObject.m
+Branch-SDK/Branch-SDK/BranchUniversalObject.h
+__57-[BranchUniversalObject removeFromSpotlightWithCallback:]_block_invoke
+__68-[BranchUniversalObject listOnSpotlightWithLinkProperties:callback:]_block_invoke
+__copy_helper_block_e4_20b
+__53-[BranchUniversalObject listOnSpotlightWithCallback:]_block_invoke
+__destroy_helper_block_e4_20s24s28s
+__copy_helper_block_e4_20s24b28b
+__130-[BranchUniversalObject showShareSheetWithLinkProperties:andShareText:fromViewController:anchor:completion:orCompletionWithError:]_block_invoke
+BNCLocalizedString
+Branch-SDK/Branch-SDK/BNCLocalization.h
+-[BNCDeviceSystem init]
+-[BNCDeviceSystem loadSystemInformation]
+-[BNCDeviceSystem systemInformationForName:]
+-[BNCDeviceSystem loadCPUTypeInfo]
+-[BNCDeviceSystem systemBuildVersion]
+-[BNCDeviceSystem setSystemBuildVersion:]
+-[BNCDeviceSystem machine]
+-[BNCDeviceSystem setMachine:]
+-[BNCDeviceSystem cpuType]
+-[BNCDeviceSystem setCpuType:]
+-[BNCDeviceSystem cpuSubType]
+-[BNCDeviceSystem setCpuSubType:]
+-[BNCDeviceSystem .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.18
+__OBJC_METACLASS_RO_$_BNCDeviceSystem
+__OBJC_$_INSTANCE_METHODS_BNCDeviceSystem
+_OBJC_IVAR_$_BNCDeviceSystem._systemBuildVersion
+_OBJC_IVAR_$_BNCDeviceSystem._machine
+_OBJC_IVAR_$_BNCDeviceSystem._cpuType
+_OBJC_IVAR_$_BNCDeviceSystem._cpuSubType
+__OBJC_$_INSTANCE_VARIABLES_BNCDeviceSystem
+__OBJC_$_PROP_LIST_BNCDeviceSystem
+__OBJC_CLASS_RO_$_BNCDeviceSystem
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCDeviceSystem.m
+Branch-SDK/Branch-SDK/BNCDeviceSystem.m
+Branch-SDK/Branch-SDK/BNCDeviceSystem.h
+-[BranchUserCompletedActionRequest initWithAction:state:]
+-[BranchUserCompletedActionRequest makeRequest:key:callback:]
+-[BranchUserCompletedActionRequest processResponse:error:]
+-[BranchUserCompletedActionRequest initWithCoder:]
+-[BranchUserCompletedActionRequest encodeWithCoder:]
+-[BranchUserCompletedActionRequest action]
+-[BranchUserCompletedActionRequest setAction:]
+-[BranchUserCompletedActionRequest state]
+-[BranchUserCompletedActionRequest setState:]
+-[BranchUserCompletedActionRequest .cxx_destruct]
+_OBJC_IVAR_$_BranchUserCompletedActionRequest._action
+_OBJC_IVAR_$_BranchUserCompletedActionRequest._state
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_SELECTOR_REFERENCES_.44
+__OBJC_METACLASS_RO_$_BranchUserCompletedActionRequest
+__OBJC_$_INSTANCE_METHODS_BranchUserCompletedActionRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchUserCompletedActionRequest
+__OBJC_$_PROP_LIST_BranchUserCompletedActionRequest
+__OBJC_CLASS_RO_$_BranchUserCompletedActionRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchUserCompletedActionRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchUserCompletedActionRequest.m
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCAvailability.m
+-[BNCLocale country]
+-[BNCLocale countryOS10]
+-[BNCLocale countryOS8]
+-[BNCLocale language]
+-[BNCLocale languageOS10]
+-[BNCLocale languageOS9]
+-[BNCLocale languageOS8]
+___clang_at_available_requires_core_foundation_framework
+___clang_at_available_requires_core_foundation_framework.cold.1
+_OBJC_SELECTOR_REFERENCES_.32
+__OBJC_METACLASS_RO_$_BNCLocale
+__OBJC_$_INSTANCE_METHODS_BNCLocale
+__OBJC_CLASS_RO_$_BNCLocale
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCLocale.m
+Branch-SDK/Branch-SDK/BNCLocale.m
+-[BranchInstallRequest initWithCallback:]
+-[BranchInstallRequest makeRequest:key:callback:]
+-[BranchInstallRequest getActionName]
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_CLASSLIST_REFERENCES_$_.6
+_OBJC_CLASSLIST_REFERENCES_$_.30
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_CLASSLIST_REFERENCES_$_.50
+__OBJC_METACLASS_RO_$_BranchInstallRequest
+__OBJC_$_INSTANCE_METHODS_BranchInstallRequest
+__OBJC_CLASS_RO_$_BranchInstallRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchInstallRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchInstallRequest.m
+-[BNCServerInterface init]
+-[BNCServerInterface dealloc]
+-[BNCServerInterface getRequest:url:key:callback:]
+-[BNCServerInterface getRequest:url:key:retryNumber:callback:]
+___62-[BNCServerInterface getRequest:url:key:retryNumber:callback:]_block_invoke
+___copy_helper_block_e4_20s24s28s32s
+___destroy_helper_block_e4_20s24s28s32s
+-[BNCServerInterface postRequest:url:key:callback:]
+-[BNCServerInterface isV2APIURL:]
+-[BNCServerInterface isV2APIURL:baseURL:]
+-[BNCServerInterface isNewV1API:]
+-[BNCServerInterface buildExtendedParametersForURL:withPostDictionary:]
+-[BNCServerInterface postRequest:url:retryNumber:key:callback:]
+___63-[BNCServerInterface postRequest:url:retryNumber:key:callback:]_block_invoke
+-[BNCServerInterface postRequestSynchronous:url:key:]
+-[BNCServerInterface genericHTTPRequest:callback:]
+___50-[BNCServerInterface genericHTTPRequest:callback:]_block_invoke
+-[BNCServerInterface genericHTTPRequest:retryNumber:callback:retryHandler:]
+___75-[BNCServerInterface genericHTTPRequest:retryNumber:callback:retryHandler:]_block_invoke
+___75-[BNCServerInterface genericHTTPRequest:retryNumber:callback:retryHandler:]_block_invoke_2
+___copy_helper_block_e4_20b24s28s32b
+___copy_helper_block_e4_20s24b28s32b
+-[BNCServerInterface whiteListContainsEndpoint:]
+-[BNCServerInterface verifyNetworkOperation:]
+-[BNCServerInterface genericHTTPRequestSynchronous:]
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___52-[BNCServerInterface genericHTTPRequestSynchronous:]_block_invoke
+___copy_helper_block_e4_20s24s28r
+___destroy_helper_block_e4_20s24s28r
+-[BNCServerInterface prepareGetRequest:url:key:retryNumber:]
+-[BNCServerInterface preparePostRequest:url:key:retryNumber:]
+-[BNCServerInterface prepareParamDict:key:retryNumber:requestType:]
+-[BNCServerInterface processServerResponse:data:error:]
+-[BNCServerInterface collectInstrumentationMetricsWithOperation:]
+-[BNCServerInterface updateDeviceInfoToMutableDictionary:]
+-[BNCServerInterface updateDeviceInfoToParams:]
+-[BNCServerInterface safeSetValue:forKey:onDict:]
+-[BNCServerInterface preferenceHelper]
+-[BNCServerInterface setPreferenceHelper:]
+-[BNCServerInterface requestEndpoint]
+-[BNCServerInterface setRequestEndpoint:]
+-[BNCServerInterface networkService]
+-[BNCServerInterface setNetworkService:]
+-[BNCServerInterface .cxx_destruct]
+___block_descriptor_36_e4_20s24s28s32s_e21_"NSURLRequest"8?0i4l
+_OBJC_CLASSLIST_REFERENCES_$_.33
+___block_descriptor_24_e4_20s_e21_"NSURLRequest"8?0i4l
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.94
+___block_descriptor_40_e4_20bs24s28s32bs_e5_v4?0l
+_OBJC_CLASSLIST_REFERENCES_$_.96
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.114
+___block_descriptor_40_e4_20s24bs28s32bs_e38_v8?0"<BNCNetworkOperationProtocol>"4l
+_OBJC_CLASSLIST_REFERENCES_$_.124
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.150
+__OBJC_$_PROTOCOL_REFS_BNCNetworkOperationProtocol
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_BNCNetworkOperationProtocol
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_BNCNetworkOperationProtocol
+__OBJC_$_PROP_LIST_BNCNetworkOperationProtocol
+__OBJC_$_PROTOCOL_METHOD_TYPES_BNCNetworkOperationProtocol
+__OBJC_PROTOCOL_$_BNCNetworkOperationProtocol
+__OBJC_LABEL_PROTOCOL_$_BNCNetworkOperationProtocol
+__OBJC_PROTOCOL_REFERENCE_$_BNCNetworkOperationProtocol
+___block_descriptor_32_e4_20s24s28r_e38_v8?0"<BNCNetworkOperationProtocol>"4l
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_CLASSLIST_REFERENCES_$_.241
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_CLASSLIST_REFERENCES_$_.246
+_OBJC_CLASSLIST_REFERENCES_$_.247
+_OBJC_SELECTOR_REFERENCES_.249
+_OBJC_SELECTOR_REFERENCES_.251
+_OBJC_SELECTOR_REFERENCES_.253
+_OBJC_SELECTOR_REFERENCES_.261
+_OBJC_SELECTOR_REFERENCES_.295
+_OBJC_SELECTOR_REFERENCES_.303
+_OBJC_SELECTOR_REFERENCES_.307
+_OBJC_SELECTOR_REFERENCES_.309
+_OBJC_CLASSLIST_REFERENCES_$_.312
+_OBJC_SELECTOR_REFERENCES_.314
+_OBJC_SELECTOR_REFERENCES_.316
+_OBJC_CLASSLIST_REFERENCES_$_.319
+_OBJC_SELECTOR_REFERENCES_.321
+_OBJC_SELECTOR_REFERENCES_.325
+_OBJC_SELECTOR_REFERENCES_.331
+_OBJC_SELECTOR_REFERENCES_.333
+_OBJC_CLASSLIST_REFERENCES_$_.338
+_OBJC_SELECTOR_REFERENCES_.340
+_OBJC_SELECTOR_REFERENCES_.342
+_OBJC_SELECTOR_REFERENCES_.344
+_OBJC_SELECTOR_REFERENCES_.346
+_OBJC_SELECTOR_REFERENCES_.351
+_OBJC_SELECTOR_REFERENCES_.367
+_OBJC_SELECTOR_REFERENCES_.369
+_OBJC_SELECTOR_REFERENCES_.371
+_OBJC_SELECTOR_REFERENCES_.373
+_OBJC_SELECTOR_REFERENCES_.375
+_OBJC_SELECTOR_REFERENCES_.377
+_OBJC_SELECTOR_REFERENCES_.391
+_OBJC_SELECTOR_REFERENCES_.395
+_OBJC_SELECTOR_REFERENCES_.419
+_OBJC_SELECTOR_REFERENCES_.423
+_OBJC_SELECTOR_REFERENCES_.425
+_OBJC_SELECTOR_REFERENCES_.439
+__OBJC_METACLASS_RO_$_BNCServerInterface
+__OBJC_$_INSTANCE_METHODS_BNCServerInterface
+_OBJC_IVAR_$_BNCServerInterface._preferenceHelper
+_OBJC_IVAR_$_BNCServerInterface._requestEndpoint
+_OBJC_IVAR_$_BNCServerInterface._networkService
+__OBJC_$_INSTANCE_VARIABLES_BNCServerInterface
+__OBJC_$_PROP_LIST_BNCServerInterface
+__OBJC_CLASS_RO_$_BNCServerInterface
+_OBJC_CLASSLIST_REFERENCES_$_.486
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/BNCServerInterface.m
+Branch-SDK/Branch-SDK/Networking/BNCServerInterface.m
+Branch-SDK/Branch-SDK/Networking/BNCServerInterface.h
+__destroy_helper_block_e4_20s24s28r
+__copy_helper_block_e4_20s24s28r
+__52-[BNCServerInterface genericHTTPRequestSynchronous:]_block_invoke
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+__copy_helper_block_e4_20s24b28s32b
+__copy_helper_block_e4_20b24s28s32b
+__75-[BNCServerInterface genericHTTPRequest:retryNumber:callback:retryHandler:]_block_invoke_2
+__75-[BNCServerInterface genericHTTPRequest:retryNumber:callback:retryHandler:]_block_invoke
+__50-[BNCServerInterface genericHTTPRequest:callback:]_block_invoke
+__63-[BNCServerInterface postRequest:url:retryNumber:key:callback:]_block_invoke
+__destroy_helper_block_e4_20s24s28s32s
+__copy_helper_block_e4_20s24s28s32s
+__62-[BNCServerInterface getRequest:url:key:retryNumber:callback:]_block_invoke
++[BNCAppleReceipt sharedInstance]
+___33+[BNCAppleReceipt sharedInstance]_block_invoke
+-[BNCAppleReceipt init]
+-[BNCAppleReceipt readReceipt]
+-[BNCAppleReceipt installReceipt]
+-[BNCAppleReceipt isTestFlight]
+-[BNCAppleReceipt receipt]
+-[BNCAppleReceipt setReceipt:]
+-[BNCAppleReceipt isSandboxReceipt]
+-[BNCAppleReceipt setIsSandboxReceipt:]
+-[BNCAppleReceipt .cxx_destruct]
+_sharedInstance.singleton
+_sharedInstance.onceToken
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+__OBJC_$_CLASS_METHODS_BNCAppleReceipt
+__OBJC_METACLASS_RO_$_BNCAppleReceipt
+__OBJC_$_INSTANCE_METHODS_BNCAppleReceipt
+_OBJC_IVAR_$_BNCAppleReceipt._isSandboxReceipt
+_OBJC_IVAR_$_BNCAppleReceipt._receipt
+__OBJC_$_INSTANCE_VARIABLES_BNCAppleReceipt
+__OBJC_$_PROP_LIST_BNCAppleReceipt
+__OBJC_CLASS_RO_$_BNCAppleReceipt
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCAppleReceipt.m
+Branch-SDK/Branch-SDK/BNCAppleReceipt.m
+__33+[BNCAppleReceipt sharedInstance]_block_invoke
++[BNCTuneUtility isTuneDataPresent]
+___35+[BNCTuneUtility isTuneDataPresent]_block_invoke
+_isTuneDataPresent.isPresent
+_isTuneDataPresent.onceToken
+_OBJC_SELECTOR_REFERENCES_.3
+__OBJC_$_CLASS_METHODS_BNCTuneUtility
+__OBJC_METACLASS_RO_$_BNCTuneUtility
+__OBJC_CLASS_RO_$_BNCTuneUtility
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCTuneUtility.m
+__35+[BNCTuneUtility isTuneDataPresent]_block_invoke
+Branch-SDK/Branch-SDK/BNCTuneUtility.m
+-[BNCNetworkOperation start]
+-[BNCNetworkOperation cancel]
+-[BNCNetworkOperation stringFromResponseData]
+-[BNCNetworkOperation request]
+-[BNCNetworkOperation setRequest:]
+-[BNCNetworkOperation response]
+-[BNCNetworkOperation setResponse:]
+-[BNCNetworkOperation responseData]
+-[BNCNetworkOperation setResponseData:]
+-[BNCNetworkOperation error]
+-[BNCNetworkOperation setError:]
+-[BNCNetworkOperation startDate]
+-[BNCNetworkOperation setStartDate:]
+-[BNCNetworkOperation timeoutDate]
+-[BNCNetworkOperation setTimeoutDate:]
+-[BNCNetworkOperation userInfo]
+-[BNCNetworkOperation setUserInfo:]
+-[BNCNetworkOperation networkService]
+-[BNCNetworkOperation setNetworkService:]
+-[BNCNetworkOperation sessionTask]
+-[BNCNetworkOperation setSessionTask:]
+-[BNCNetworkOperation completionBlock]
+-[BNCNetworkOperation setCompletionBlock:]
+-[BNCNetworkOperation .cxx_destruct]
++[BNCNetworkService new]
+-[BNCNetworkService init]
+-[BNCNetworkService setDefaultTimeoutInterval:]
+-[BNCNetworkService defaultTimeoutInterval]
+-[BNCNetworkService setMaximumConcurrentOperations:]
+-[BNCNetworkService maximumConcurrentOperations]
+-[BNCNetworkService session]
+-[BNCNetworkService setSuspendOperations:]
+-[BNCNetworkService operationsAreSuspended]
+-[BNCNetworkService networkOperationWithURLRequest:completion:]
+-[BNCNetworkService startOperation:]
+___36-[BNCNetworkService startOperation:]_block_invoke
+-[BNCNetworkService cancelAllOperations]
+-[BNCNetworkService userInfo]
+-[BNCNetworkService setUserInfo:]
+-[BNCNetworkService sessionQueue]
+-[BNCNetworkService setSessionQueue:]
+-[BNCNetworkService .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.13
+__OBJC_CLASS_PROTOCOLS_$_BNCNetworkOperation
+__OBJC_METACLASS_RO_$_BNCNetworkOperation
+__OBJC_$_INSTANCE_METHODS_BNCNetworkOperation
+_OBJC_IVAR_$_BNCNetworkOperation._request
+_OBJC_IVAR_$_BNCNetworkOperation._response
+_OBJC_IVAR_$_BNCNetworkOperation._responseData
+_OBJC_IVAR_$_BNCNetworkOperation._error
+_OBJC_IVAR_$_BNCNetworkOperation._startDate
+_OBJC_IVAR_$_BNCNetworkOperation._timeoutDate
+_OBJC_IVAR_$_BNCNetworkOperation._userInfo
+_OBJC_IVAR_$_BNCNetworkOperation._networkService
+_OBJC_IVAR_$_BNCNetworkOperation._sessionTask
+_OBJC_IVAR_$_BNCNetworkOperation._completionBlock
+__OBJC_$_INSTANCE_VARIABLES_BNCNetworkOperation
+__OBJC_$_PROP_LIST_BNCNetworkOperation
+__OBJC_CLASS_RO_$_BNCNetworkOperation
+_OBJC_CLASSLIST_REFERENCES_$_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_CLASSLIST_REFERENCES_$_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_CLASSLIST_REFERENCES_$_.179
+_OBJC_CLASSLIST_REFERENCES_$_.180
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_CLASSLIST_REFERENCES_$_.188
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_SELECTOR_REFERENCES_.193
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_SELECTOR_REFERENCES_.207
+___block_descriptor_24_e4_20s_e45_v16?0"NSData"4"NSURLResponse"8"NSError"12l
+_OBJC_SELECTOR_REFERENCES_.231
+__OBJC_$_CLASS_METHODS_BNCNetworkService
+__OBJC_$_PROTOCOL_REFS_BNCNetworkServiceProtocol
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_BNCNetworkServiceProtocol
+__OBJC_$_PROTOCOL_CLASS_METHODS_BNCNetworkServiceProtocol
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_BNCNetworkServiceProtocol
+__OBJC_$_PROP_LIST_BNCNetworkServiceProtocol
+__OBJC_$_PROTOCOL_METHOD_TYPES_BNCNetworkServiceProtocol
+__OBJC_PROTOCOL_$_BNCNetworkServiceProtocol
+__OBJC_LABEL_PROTOCOL_$_BNCNetworkServiceProtocol
+__OBJC_$_PROTOCOL_REFS_NSURLSessionDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSURLSessionDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSURLSessionDelegate
+__OBJC_PROTOCOL_$_NSURLSessionDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLSessionDelegate
+__OBJC_CLASS_PROTOCOLS_$_BNCNetworkService
+__OBJC_METACLASS_RO_$_BNCNetworkService
+__OBJC_$_INSTANCE_METHODS_BNCNetworkService
+_OBJC_IVAR_$_BNCNetworkService._session
+_OBJC_IVAR_$_BNCNetworkService._defaultTimeoutInterval
+_OBJC_IVAR_$_BNCNetworkService._maximumConcurrentOperations
+_OBJC_IVAR_$_BNCNetworkService._userInfo
+_OBJC_IVAR_$_BNCNetworkService._sessionQueue
+__OBJC_$_INSTANCE_VARIABLES_BNCNetworkService
+__OBJC_$_PROP_LIST_BNCNetworkService
+__OBJC_CLASS_RO_$_BNCNetworkService
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/BNCNetworkService.m
+Branch-SDK/Branch-SDK/Networking/BNCNetworkService.m
+Branch-SDK/Branch-SDK/Networking/BNCNetworkService.h
+__36-[BNCNetworkService startOperation:]_block_invoke
+-[BNCNetworkInterface description]
++[BNCNetworkInterface currentInterfaces]
++[BNCNetworkInterface localIPAddress]
++[BNCNetworkInterface allIPAddresses]
+-[BNCNetworkInterface interfaceName]
+-[BNCNetworkInterface setInterfaceName:]
+-[BNCNetworkInterface addressType]
+-[BNCNetworkInterface setAddressType:]
+-[BNCNetworkInterface address]
+-[BNCNetworkInterface setAddress:]
+-[BNCNetworkInterface .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_CLASSLIST_REFERENCES_$_.15
+__OBJC_$_CLASS_METHODS_BNCNetworkInterface
+__OBJC_METACLASS_RO_$_BNCNetworkInterface
+__OBJC_$_INSTANCE_METHODS_BNCNetworkInterface
+_OBJC_IVAR_$_BNCNetworkInterface._interfaceName
+_OBJC_IVAR_$_BNCNetworkInterface._addressType
+_OBJC_IVAR_$_BNCNetworkInterface._address
+__OBJC_$_INSTANCE_VARIABLES_BNCNetworkInterface
+__OBJC_$_PROP_LIST_BNCNetworkInterface
+__OBJC_CLASS_RO_$_BNCNetworkInterface
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCNetworkInterface.m
+Branch-SDK/Branch-SDK/BNCNetworkInterface.m
+-[BranchCPIDRequest serverURL]
+-[BranchCPIDRequest buildRequestParams]
+-[BranchCPIDRequest makeRequest:key:callback:]
+-[BranchCPIDRequest processResponse:error:]
+_OBJC_SELECTOR_REFERENCES_.7
+__OBJC_METACLASS_RO_$_BranchCPIDRequest
+__OBJC_$_INSTANCE_METHODS_BranchCPIDRequest
+__OBJC_CLASS_RO_$_BranchCPIDRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchCPIDRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchCPIDRequest.m
+-[BranchLATDRequest init]
+-[BranchLATDRequest serverURL]
+-[BranchLATDRequest buildRequestParams]
+-[BranchLATDRequest makeRequest:key:callback:]
+-[BranchLATDRequest processResponse:error:]
+-[BranchLATDRequest attributionWindow]
+-[BranchLATDRequest setAttributionWindow:]
+_OBJC_IVAR_$_BranchLATDRequest._attributionWindow
+__OBJC_METACLASS_RO_$_BranchLATDRequest
+__OBJC_$_INSTANCE_METHODS_BranchLATDRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchLATDRequest
+__OBJC_$_PROP_LIST_BranchLATDRequest
+__OBJC_CLASS_RO_$_BranchLATDRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchLATDRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchLATDRequest.h
+Branch-SDK/Branch-SDK/Networking/Requests/BranchLATDRequest.m
++[BNCAppleSearchAds sharedInstance]
+___35+[BNCAppleSearchAds sharedInstance]_block_invoke
+-[BNCAppleSearchAds init]
+-[BNCAppleSearchAds useDefaultAppleSearchAdsConfig]
+-[BNCAppleSearchAds useLongWaitAppleSearchAdsConfig]
+-[BNCAppleSearchAds isSearchAdsErrorRetryable:]
+-[BNCAppleSearchAds saveToPreferences:attributionDetails:error:elapsedSeconds:]
+-[BNCAppleSearchAds isAppleSearchAdSavedToDictionary:]
+-[BNCAppleSearchAds isDateWithinWindow:]
+-[BNCAppleSearchAds isAppleTestData:]
+-[BNCAppleSearchAds checkAppleSearchAdsSaveTo:installDate:completion:]
+___70-[BNCAppleSearchAds checkAppleSearchAdsSaveTo:installDate:completion:]_block_invoke
+___copy_helper_block_e4_20s24s28b
+-[BNCAppleSearchAds requestAttributionWithMaxAttempts:completion:]
+___66-[BNCAppleSearchAds requestAttributionWithMaxAttempts:completion:]_block_invoke
+___copy_helper_block_e4_20s24b28r32r
+___destroy_helper_block_e4_20s24s28r32r
+-[BNCAppleSearchAds requestAttributionWithCompletion:]
+___54-[BNCAppleSearchAds requestAttributionWithCompletion:]_block_invoke
+___54-[BNCAppleSearchAds requestAttributionWithCompletion:]_block_invoke.108
+___copy_helper_block_e4_20b24r28r32r
+___destroy_helper_block_e4_20s24r28r32r
+___54-[BNCAppleSearchAds requestAttributionWithCompletion:]_block_invoke.116
+___copy_helper_block_e4_20s24b
+-[BNCAppleSearchAds enableAppleSearchAdsCheck]
+-[BNCAppleSearchAds setEnableAppleSearchAdsCheck:]
+-[BNCAppleSearchAds ignoreAppleTestData]
+-[BNCAppleSearchAds setIgnoreAppleTestData:]
+-[BNCAppleSearchAds adClient]
+-[BNCAppleSearchAds setAdClient:]
+-[BNCAppleSearchAds maxAttempts]
+-[BNCAppleSearchAds setMaxAttempts:]
+-[BNCAppleSearchAds delay]
+-[BNCAppleSearchAds setDelay:]
+-[BNCAppleSearchAds timeOut]
+-[BNCAppleSearchAds setTimeOut:]
+-[BNCAppleSearchAds .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_CLASSLIST_REFERENCES_$_.53
+___block_descriptor_32_e4_20s24s28bs_e36_v20?0"NSDictionary"4"NSError"8d12l
+_OBJC_SELECTOR_REFERENCES_.102
+___block_descriptor_40_e4_20s24bs28r32r_e36_v20?0"NSDictionary"4"NSError"8d12l
+_OBJC_CLASSLIST_REFERENCES_$_.105
+___block_descriptor_36_e4_20bs24r28r32r_e33_v12?0"NSDictionary"4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_CLASSLIST_REFERENCES_$_.117
+___block_descriptor_36_e4_20bs24r28r32r_e5_v4?0l
+___block_descriptor_28_e4_20s24bs_e5_v4?0l
+__OBJC_$_CLASS_METHODS_BNCAppleSearchAds
+__OBJC_METACLASS_RO_$_BNCAppleSearchAds
+__OBJC_$_INSTANCE_METHODS_BNCAppleSearchAds
+_OBJC_IVAR_$_BNCAppleSearchAds._enableAppleSearchAdsCheck
+_OBJC_IVAR_$_BNCAppleSearchAds._ignoreAppleTestData
+_OBJC_IVAR_$_BNCAppleSearchAds._adClient
+_OBJC_IVAR_$_BNCAppleSearchAds._maxAttempts
+_OBJC_IVAR_$_BNCAppleSearchAds._delay
+_OBJC_IVAR_$_BNCAppleSearchAds._timeOut
+__OBJC_$_INSTANCE_VARIABLES_BNCAppleSearchAds
+__OBJC_$_PROP_LIST_BNCAppleSearchAds
+__OBJC_CLASS_RO_$_BNCAppleSearchAds
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCAppleSearchAds.m
+Branch-SDK/Branch-SDK/BNCAppleSearchAds.m
+Branch-SDK/Branch-SDK/BNCAppleSearchAds.h
+__copy_helper_block_e4_20s24b
+__54-[BNCAppleSearchAds requestAttributionWithCompletion:]_block_invoke.116
+__destroy_helper_block_e4_20s24r28r32r
+__copy_helper_block_e4_20b24r28r32r
+__54-[BNCAppleSearchAds requestAttributionWithCompletion:]_block_invoke.108
+__54-[BNCAppleSearchAds requestAttributionWithCompletion:]_block_invoke
+__destroy_helper_block_e4_20s24s28r32r
+__copy_helper_block_e4_20s24b28r32r
+__66-[BNCAppleSearchAds requestAttributionWithMaxAttempts:completion:]_block_invoke
+__copy_helper_block_e4_20s24s28b
+__70-[BNCAppleSearchAds checkAppleSearchAdsSaveTo:installDate:completion:]_block_invoke
+__35+[BNCAppleSearchAds sharedInstance]_block_invoke
++[BNCKeyChain errorWithKey:OSStatus:]
++[BNCKeyChain retieveAllValuesWithError:]
++[BNCKeyChain retrieveValueForService:key:error:]
++[BNCKeyChain storeValue:forService:key:cloudAccessGroup:]
++[BNCKeyChain removeValuesForService:key:]
++[BNCKeyChain securityAccessGroup]
+_OBJC_CLASSLIST_REFERENCES_$_.4
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_CLASSLIST_REFERENCES_$_.26
+_OBJC_CLASSLIST_REFERENCES_$_.34
+_securityAccessGroup._securityAccessGroup
+__OBJC_$_CLASS_METHODS_BNCKeyChain
+__OBJC_METACLASS_RO_$_BNCKeyChain
+__OBJC_CLASS_RO_$_BNCKeyChain
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCKeyChain.m
+Branch-SDK/Branch-SDK/BNCKeyChain.m
+SecCopyErrorMessageString
+-[BNCServerRequestQueue init]
+-[BNCServerRequestQueue dealloc]
+-[BNCServerRequestQueue enqueue:]
+-[BNCServerRequestQueue insert:at:]
+-[BNCServerRequestQueue dequeue]
+-[BNCServerRequestQueue removeAt:]
+-[BNCServerRequestQueue remove:]
+-[BNCServerRequestQueue peek]
+-[BNCServerRequestQueue peekAt:]
+-[BNCServerRequestQueue queueDepth]
+-[BNCServerRequestQueue description]
+-[BNCServerRequestQueue clearQueue]
+-[BNCServerRequestQueue containsInstallOrOpen]
+-[BNCServerRequestQueue removeInstallOrOpen]
+-[BNCServerRequestQueue moveInstallOrOpenToFront:]
+-[BNCServerRequestQueue containsClose]
+-[BNCServerRequestQueue persistEventually]
+___42-[BNCServerRequestQueue persistEventually]_block_invoke
+___copy_helper_block_e4_20w
+___destroy_helper_block_e4_20w
+-[BNCServerRequestQueue cancelTimer]
+-[BNCServerRequestQueue persistImmediately]
+-[BNCServerRequestQueue isDirty]
+-[BNCServerRequestQueue retrieve]
++[BNCServerRequestQueue exceptionString:]
++[BNCServerRequestQueue queueFile_deprecated]
++[BNCServerRequestQueue URLForQueueFile]
++[BNCServerRequestQueue moveOldQueueFile]
++[BNCServerRequestQueue initialize]
++[BNCServerRequestQueue getInstance]
+___36+[BNCServerRequestQueue getInstance]_block_invoke
+-[BNCServerRequestQueue queue]
+-[BNCServerRequestQueue setQueue:]
+-[BNCServerRequestQueue asyncQueue]
+-[BNCServerRequestQueue setAsyncQueue:]
+-[BNCServerRequestQueue persistTimer]
+-[BNCServerRequestQueue setPersistTimer:]
+-[BNCServerRequestQueue .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_CLASSLIST_REFERENCES_$_.58
+___block_descriptor_24_e4_20w_e5_v4?0l
+_OBJC_CLASSLIST_REFERENCES_$_.68
+_OBJC_CLASSLIST_REFERENCES_$_.83
+_OBJC_CLASSLIST_REFERENCES_$_.92
+_OBJC_CLASSLIST_REFERENCES_$_.95
+_OBJC_CLASSLIST_REFERENCES_$_.98
+_OBJC_CLASSLIST_REFERENCES_$_.107
+_OBJC_CLASSLIST_REFERENCES_$_.110
+_OBJC_CLASSLIST_REFERENCES_$_.145
+_getInstance.sharedQueue
+__OBJC_$_CLASS_METHODS_BNCServerRequestQueue
+__OBJC_METACLASS_RO_$_BNCServerRequestQueue
+__OBJC_$_INSTANCE_METHODS_BNCServerRequestQueue
+_OBJC_IVAR_$_BNCServerRequestQueue._queue
+_OBJC_IVAR_$_BNCServerRequestQueue._asyncQueue
+_OBJC_IVAR_$_BNCServerRequestQueue._persistTimer
+__OBJC_$_INSTANCE_VARIABLES_BNCServerRequestQueue
+__OBJC_$_PROP_LIST_BNCServerRequestQueue
+__OBJC_CLASS_RO_$_BNCServerRequestQueue
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/BNCServerRequestQueue.m
+Branch-SDK/Branch-SDK/Networking/BNCServerRequestQueue.m
+__36+[BNCServerRequestQueue getInstance]_block_invoke
+__destroy_helper_block_e4_20w
+__copy_helper_block_e4_20w
+__42-[BNCServerRequestQueue persistEventually]_block_invoke
+-[BNCAppleAdClient init]
+-[BNCAppleAdClient loadAdClient]
+-[BNCAppleAdClient isAdClientAvailable]
+-[BNCAppleAdClient requestAttributionDetailsWithBlock:]
+-[BNCAppleAdClient adClientClass]
+-[BNCAppleAdClient setAdClientClass:]
+-[BNCAppleAdClient adClientSharedClient]
+-[BNCAppleAdClient setAdClientSharedClient:]
+-[BNCAppleAdClient adClientRequestAttribution]
+-[BNCAppleAdClient setAdClientRequestAttribution:]
+-[BNCAppleAdClient adClient]
+-[BNCAppleAdClient setAdClient:]
+-[BNCAppleAdClient .cxx_destruct]
+__OBJC_$_PROTOCOL_REFS_BNCAppleAdClientProtocol
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_BNCAppleAdClientProtocol
+__OBJC_$_PROTOCOL_METHOD_TYPES_BNCAppleAdClientProtocol
+__OBJC_PROTOCOL_$_BNCAppleAdClientProtocol
+__OBJC_LABEL_PROTOCOL_$_BNCAppleAdClientProtocol
+__OBJC_CLASS_PROTOCOLS_$_BNCAppleAdClient
+__OBJC_METACLASS_RO_$_BNCAppleAdClient
+__OBJC_$_INSTANCE_METHODS_BNCAppleAdClient
+_OBJC_IVAR_$_BNCAppleAdClient._adClientClass
+_OBJC_IVAR_$_BNCAppleAdClient._adClientSharedClient
+_OBJC_IVAR_$_BNCAppleAdClient._adClientRequestAttribution
+_OBJC_IVAR_$_BNCAppleAdClient._adClient
+__OBJC_$_INSTANCE_VARIABLES_BNCAppleAdClient
+__OBJC_$_PROP_LIST_BNCAppleAdClient
+__OBJC_CLASS_RO_$_BNCAppleAdClient
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCAppleAdClient.m
+Branch-SDK/Branch-SDK/BNCAppleAdClient.m
+-[BranchLinkProperties controlParams]
+-[BranchLinkProperties addControlParam:withValue:]
++[BranchLinkProperties getBranchLinkPropertiesFromDictionary:]
+-[BranchLinkProperties description]
+-[BranchLinkProperties tags]
+-[BranchLinkProperties setTags:]
+-[BranchLinkProperties feature]
+-[BranchLinkProperties setFeature:]
+-[BranchLinkProperties alias]
+-[BranchLinkProperties setAlias:]
+-[BranchLinkProperties channel]
+-[BranchLinkProperties setChannel:]
+-[BranchLinkProperties stage]
+-[BranchLinkProperties setStage:]
+-[BranchLinkProperties campaign]
+-[BranchLinkProperties setCampaign:]
+-[BranchLinkProperties matchDuration]
+-[BranchLinkProperties setMatchDuration:]
+-[BranchLinkProperties setControlParams:]
+-[BranchLinkProperties .cxx_destruct]
+__OBJC_$_CLASS_METHODS_BranchLinkProperties
+__OBJC_METACLASS_RO_$_BranchLinkProperties
+__OBJC_$_INSTANCE_METHODS_BranchLinkProperties
+_OBJC_IVAR_$_BranchLinkProperties._tags
+_OBJC_IVAR_$_BranchLinkProperties._feature
+_OBJC_IVAR_$_BranchLinkProperties._alias
+_OBJC_IVAR_$_BranchLinkProperties._channel
+_OBJC_IVAR_$_BranchLinkProperties._stage
+_OBJC_IVAR_$_BranchLinkProperties._campaign
+_OBJC_IVAR_$_BranchLinkProperties._matchDuration
+_OBJC_IVAR_$_BranchLinkProperties._controlParams
+__OBJC_$_INSTANCE_VARIABLES_BranchLinkProperties
+__OBJC_$_PROP_LIST_BranchLinkProperties
+__OBJC_CLASS_RO_$_BranchLinkProperties
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchLinkProperties.m
+Branch-SDK/Branch-SDK/BranchLinkProperties.m
+Branch-SDK/Branch-SDK/BranchLinkProperties.h
+-[BranchCloseRequest makeRequest:key:callback:]
+-[BranchCloseRequest processResponse:error:]
+__OBJC_METACLASS_RO_$_BranchCloseRequest
+__OBJC_$_INSTANCE_METHODS_BranchCloseRequest
+__OBJC_CLASS_RO_$_BranchCloseRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchCloseRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchCloseRequest.m
+-[BranchRegisterViewRequest initWithParams:andCallback:]
+-[BranchRegisterViewRequest makeRequest:key:callback:]
+-[BranchRegisterViewRequest processResponse:error:]
+-[BranchRegisterViewRequest initWithCoder:]
+-[BranchRegisterViewRequest encodeWithCoder:]
+-[BranchRegisterViewRequest params]
+-[BranchRegisterViewRequest setParams:]
+-[BranchRegisterViewRequest callback]
+-[BranchRegisterViewRequest setCallback:]
+-[BranchRegisterViewRequest .cxx_destruct]
+_OBJC_IVAR_$_BranchRegisterViewRequest._params
+_OBJC_IVAR_$_BranchRegisterViewRequest._callback
+__OBJC_METACLASS_RO_$_BranchRegisterViewRequest
+__OBJC_$_INSTANCE_METHODS_BranchRegisterViewRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchRegisterViewRequest
+__OBJC_$_PROP_LIST_BranchRegisterViewRequest
+__OBJC_CLASS_RO_$_BranchRegisterViewRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchRegisterViewRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchRegisterViewRequest.m
+-[BranchSetIdentityRequest initWithUserId:callback:]
+-[BranchSetIdentityRequest makeRequest:key:callback:]
+-[BranchSetIdentityRequest processResponse:error:]
+-[BranchSetIdentityRequest initWithCoder:]
+-[BranchSetIdentityRequest encodeWithCoder:]
+-[BranchSetIdentityRequest userId]
+-[BranchSetIdentityRequest setUserId:]
+-[BranchSetIdentityRequest callback]
+-[BranchSetIdentityRequest setCallback:]
+-[BranchSetIdentityRequest shouldCallCallback]
+-[BranchSetIdentityRequest setShouldCallCallback:]
+-[BranchSetIdentityRequest .cxx_destruct]
+_OBJC_IVAR_$_BranchSetIdentityRequest._userId
+_OBJC_IVAR_$_BranchSetIdentityRequest._callback
+_OBJC_IVAR_$_BranchSetIdentityRequest._shouldCallCallback
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_CLASSLIST_REFERENCES_$_.48
+__OBJC_METACLASS_RO_$_BranchSetIdentityRequest
+__OBJC_$_INSTANCE_METHODS_BranchSetIdentityRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchSetIdentityRequest
+__OBJC_$_PROP_LIST_BranchSetIdentityRequest
+__OBJC_CLASS_RO_$_BranchSetIdentityRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchSetIdentityRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchSetIdentityRequest.m
+-[BNCProduct dictionary]
+-[BNCProduct description]
+-[BNCProduct sku]
+-[BNCProduct setSku:]
+-[BNCProduct name]
+-[BNCProduct setName:]
+-[BNCProduct price]
+-[BNCProduct setPrice:]
+-[BNCProduct quantity]
+-[BNCProduct setQuantity:]
+-[BNCProduct brand]
+-[BNCProduct setBrand:]
+-[BNCProduct category]
+-[BNCProduct setCategory:]
+-[BNCProduct variant]
+-[BNCProduct setVariant:]
+-[BNCProduct .cxx_destruct]
+-[BNCCommerceEvent dictionary]
+-[BNCCommerceEvent description]
+-[BNCCommerceEvent revenue]
+-[BNCCommerceEvent setRevenue:]
+-[BNCCommerceEvent currency]
+-[BNCCommerceEvent setCurrency:]
+-[BNCCommerceEvent transactionID]
+-[BNCCommerceEvent setTransactionID:]
+-[BNCCommerceEvent shipping]
+-[BNCCommerceEvent setShipping:]
+-[BNCCommerceEvent tax]
+-[BNCCommerceEvent setTax:]
+-[BNCCommerceEvent coupon]
+-[BNCCommerceEvent setCoupon:]
+-[BNCCommerceEvent affiliation]
+-[BNCCommerceEvent setAffiliation:]
+-[BNCCommerceEvent products]
+-[BNCCommerceEvent setProducts:]
+-[BNCCommerceEvent .cxx_destruct]
+-[BranchCommerceEventRequest initWithCommerceEvent:metadata:completion:]
+-[BranchCommerceEventRequest makeRequest:key:callback:]
+-[BranchCommerceEventRequest processResponse:error:]
+-[BranchCommerceEventRequest initWithCoder:]
+-[BranchCommerceEventRequest encodeWithCoder:]
++[BranchCommerceEventRequest supportsSecureCoding]
+-[BranchCommerceEventRequest commerceDictionary]
+-[BranchCommerceEventRequest setCommerceDictionary:]
+-[BranchCommerceEventRequest metadata]
+-[BranchCommerceEventRequest setMetadata:]
+-[BranchCommerceEventRequest completion]
+-[BranchCommerceEventRequest setCompletion:]
+-[BranchCommerceEventRequest .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.427
+_OBJC_CLASSLIST_REFERENCES_$_.430
+_OBJC_SELECTOR_REFERENCES_.434
+__OBJC_METACLASS_RO_$_BNCProduct
+__OBJC_$_INSTANCE_METHODS_BNCProduct
+_OBJC_IVAR_$_BNCProduct._sku
+_OBJC_IVAR_$_BNCProduct._name
+_OBJC_IVAR_$_BNCProduct._price
+_OBJC_IVAR_$_BNCProduct._quantity
+_OBJC_IVAR_$_BNCProduct._brand
+_OBJC_IVAR_$_BNCProduct._category
+_OBJC_IVAR_$_BNCProduct._variant
+__OBJC_$_INSTANCE_VARIABLES_BNCProduct
+__OBJC_$_PROP_LIST_BNCProduct
+__OBJC_CLASS_RO_$_BNCProduct
+_OBJC_SELECTOR_REFERENCES_.471
+_OBJC_SELECTOR_REFERENCES_.475
+_OBJC_SELECTOR_REFERENCES_.479
+_OBJC_SELECTOR_REFERENCES_.483
+_OBJC_SELECTOR_REFERENCES_.487
+_OBJC_SELECTOR_REFERENCES_.491
+_OBJC_SELECTOR_REFERENCES_.495
+_OBJC_CLASSLIST_REFERENCES_$_.498
+_OBJC_SELECTOR_REFERENCES_.500
+_OBJC_SELECTOR_REFERENCES_.502
+__OBJC_METACLASS_RO_$_BNCCommerceEvent
+__OBJC_$_INSTANCE_METHODS_BNCCommerceEvent
+_OBJC_IVAR_$_BNCCommerceEvent._revenue
+_OBJC_IVAR_$_BNCCommerceEvent._currency
+_OBJC_IVAR_$_BNCCommerceEvent._transactionID
+_OBJC_IVAR_$_BNCCommerceEvent._shipping
+_OBJC_IVAR_$_BNCCommerceEvent._tax
+_OBJC_IVAR_$_BNCCommerceEvent._coupon
+_OBJC_IVAR_$_BNCCommerceEvent._affiliation
+_OBJC_IVAR_$_BNCCommerceEvent._products
+__OBJC_$_INSTANCE_VARIABLES_BNCCommerceEvent
+__OBJC_$_PROP_LIST_BNCCommerceEvent
+__OBJC_CLASS_RO_$_BNCCommerceEvent
+_OBJC_SELECTOR_REFERENCES_.549
+_OBJC_CLASSLIST_REFERENCES_$_.550
+_OBJC_SELECTOR_REFERENCES_.554
+_OBJC_SELECTOR_REFERENCES_.559
+_OBJC_CLASSLIST_REFERENCES_$_.564
+_OBJC_SELECTOR_REFERENCES_.566
+_OBJC_SELECTOR_REFERENCES_.570
+_OBJC_SELECTOR_REFERENCES_.572
+_OBJC_SELECTOR_REFERENCES_.574
+_OBJC_SELECTOR_REFERENCES_.576
+_OBJC_SELECTOR_REFERENCES_.580
+_OBJC_SELECTOR_REFERENCES_.584
+_OBJC_SELECTOR_REFERENCES_.588
+_OBJC_SELECTOR_REFERENCES_.590
+_OBJC_SELECTOR_REFERENCES_.592
+_OBJC_CLASSLIST_REFERENCES_$_.593
+_OBJC_SELECTOR_REFERENCES_.595
+_OBJC_SELECTOR_REFERENCES_.597
+_OBJC_SELECTOR_REFERENCES_.599
+_OBJC_SELECTOR_REFERENCES_.601
+_OBJC_SELECTOR_REFERENCES_.605
+_OBJC_SELECTOR_REFERENCES_.607
+_OBJC_SELECTOR_REFERENCES_.609
+_OBJC_IVAR_$_BranchCommerceEventRequest._commerceDictionary
+_OBJC_IVAR_$_BranchCommerceEventRequest._metadata
+_OBJC_IVAR_$_BranchCommerceEventRequest._completion
+__OBJC_$_CLASS_METHODS_BranchCommerceEventRequest
+__OBJC_CLASS_PROTOCOLS_$_BranchCommerceEventRequest
+__OBJC_METACLASS_RO_$_BranchCommerceEventRequest
+__OBJC_$_INSTANCE_METHODS_BranchCommerceEventRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchCommerceEventRequest
+__OBJC_$_PROP_LIST_BranchCommerceEventRequest
+__OBJC_CLASS_RO_$_BranchCommerceEventRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCCommerceEvent.m
+Branch-SDK/Branch-SDK/BNCCommerceEvent.m
+Branch-SDK/Branch-SDK/BNCCommerceEvent.h
+BNCCurrencyAllCurrencies
+BNCProductCategoryAllCategories
+-[BNCLinkData init]
+-[BNCLinkData setupTags:]
+-[BNCLinkData setupAlias:]
+-[BNCLinkData setupType:]
+-[BNCLinkData setupMatchDuration:]
+-[BNCLinkData setupChannel:]
+-[BNCLinkData setupFeature:]
+-[BNCLinkData setupStage:]
+-[BNCLinkData setupCampaign:]
+-[BNCLinkData setupIgnoreUAString:]
+-[BNCLinkData setupParams:]
+-[BNCLinkData hash]
+-[BNCLinkData encodeWithCoder:]
+-[BNCLinkData initWithCoder:]
++[BNCLinkData supportsSecureCoding]
+-[BNCLinkData data]
+-[BNCLinkData setData:]
+-[BNCLinkData tags]
+-[BNCLinkData setTags:]
+-[BNCLinkData alias]
+-[BNCLinkData setAlias:]
+-[BNCLinkData channel]
+-[BNCLinkData setChannel:]
+-[BNCLinkData feature]
+-[BNCLinkData setFeature:]
+-[BNCLinkData stage]
+-[BNCLinkData setStage:]
+-[BNCLinkData campaign]
+-[BNCLinkData setCampaign:]
+-[BNCLinkData params]
+-[BNCLinkData setParams:]
+-[BNCLinkData ignoreUAString]
+-[BNCLinkData setIgnoreUAString:]
+-[BNCLinkData type]
+-[BNCLinkData setType:]
+-[BNCLinkData duration]
+-[BNCLinkData setDuration:]
+-[BNCLinkData .cxx_destruct]
+__OBJC_$_CLASS_METHODS_BNCLinkData
+__OBJC_CLASS_PROTOCOLS_$_BNCLinkData
+__OBJC_METACLASS_RO_$_BNCLinkData
+__OBJC_$_INSTANCE_METHODS_BNCLinkData
+_OBJC_IVAR_$_BNCLinkData._data
+_OBJC_IVAR_$_BNCLinkData._tags
+_OBJC_IVAR_$_BNCLinkData._alias
+_OBJC_IVAR_$_BNCLinkData._channel
+_OBJC_IVAR_$_BNCLinkData._feature
+_OBJC_IVAR_$_BNCLinkData._stage
+_OBJC_IVAR_$_BNCLinkData._campaign
+_OBJC_IVAR_$_BNCLinkData._params
+_OBJC_IVAR_$_BNCLinkData._ignoreUAString
+_OBJC_IVAR_$_BNCLinkData._type
+_OBJC_IVAR_$_BNCLinkData._duration
+__OBJC_$_INSTANCE_VARIABLES_BNCLinkData
+__OBJC_$_PROP_LIST_BNCLinkData
+__OBJC_CLASS_RO_$_BNCLinkData
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCLinkData.m
+Branch-SDK/Branch-SDK/BNCLinkData.m
+Branch-SDK/Branch-SDK/BNCLinkData.h
+-[BranchSpotlightUrlRequest initWithParams:callback:]
+-[BranchSpotlightUrlRequest processResponse:error:]
+-[BranchSpotlightUrlRequest spotlightCallback]
+-[BranchSpotlightUrlRequest setSpotlightCallback:]
+-[BranchSpotlightUrlRequest .cxx_destruct]
+_OBJC_IVAR_$_BranchSpotlightUrlRequest._spotlightCallback
+__OBJC_METACLASS_RO_$_BranchSpotlightUrlRequest
+__OBJC_$_INSTANCE_METHODS_BranchSpotlightUrlRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchSpotlightUrlRequest
+__OBJC_$_PROP_LIST_BranchSpotlightUrlRequest
+__OBJC_CLASS_RO_$_BranchSpotlightUrlRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchSpotlightUrlRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchSpotlightUrlRequest.m
++[BNCKeyValue key:value:]
+-[BNCKeyValue description]
+-[BNCKeyValue isEqual:]
+-[BNCKeyValue key]
+-[BNCKeyValue setKey:]
+-[BNCKeyValue value]
+-[BNCKeyValue setValue:]
+-[BNCKeyValue .cxx_destruct]
++[BNCEncodingUtils base64EncodeStringToString:]
++[BNCEncodingUtils base64DecodeStringToString:]
++[BNCEncodingUtils base64EncodeData:]
++[BNCEncodingUtils base64DecodeString:]
++[BNCEncodingUtils sha256Encode:]
++[BNCEncodingUtils iso8601StringFromDate:]
+___42+[BNCEncodingUtils iso8601StringFromDate:]_block_invoke
++[BNCEncodingUtils sanitizedStringFromString:]
++[BNCEncodingUtils encodeDictionaryToJsonData:]
++[BNCEncodingUtils encodeDictionaryToJsonString:]
++[BNCEncodingUtils encodeArrayToJsonString:]
++[BNCEncodingUtils urlEncodedString:]
++[BNCEncodingUtils encodeDictionaryToQueryString:]
++[BNCEncodingUtils stringByPercentDecodingString:]
++[BNCEncodingUtils stringByPercentEncodingStringForQuery:]
++[BNCEncodingUtils decodeJsonDataToDictionary:]
++[BNCEncodingUtils decodeJsonStringToDictionary:]
++[BNCEncodingUtils decodeQueryStringToDictionary:]
++[BNCEncodingUtils hexStringFromData:]
++[BNCEncodingUtils dataFromHexString:]
++[BNCEncodingUtils queryItems:]
+__OBJC_$_CLASS_METHODS_BNCKeyValue
+__OBJC_METACLASS_RO_$_BNCKeyValue
+__OBJC_$_INSTANCE_METHODS_BNCKeyValue
+_OBJC_IVAR_$_BNCKeyValue._key
+_OBJC_IVAR_$_BNCKeyValue._value
+__OBJC_$_INSTANCE_VARIABLES_BNCKeyValue
+__OBJC_$_PROP_LIST_BNCKeyValue
+__OBJC_CLASS_RO_$_BNCKeyValue
+_OBJC_CLASSLIST_REFERENCES_$_.52
+_OBJC_CLASSLIST_REFERENCES_$_.66
+_iso8601StringFromDate:.dateFormatter
+_iso8601StringFromDate:.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.75
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_CLASSLIST_REFERENCES_$_.148
+_OBJC_CLASSLIST_REFERENCES_$_.151
+_OBJC_CLASSLIST_REFERENCES_$_.152
+_OBJC_CLASSLIST_REFERENCES_$_.157
+_OBJC_CLASSLIST_REFERENCES_$_.190
+_OBJC_CLASSLIST_REFERENCES_$_.215
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_SELECTOR_REFERENCES_.227
+_OBJC_CLASSLIST_REFERENCES_$_.240
+_OBJC_SELECTOR_REFERENCES_.242
+_OBJC_SELECTOR_REFERENCES_.246
+_OBJC_SELECTOR_REFERENCES_.250
+_OBJC_SELECTOR_REFERENCES_.254
+__OBJC_$_CLASS_METHODS_BNCEncodingUtils
+__OBJC_METACLASS_RO_$_BNCEncodingUtils
+__OBJC_CLASS_RO_$_BNCEncodingUtils
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCEncodingUtils.m
+Branch-SDK/Branch-SDK/BNCEncodingUtils.m
+isspace
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/usr/include/_ctype.h
+__istype
+__42+[BNCEncodingUtils iso8601StringFromDate:]_block_invoke
+Branch-SDK/Branch-SDK/BNCEncodingUtils.h
+BNCWireFormatFromString
+BNCStringFromWireFormat
+BNCWireFormatFromBool
+BNCWireFormatFromDate
+BNCDateFromWireFormat
+-[BranchLogoutRequest initWithCallback:]
+-[BranchLogoutRequest makeRequest:key:callback:]
+-[BranchLogoutRequest processResponse:error:]
+-[BranchLogoutRequest callback]
+-[BranchLogoutRequest setCallback:]
+-[BranchLogoutRequest .cxx_destruct]
+_OBJC_IVAR_$_BranchLogoutRequest._callback
+__OBJC_METACLASS_RO_$_BranchLogoutRequest
+__OBJC_$_INSTANCE_METHODS_BranchLogoutRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchLogoutRequest
+__OBJC_$_PROP_LIST_BranchLogoutRequest
+__OBJC_CLASS_RO_$_BranchLogoutRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchLogoutRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchLogoutRequest.m
+-[BranchCreditHistoryRequest initWithBucket:creditTransactionId:length:order:callback:]
+-[BranchCreditHistoryRequest makeRequest:key:callback:]
+-[BranchCreditHistoryRequest processResponse:error:]
+-[BranchCreditHistoryRequest initWithCoder:]
+-[BranchCreditHistoryRequest encodeWithCoder:]
++[BranchCreditHistoryRequest supportsSecureCoding]
+-[BranchCreditHistoryRequest callback]
+-[BranchCreditHistoryRequest setCallback:]
+-[BranchCreditHistoryRequest bucket]
+-[BranchCreditHistoryRequest setBucket:]
+-[BranchCreditHistoryRequest creditTransactionId]
+-[BranchCreditHistoryRequest setCreditTransactionId:]
+-[BranchCreditHistoryRequest length]
+-[BranchCreditHistoryRequest setLength:]
+-[BranchCreditHistoryRequest order]
+-[BranchCreditHistoryRequest setOrder:]
+-[BranchCreditHistoryRequest .cxx_destruct]
+_OBJC_IVAR_$_BranchCreditHistoryRequest._bucket
+_OBJC_IVAR_$_BranchCreditHistoryRequest._creditTransactionId
+_OBJC_IVAR_$_BranchCreditHistoryRequest._length
+_OBJC_IVAR_$_BranchCreditHistoryRequest._order
+_OBJC_IVAR_$_BranchCreditHistoryRequest._callback
+_OBJC_CLASSLIST_REFERENCES_$_.37
+__OBJC_$_CLASS_METHODS_BranchCreditHistoryRequest
+__OBJC_METACLASS_RO_$_BranchCreditHistoryRequest
+__OBJC_$_INSTANCE_METHODS_BranchCreditHistoryRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchCreditHistoryRequest
+__OBJC_$_PROP_LIST_BranchCreditHistoryRequest
+__OBJC_CLASS_RO_$_BranchCreditHistoryRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchCreditHistoryRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchCreditHistoryRequest.m
++[BranchScene shared]
+___21+[BranchScene shared]_block_invoke
+-[BranchScene initSessionWithLaunchOptions:registerDeepLinkHandler:]
+___68-[BranchScene initSessionWithLaunchOptions:registerDeepLinkHandler:]_block_invoke
+-[BranchScene scene:continueUserActivity:]
+-[BranchScene scene:openURLContexts:]
+-[BranchScene sceneForIdentifier:]
+_shared.bscene
+___block_descriptor_28_e4_20bs24s_e43_v12?0"BNCInitSessionResponse"4"NSError"8l
+__OBJC_$_CLASS_METHODS_BranchScene
+__OBJC_METACLASS_RO_$_BranchScene
+__OBJC_$_INSTANCE_METHODS_BranchScene
+__OBJC_CLASS_RO_$_BranchScene
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchScene.m
+Branch-SDK/Branch-SDK/BranchScene.m
+__68-[BranchScene initSessionWithLaunchOptions:registerDeepLinkHandler:]_block_invoke
+__21+[BranchScene shared]_block_invoke
+-[BranchActivityItemProvider initWithParams:andTags:andFeature:andStage:andAlias:]
+-[BranchActivityItemProvider initWithParams:tags:feature:stage:campaign:alias:delegate:]
+-[BranchActivityItemProvider returnURL]
+-[BranchActivityItemProvider item]
++[BranchActivityItemProvider humanReadableChannelWithActivityType:]
+-[BranchActivityItemProvider paramsForChannel:]
+-[BranchActivityItemProvider tagsForChannel:]
+-[BranchActivityItemProvider featureForChannel:]
+-[BranchActivityItemProvider stageForChannel:]
+-[BranchActivityItemProvider campaignForChannel:]
+-[BranchActivityItemProvider aliasForChannel:]
+-[BranchActivityItemProvider params]
+-[BranchActivityItemProvider setParams:]
+-[BranchActivityItemProvider tags]
+-[BranchActivityItemProvider setTags:]
+-[BranchActivityItemProvider feature]
+-[BranchActivityItemProvider setFeature:]
+-[BranchActivityItemProvider stage]
+-[BranchActivityItemProvider setStage:]
+-[BranchActivityItemProvider campaign]
+-[BranchActivityItemProvider setCampaign:]
+-[BranchActivityItemProvider alias]
+-[BranchActivityItemProvider setAlias:]
+-[BranchActivityItemProvider userAgentString]
+-[BranchActivityItemProvider setUserAgentString:]
+-[BranchActivityItemProvider delegate]
+-[BranchActivityItemProvider setDelegate:]
+-[BranchActivityItemProvider .cxx_destruct]
+_OBJC_IVAR_$_BranchActivityItemProvider._params
+_OBJC_IVAR_$_BranchActivityItemProvider._tags
+_OBJC_IVAR_$_BranchActivityItemProvider._feature
+_OBJC_IVAR_$_BranchActivityItemProvider._stage
+_OBJC_IVAR_$_BranchActivityItemProvider._campaign
+_OBJC_IVAR_$_BranchActivityItemProvider._alias
+_OBJC_IVAR_$_BranchActivityItemProvider._userAgentString
+_OBJC_IVAR_$_BranchActivityItemProvider._delegate
+_OBJC_CLASSLIST_REFERENCES_$_.59
+_OBJC_CLASSLIST_REFERENCES_$_.72
+__OBJC_$_CLASS_METHODS_BranchActivityItemProvider
+__OBJC_METACLASS_RO_$_BranchActivityItemProvider
+__OBJC_$_INSTANCE_METHODS_BranchActivityItemProvider
+__OBJC_$_INSTANCE_VARIABLES_BranchActivityItemProvider
+__OBJC_$_PROP_LIST_BranchActivityItemProvider
+__OBJC_CLASS_RO_$_BranchActivityItemProvider
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchActivityItemProvider.m
+Branch-SDK/Branch-SDK/BranchActivityItemProvider.m
+-[BNCTelephony init]
+-[BNCTelephony loadCarrierInformation]
+-[BNCTelephony carrierName]
+-[BNCTelephony setCarrierName:]
+-[BNCTelephony isoCountryCode]
+-[BNCTelephony setIsoCountryCode:]
+-[BNCTelephony mobileCountryCode]
+-[BNCTelephony setMobileCountryCode:]
+-[BNCTelephony mobileNetworkCode]
+-[BNCTelephony setMobileNetworkCode:]
+-[BNCTelephony .cxx_destruct]
+__OBJC_METACLASS_RO_$_BNCTelephony
+__OBJC_$_INSTANCE_METHODS_BNCTelephony
+_OBJC_IVAR_$_BNCTelephony._carrierName
+_OBJC_IVAR_$_BNCTelephony._isoCountryCode
+_OBJC_IVAR_$_BNCTelephony._mobileCountryCode
+_OBJC_IVAR_$_BNCTelephony._mobileNetworkCode
+__OBJC_$_INSTANCE_VARIABLES_BNCTelephony
+__OBJC_$_PROP_LIST_BNCTelephony
+__OBJC_CLASS_RO_$_BNCTelephony
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCTelephony.m
+Branch-SDK/Branch-SDK/BNCTelephony.m
+Branch-SDK/Branch-SDK/BNCTelephony.h
+-[BranchShortUrlRequest initWithTags:alias:type:matchDuration:channel:feature:stage:campaign:params:linkData:linkCache:callback:]
+-[BranchShortUrlRequest makeRequest:key:callback:]
+-[BranchShortUrlRequest processResponse:error:]
+-[BranchShortUrlRequest createLongUrlForUserUrl:]
+-[BranchShortUrlRequest initWithCoder:]
+-[BranchShortUrlRequest encodeWithCoder:]
+-[BranchShortUrlRequest isSpotlightRequest]
+-[BranchShortUrlRequest setIsSpotlightRequest:]
+-[BranchShortUrlRequest tags]
+-[BranchShortUrlRequest setTags:]
+-[BranchShortUrlRequest alias]
+-[BranchShortUrlRequest setAlias:]
+-[BranchShortUrlRequest type]
+-[BranchShortUrlRequest setType:]
+-[BranchShortUrlRequest matchDuration]
+-[BranchShortUrlRequest setMatchDuration:]
+-[BranchShortUrlRequest channel]
+-[BranchShortUrlRequest setChannel:]
+-[BranchShortUrlRequest feature]
+-[BranchShortUrlRequest setFeature:]
+-[BranchShortUrlRequest stage]
+-[BranchShortUrlRequest setStage:]
+-[BranchShortUrlRequest campaign]
+-[BranchShortUrlRequest setCampaign:]
+-[BranchShortUrlRequest params]
+-[BranchShortUrlRequest setParams:]
+-[BranchShortUrlRequest linkCache]
+-[BranchShortUrlRequest setLinkCache:]
+-[BranchShortUrlRequest linkData]
+-[BranchShortUrlRequest setLinkData:]
+-[BranchShortUrlRequest callback]
+-[BranchShortUrlRequest setCallback:]
+-[BranchShortUrlRequest .cxx_destruct]
+_OBJC_IVAR_$_BranchShortUrlRequest._tags
+_OBJC_IVAR_$_BranchShortUrlRequest._alias
+_OBJC_IVAR_$_BranchShortUrlRequest._type
+_OBJC_IVAR_$_BranchShortUrlRequest._matchDuration
+_OBJC_IVAR_$_BranchShortUrlRequest._channel
+_OBJC_IVAR_$_BranchShortUrlRequest._feature
+_OBJC_IVAR_$_BranchShortUrlRequest._stage
+_OBJC_IVAR_$_BranchShortUrlRequest._campaign
+_OBJC_IVAR_$_BranchShortUrlRequest._params
+_OBJC_IVAR_$_BranchShortUrlRequest._callback
+_OBJC_IVAR_$_BranchShortUrlRequest._linkCache
+_OBJC_IVAR_$_BranchShortUrlRequest._linkData
+_OBJC_IVAR_$_BranchShortUrlRequest._isSpotlightRequest
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_CLASSLIST_REFERENCES_$_.54
+_OBJC_CLASSLIST_REFERENCES_$_.100
+_OBJC_CLASSLIST_REFERENCES_$_.121
+__OBJC_METACLASS_RO_$_BranchShortUrlRequest
+__OBJC_$_INSTANCE_METHODS_BranchShortUrlRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchShortUrlRequest
+__OBJC_$_PROP_LIST_BranchShortUrlRequest
+__OBJC_CLASS_RO_$_BranchShortUrlRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchShortUrlRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchShortUrlRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchShortUrlRequest.h
++[UIViewController(Branch) bnc_currentWindow]
++[UIViewController(Branch) bnc_currentViewController]
+-[UIViewController(Branch) bnc_currentViewController]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIViewController_$_Branch
+__OBJC_$_CATEGORY_CLASS_METHODS_UIViewController_$_Branch
+__OBJC_$_CATEGORY_UIViewController_$_Branch
+_OBJC_LABEL_CATEGORY_$
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/UIViewController+Branch.m
+BNCForceUIViewControllerCategoryToLoad
+Branch-SDK/Branch-SDK/UIViewController+Branch.m
+-[BNCDeepLinkViewControllerInstance viewController]
+-[BNCDeepLinkViewControllerInstance setViewController:]
+-[BNCDeepLinkViewControllerInstance option]
+-[BNCDeepLinkViewControllerInstance setOption:]
+-[BNCDeepLinkViewControllerInstance .cxx_destruct]
+__OBJC_METACLASS_RO_$_BNCDeepLinkViewControllerInstance
+__OBJC_$_INSTANCE_METHODS_BNCDeepLinkViewControllerInstance
+_OBJC_IVAR_$_BNCDeepLinkViewControllerInstance._viewController
+_OBJC_IVAR_$_BNCDeepLinkViewControllerInstance._option
+__OBJC_$_INSTANCE_VARIABLES_BNCDeepLinkViewControllerInstance
+__OBJC_$_PROP_LIST_BNCDeepLinkViewControllerInstance
+__OBJC_CLASS_RO_$_BNCDeepLinkViewControllerInstance
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCDeepLinkViewControllerInstance.m
+Branch-SDK/Branch-SDK/BNCDeepLinkViewControllerInstance.m
+Branch-SDK/Branch-SDK/BNCDeepLinkViewControllerInstance.h
++[BNCUserAgentCollector instance]
+___33+[BNCUserAgentCollector instance]_block_invoke
+-[BNCUserAgentCollector init]
+-[BNCUserAgentCollector loadUserAgentWithCompletion:]
+___53-[BNCUserAgentCollector loadUserAgentWithCompletion:]_block_invoke
+-[BNCUserAgentCollector loadUserAgentForSystemBuildVersion:]
+-[BNCUserAgentCollector saveUserAgent:forSystemBuildVersion:]
+-[BNCUserAgentCollector collectUserAgentWithCompletion:]
+___56-[BNCUserAgentCollector collectUserAgentWithCompletion:]_block_invoke
+___56-[BNCUserAgentCollector collectUserAgentWithCompletion:]_block_invoke_2
+-[BNCUserAgentCollector userAgent]
+-[BNCUserAgentCollector setUserAgent:]
+-[BNCUserAgentCollector webview]
+-[BNCUserAgentCollector setWebview:]
+-[BNCUserAgentCollector systemBuildVersion]
+-[BNCUserAgentCollector setSystemBuildVersion:]
+-[BNCUserAgentCollector .cxx_destruct]
+_instance.collector
+_instance.onceToken
+___block_descriptor_28_e4_20s24bs_e17_v8?0"NSString"4l
+___block_descriptor_28_e4_20bs24s_e19_v12?04"NSError"8l
+__OBJC_$_CLASS_METHODS_BNCUserAgentCollector
+__OBJC_METACLASS_RO_$_BNCUserAgentCollector
+__OBJC_$_INSTANCE_METHODS_BNCUserAgentCollector
+_OBJC_IVAR_$_BNCUserAgentCollector._userAgent
+_OBJC_IVAR_$_BNCUserAgentCollector._webview
+_OBJC_IVAR_$_BNCUserAgentCollector._systemBuildVersion
+__OBJC_$_INSTANCE_VARIABLES_BNCUserAgentCollector
+__OBJC_$_PROP_LIST_BNCUserAgentCollector
+__OBJC_CLASS_RO_$_BNCUserAgentCollector
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCUserAgentCollector.m
+Branch-SDK/Branch-SDK/BNCUserAgentCollector.m
+Branch-SDK/Branch-SDK/BNCUserAgentCollector.h
+__56-[BNCUserAgentCollector collectUserAgentWithCompletion:]_block_invoke_2
+__56-[BNCUserAgentCollector collectUserAgentWithCompletion:]_block_invoke
+__53-[BNCUserAgentCollector loadUserAgentWithCompletion:]_block_invoke
+__33+[BNCUserAgentCollector instance]_block_invoke
+-[BranchShareActivityItem initWithPlaceholderItem:]
+-[BranchShareActivityItem item]
+-[BranchShareActivityItem subject]
+-[BranchShareActivityItem subjectForActivityType:]
+-[BranchShareActivityItem activityViewController:subjectForActivityType:]
+-[BranchShareActivityItem itemType]
+-[BranchShareActivityItem setItemType:]
+-[BranchShareActivityItem parent]
+-[BranchShareActivityItem setParent:]
+-[BranchShareActivityItem .cxx_destruct]
+-[BranchShareLink initWithUniversalObject:linkProperties:]
+-[BranchShareLink shareDidComplete:activityError:]
+-[BranchShareLink activityItems]
+-[BranchShareLink presentActivityViewControllerFromViewController:anchor:]
+___74-[BranchShareLink presentActivityViewControllerFromViewController:anchor:]_block_invoke
+___74-[BranchShareLink presentActivityViewControllerFromViewController:anchor:]_block_invoke.136
+-[BranchShareLink shareObjectForItem:activityType:]
+-[BranchShareLink returnURL]
+-[BranchShareLink title]
+-[BranchShareLink setTitle:]
+-[BranchShareLink placeholderURL]
+-[BranchShareLink setPlaceholderURL:]
+-[BranchShareLink shareText]
+-[BranchShareLink setShareText:]
+-[BranchShareLink shareObject]
+-[BranchShareLink setShareObject:]
+-[BranchShareLink emailSubject]
+-[BranchShareLink setEmailSubject:]
+-[BranchShareLink shareURL]
+-[BranchShareLink setShareURL:]
+-[BranchShareLink activityType]
+-[BranchShareLink serverParameters]
+-[BranchShareLink setServerParameters:]
+-[BranchShareLink universalObject]
+-[BranchShareLink linkProperties]
+-[BranchShareLink delegate]
+-[BranchShareLink setDelegate:]
+-[BranchShareLink .cxx_destruct]
+_OBJC_IVAR_$_BranchShareActivityItem._itemType
+_OBJC_IVAR_$_BranchShareActivityItem._parent
+__OBJC_METACLASS_RO_$_BranchShareActivityItem
+__OBJC_$_INSTANCE_METHODS_BranchShareActivityItem
+__OBJC_$_INSTANCE_VARIABLES_BranchShareActivityItem
+__OBJC_$_PROP_LIST_BranchShareActivityItem
+__OBJC_CLASS_RO_$_BranchShareActivityItem
+_OBJC_CLASSLIST_SUP_REFS_$_.45
+_OBJC_CLASSLIST_REFERENCES_$_.76
+_OBJC_CLASSLIST_REFERENCES_$_.88
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_CLASSLIST_REFERENCES_$_.122
+___block_descriptor_24_e4_20s_e44_v20?0"NSString"4c8"NSArray"12"NSError"16l
+___block_descriptor_24_e4_20s_e20_v12?0"NSString"4c8l
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_CLASSLIST_REFERENCES_$_.155
+_OBJC_CLASSLIST_REFERENCES_$_.158
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_CLASSLIST_REFERENCES_$_.177
+_OBJC_CLASSLIST_REFERENCES_$_.192
+_OBJC_CLASSLIST_REFERENCES_$_.199
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_SELECTOR_REFERENCES_.205
+__OBJC_METACLASS_RO_$_BranchShareLink
+__OBJC_$_INSTANCE_METHODS_BranchShareLink
+_OBJC_IVAR_$_BranchShareLink._activityItems
+_OBJC_IVAR_$_BranchShareLink._title
+_OBJC_IVAR_$_BranchShareLink._placeholderURL
+_OBJC_IVAR_$_BranchShareLink._shareText
+_OBJC_IVAR_$_BranchShareLink._shareObject
+_OBJC_IVAR_$_BranchShareLink._emailSubject
+_OBJC_IVAR_$_BranchShareLink._shareURL
+_OBJC_IVAR_$_BranchShareLink._activityType
+_OBJC_IVAR_$_BranchShareLink._serverParameters
+_OBJC_IVAR_$_BranchShareLink._universalObject
+_OBJC_IVAR_$_BranchShareLink._linkProperties
+_OBJC_IVAR_$_BranchShareLink._delegate
+__OBJC_$_INSTANCE_VARIABLES_BranchShareLink
+__OBJC_$_PROP_LIST_BranchShareLink
+__OBJC_CLASS_RO_$_BranchShareLink
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchShareLink.m
+Branch-SDK/Branch-SDK/BranchShareLink.m
+Branch-SDK/Branch-SDK/BranchShareLink.h
+__74-[BranchShareLink presentActivityViewControllerFromViewController:anchor:]_block_invoke.136
+__74-[BranchShareLink presentActivityViewControllerFromViewController:anchor:]_block_invoke
++[BranchProbabilisticCrossPlatformID buildFromJSON:]
+-[BranchProbabilisticCrossPlatformID crossPlatformID]
+-[BranchProbabilisticCrossPlatformID score]
+-[BranchProbabilisticCrossPlatformID .cxx_destruct]
++[BranchCrossPlatformID buildFromJSON:]
++[BranchCrossPlatformID requestCrossPlatformIdData:key:completion:]
+___67+[BranchCrossPlatformID requestCrossPlatformIdData:key:completion:]_block_invoke
+-[BranchCrossPlatformID crossPlatformID]
+-[BranchCrossPlatformID developerID]
+-[BranchCrossPlatformID pastCrossPlatformIDs]
+-[BranchCrossPlatformID probabiliticCrossPlatformIDs]
+-[BranchCrossPlatformID .cxx_destruct]
+__OBJC_$_CLASS_METHODS_BranchProbabilisticCrossPlatformID
+__OBJC_METACLASS_RO_$_BranchProbabilisticCrossPlatformID
+__OBJC_$_INSTANCE_METHODS_BranchProbabilisticCrossPlatformID
+_OBJC_IVAR_$_BranchProbabilisticCrossPlatformID._crossPlatformID
+_OBJC_IVAR_$_BranchProbabilisticCrossPlatformID._score
+__OBJC_$_INSTANCE_VARIABLES_BranchProbabilisticCrossPlatformID
+__OBJC_$_PROP_LIST_BranchProbabilisticCrossPlatformID
+__OBJC_CLASS_RO_$_BranchProbabilisticCrossPlatformID
+_OBJC_CLASSLIST_REFERENCES_$_.51
+___block_descriptor_24_e4_20bs_e38_v12?0"BNCServerResponse"4"NSError"8l
+__OBJC_$_CLASS_METHODS_BranchCrossPlatformID
+__OBJC_METACLASS_RO_$_BranchCrossPlatformID
+__OBJC_$_INSTANCE_METHODS_BranchCrossPlatformID
+_OBJC_IVAR_$_BranchCrossPlatformID._crossPlatformID
+_OBJC_IVAR_$_BranchCrossPlatformID._developerID
+_OBJC_IVAR_$_BranchCrossPlatformID._pastCrossPlatformIDs
+_OBJC_IVAR_$_BranchCrossPlatformID._probabiliticCrossPlatformIDs
+__OBJC_$_INSTANCE_VARIABLES_BranchCrossPlatformID
+__OBJC_$_PROP_LIST_BranchCrossPlatformID
+__OBJC_CLASS_RO_$_BranchCrossPlatformID
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchCrossPlatformID.m
+Branch-SDK/Branch-SDK/BranchCrossPlatformID.m
+Branch-SDK/Branch-SDK/BranchCrossPlatformID.h
+__67+[BranchCrossPlatformID requestCrossPlatformIdData:key:completion:]_block_invoke
+-[BranchRedeemRewardsRequest initWithAmount:bucket:callback:]
+-[BranchRedeemRewardsRequest makeRequest:key:callback:]
+-[BranchRedeemRewardsRequest processResponse:error:]
+-[BranchRedeemRewardsRequest initWithCoder:]
+-[BranchRedeemRewardsRequest encodeWithCoder:]
+-[BranchRedeemRewardsRequest amount]
+-[BranchRedeemRewardsRequest setAmount:]
+-[BranchRedeemRewardsRequest bucket]
+-[BranchRedeemRewardsRequest setBucket:]
+-[BranchRedeemRewardsRequest callback]
+-[BranchRedeemRewardsRequest setCallback:]
+-[BranchRedeemRewardsRequest .cxx_destruct]
+_OBJC_IVAR_$_BranchRedeemRewardsRequest._amount
+_OBJC_IVAR_$_BranchRedeemRewardsRequest._bucket
+_OBJC_IVAR_$_BranchRedeemRewardsRequest._callback
+__OBJC_METACLASS_RO_$_BranchRedeemRewardsRequest
+__OBJC_$_INSTANCE_METHODS_BranchRedeemRewardsRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchRedeemRewardsRequest
+__OBJC_$_PROP_LIST_BranchRedeemRewardsRequest
+__OBJC_CLASS_RO_$_BranchRedeemRewardsRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchRedeemRewardsRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchRedeemRewardsRequest.m
+-[BranchOpenRequest initWithCallback:]
+-[BranchOpenRequest initWithCallback:isInstall:]
+-[BranchOpenRequest makeRequest:key:callback:]
++[BranchOpenRequest appUpdateState]
+-[BranchOpenRequest processResponse:error:]
+-[BranchOpenRequest getActionName]
++[BranchOpenRequest initialize]
++[BranchOpenRequest setWaitNeededForOpenResponseLock]
++[BranchOpenRequest waitForOpenResponseLock]
+___44+[BranchOpenRequest waitForOpenResponseLock]_block_invoke
++[BranchOpenRequest releaseOpenResponseLock]
+-[BranchOpenRequest callback]
+-[BranchOpenRequest setCallback:]
+-[BranchOpenRequest isInstall]
+-[BranchOpenRequest setIsInstall:]
+-[BranchOpenRequest .cxx_destruct]
+_OBJC_IVAR_$_BranchOpenRequest._callback
+_OBJC_IVAR_$_BranchOpenRequest._isInstall
+_OBJC_CLASSLIST_REFERENCES_$_.42
+_OBJC_CLASSLIST_REFERENCES_$_.47
+_OBJC_CLASSLIST_REFERENCES_$_.56
+_OBJC_CLASSLIST_REFERENCES_$_.63
+_OBJC_CLASSLIST_REFERENCES_$_.101
+_OBJC_CLASSLIST_REFERENCES_$_.106
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_CLASSLIST_REFERENCES_$_.129
+_OBJC_CLASSLIST_REFERENCES_$_.132
+_OBJC_CLASSLIST_REFERENCES_$_.137
+_OBJC_CLASSLIST_REFERENCES_$_.186
+_openRequestWaitQueue
+_openRequestWaitQueueIsSuspended
+__OBJC_$_CLASS_METHODS_BranchOpenRequest
+__OBJC_METACLASS_RO_$_BranchOpenRequest
+__OBJC_$_INSTANCE_METHODS_BranchOpenRequest
+__OBJC_$_INSTANCE_VARIABLES_BranchOpenRequest
+__OBJC_$_PROP_LIST_BranchOpenRequest
+__OBJC_CLASS_RO_$_BranchOpenRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchOpenRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchOpenRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchOpenRequest.h
+__44+[BranchOpenRequest waitForOpenResponseLock]_block_invoke
+_OBJC_CLASSLIST_REFERENCES_$_.14
+_OBJC_CLASSLIST_REFERENCES_$_.109
+_OBJC_CLASSLIST_REFERENCES_$_.112
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCDebug.m
+BNCDebugArrayOfReqisteredClasses
+Branch-SDK/Branch-SDK/BNCDebug.m
+BNCDebugStringFromObject
+BNCDebuggerIsAttached
+-[BNCURLBlackList init]
+-[BNCURLBlackList dealloc]
+-[BNCURLBlackList setBlackList:]
+-[BNCURLBlackList blackList]
++[BNCURLBlackList compileRegexArray:error:]
+-[BNCURLBlackList blackListPatternMatchingURL:]
+-[BNCURLBlackList isBlackListedURL:]
+-[BNCURLBlackList refreshBlackListFromServer]
+-[BNCURLBlackList refreshBlackListFromServerWithCompletion:]
+___60-[BNCURLBlackList refreshBlackListFromServerWithCompletion:]_block_invoke
+-[BNCURLBlackList processServerOperation:]
+-[BNCURLBlackList hasRefreshedBlackListFromServer]
+-[BNCURLBlackList setHasRefreshedBlackListFromServer:]
+-[BNCURLBlackList blackListRegex]
+-[BNCURLBlackList setBlackListRegex:]
+-[BNCURLBlackList blackListVersion]
+-[BNCURLBlackList setBlackListVersion:]
+-[BNCURLBlackList networkService]
+-[BNCURLBlackList setNetworkService:]
+-[BNCURLBlackList error]
+-[BNCURLBlackList setError:]
+-[BNCURLBlackList blackListJSONURL]
+-[BNCURLBlackList setBlackListJSONURL:]
+-[BNCURLBlackList .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.44
+_OBJC_CLASSLIST_REFERENCES_$_.49
+_OBJC_CLASSLIST_REFERENCES_$_.89
+_OBJC_CLASSLIST_REFERENCES_$_.94
+___block_descriptor_28_e4_20s24bs_e38_v8?0"<BNCNetworkOperationProtocol>"4l
+_OBJC_CLASSLIST_REFERENCES_$_.116
+__OBJC_$_CLASS_METHODS_BNCURLBlackList
+__OBJC_METACLASS_RO_$_BNCURLBlackList
+__OBJC_$_INSTANCE_METHODS_BNCURLBlackList
+_OBJC_IVAR_$_BNCURLBlackList._blackList
+_OBJC_IVAR_$_BNCURLBlackList._hasRefreshedBlackListFromServer
+_OBJC_IVAR_$_BNCURLBlackList._blackListRegex
+_OBJC_IVAR_$_BNCURLBlackList._blackListVersion
+_OBJC_IVAR_$_BNCURLBlackList._networkService
+_OBJC_IVAR_$_BNCURLBlackList._error
+_OBJC_IVAR_$_BNCURLBlackList._blackListJSONURL
+__OBJC_$_INSTANCE_VARIABLES_BNCURLBlackList
+__OBJC_$_PROP_LIST_BNCURLBlackList
+__OBJC_CLASS_RO_$_BNCURLBlackList
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCURLBlackList.m
+Branch-SDK/Branch-SDK/BNCURLBlackList.m
+Branch-SDK/Branch-SDK/BNCURLBlackList.h
+__60-[BNCURLBlackList refreshBlackListFromServerWithCompletion:]_block_invoke
+-[BranchShortUrlSyncRequest initWithTags:alias:type:matchDuration:channel:feature:stage:campaign:params:linkData:linkCache:]
+-[BranchShortUrlSyncRequest makeRequest:key:]
+-[BranchShortUrlSyncRequest processResponse:]
+-[BranchShortUrlSyncRequest createLongUrlForUserUrl:]
++[BranchShortUrlSyncRequest createLinkFromBranchKey:tags:alias:type:matchDuration:channel:feature:stage:params:]
++[BranchShortUrlSyncRequest createLongUrlWithBaseUrl:tags:alias:type:matchDuration:channel:feature:stage:params:]
+-[BranchShortUrlSyncRequest tags]
+-[BranchShortUrlSyncRequest setTags:]
+-[BranchShortUrlSyncRequest alias]
+-[BranchShortUrlSyncRequest setAlias:]
+-[BranchShortUrlSyncRequest type]
+-[BranchShortUrlSyncRequest setType:]
+-[BranchShortUrlSyncRequest matchDuration]
+-[BranchShortUrlSyncRequest setMatchDuration:]
+-[BranchShortUrlSyncRequest channel]
+-[BranchShortUrlSyncRequest setChannel:]
+-[BranchShortUrlSyncRequest feature]
+-[BranchShortUrlSyncRequest setFeature:]
+-[BranchShortUrlSyncRequest stage]
+-[BranchShortUrlSyncRequest setStage:]
+-[BranchShortUrlSyncRequest campaign]
+-[BranchShortUrlSyncRequest setCampaign:]
+-[BranchShortUrlSyncRequest params]
+-[BranchShortUrlSyncRequest setParams:]
+-[BranchShortUrlSyncRequest linkCache]
+-[BranchShortUrlSyncRequest setLinkCache:]
+-[BranchShortUrlSyncRequest linkData]
+-[BranchShortUrlSyncRequest setLinkData:]
+-[BranchShortUrlSyncRequest .cxx_destruct]
+__OBJC_$_CLASS_METHODS_BranchShortUrlSyncRequest
+__OBJC_METACLASS_RO_$_BranchShortUrlSyncRequest
+__OBJC_$_INSTANCE_METHODS_BranchShortUrlSyncRequest
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._tags
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._alias
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._type
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._matchDuration
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._channel
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._feature
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._stage
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._campaign
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._params
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._linkCache
+_OBJC_IVAR_$_BranchShortUrlSyncRequest._linkData
+__OBJC_$_INSTANCE_VARIABLES_BranchShortUrlSyncRequest
+__OBJC_$_PROP_LIST_BranchShortUrlSyncRequest
+__OBJC_CLASS_RO_$_BranchShortUrlSyncRequest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/Requests/BranchShortUrlSyncRequest.m
+Branch-SDK/Branch-SDK/Networking/Requests/BranchShortUrlSyncRequest.m
+-[BNCSpotlightService indexWithBranchUniversalObject:linkProperties:callback:]
+___78-[BNCSpotlightService indexWithBranchUniversalObject:linkProperties:callback:]_block_invoke
+___78-[BNCSpotlightService indexWithBranchUniversalObject:linkProperties:callback:]_block_invoke_2
+___78-[BNCSpotlightService indexWithBranchUniversalObject:linkProperties:callback:]_block_invoke_3
+___copy_helper_block_e4_20s24s28s32s36s40b
+___destroy_helper_block_e4_20s24s28s32s36s40s
+___copy_helper_block_e4_20s24s28s32s36b
+___destroy_helper_block_e4_20s24s28s32s36s
+___78-[BNCSpotlightService indexWithBranchUniversalObject:linkProperties:callback:]_block_invoke.34
+-[BNCSpotlightService indexContentWithBranchUniversalObject:linkProperty:thumbnailUrl:thumbnailData:callback:]
+___110-[BNCSpotlightService indexContentWithBranchUniversalObject:linkProperty:thumbnailUrl:thumbnailData:callback:]_block_invoke
+___110-[BNCSpotlightService indexContentWithBranchUniversalObject:linkProperty:thumbnailUrl:thumbnailData:callback:]_block_invoke.73
+___copy_helper_block_e4_20b24s28s32s36w
+___destroy_helper_block_e4_20s24s28s32s36w
+-[BNCSpotlightService attributeSetWithUniversalObject:thumbnail:url:]
+-[BNCSpotlightService indexPrivatelyWithBranchUniversalObjects:completion:]
+___75-[BNCSpotlightService indexPrivatelyWithBranchUniversalObjects:completion:]_block_invoke
+___75-[BNCSpotlightService indexPrivatelyWithBranchUniversalObjects:completion:]_block_invoke_2
+___copy_helper_block_e4_20s24s28s32s36s40s
+___75-[BNCSpotlightService indexPrivatelyWithBranchUniversalObjects:completion:]_block_invoke.128
+___75-[BNCSpotlightService indexPrivatelyWithBranchUniversalObjects:completion:]_block_invoke_2.131
+___copy_helper_block_e4_20b24s28s
+-[BNCSpotlightService workQueue]
+-[BNCSpotlightService indexUsingNSUserActivity:]
+-[BNCSpotlightService indexUsingSearchableItem:thumbnailData:callback:]
+___71-[BNCSpotlightService indexUsingSearchableItem:thumbnailData:callback:]_block_invoke
+-[BNCSpotlightService userActivityWillSave:]
+-[BNCSpotlightService removeSearchableItemsWithIdentifier:callback:]
+___68-[BNCSpotlightService removeSearchableItemsWithIdentifier:callback:]_block_invoke
+-[BNCSpotlightService removeSearchableItemsWithIdentifiers:callback:]
+___69-[BNCSpotlightService removeSearchableItemsWithIdentifiers:callback:]_block_invoke
+-[BNCSpotlightService removeAllBranchSearchableItemsWithCallback:]
+___66-[BNCSpotlightService removeAllBranchSearchableItemsWithCallback:]_block_invoke
+-[BNCSpotlightService userInfo]
+-[BNCSpotlightService setUserInfo:]
+-[BNCSpotlightService .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.5
+_OBJC_CLASSLIST_REFERENCES_$_.20
+___block_descriptor_28_e4_20bs24s_e29_v12?0"NSString"4"NSError"8l
+___block_descriptor_44_e4_20s24s28s32s36s40bs_e5_v4?0l
+___block_descriptor_40_e4_20s24s28s32s36bs_e5_v4?0l
+___block_descriptor_24_e4_20bs_e29_v12?0"NSString"4"NSError"8l
+___block_descriptor_40_e4_20bs24s28s32s36w_e29_v12?0"NSString"4"NSError"8l
+___block_descriptor_48_e4_20s24s28s32s36s40s_e5_v4?0lu44l4
+___block_descriptor_28_e4_20bs24s_e16_v8?0"NSError"4l
+___block_descriptor_36_e4_20bs24s28s_e5_v4?0lu32l4
+_OBJC_CLASSLIST_REFERENCES_$_.146
+_OBJC_CLASSLIST_REFERENCES_$_.156
+_OBJC_SELECTOR_REFERENCES_.172
+___block_descriptor_28_e4_20s24bs_e16_v8?0"NSError"4l
+_OBJC_SELECTOR_REFERENCES_.189
+__OBJC_CLASS_PROTOCOLS_$_BNCSpotlightService
+__OBJC_METACLASS_RO_$_BNCSpotlightService
+__OBJC_$_INSTANCE_METHODS_BNCSpotlightService
+_OBJC_IVAR_$_BNCSpotlightService._workQueue
+_OBJC_IVAR_$_BNCSpotlightService._userInfo
+__OBJC_$_INSTANCE_VARIABLES_BNCSpotlightService
+__OBJC_$_PROP_LIST_BNCSpotlightService
+__OBJC_CLASS_RO_$_BNCSpotlightService
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCSpotlightService.m
+Branch-SDK/Branch-SDK/BNCSpotlightService.m
+__66-[BNCSpotlightService removeAllBranchSearchableItemsWithCallback:]_block_invoke
+__69-[BNCSpotlightService removeSearchableItemsWithIdentifiers:callback:]_block_invoke
+__68-[BNCSpotlightService removeSearchableItemsWithIdentifier:callback:]_block_invoke
+__71-[BNCSpotlightService indexUsingSearchableItem:thumbnailData:callback:]_block_invoke
+__copy_helper_block_e4_20b24s28s
+__75-[BNCSpotlightService indexPrivatelyWithBranchUniversalObjects:completion:]_block_invoke_2.131
+__75-[BNCSpotlightService indexPrivatelyWithBranchUniversalObjects:completion:]_block_invoke.128
+__copy_helper_block_e4_20s24s28s32s36s40s
+__75-[BNCSpotlightService indexPrivatelyWithBranchUniversalObjects:completion:]_block_invoke_2
+__75-[BNCSpotlightService indexPrivatelyWithBranchUniversalObjects:completion:]_block_invoke
+__destroy_helper_block_e4_20s24s28s32s36w
+__copy_helper_block_e4_20b24s28s32s36w
+__110-[BNCSpotlightService indexContentWithBranchUniversalObject:linkProperty:thumbnailUrl:thumbnailData:callback:]_block_invoke.73
+__110-[BNCSpotlightService indexContentWithBranchUniversalObject:linkProperty:thumbnailUrl:thumbnailData:callback:]_block_invoke
+__78-[BNCSpotlightService indexWithBranchUniversalObject:linkProperties:callback:]_block_invoke.34
+__destroy_helper_block_e4_20s24s28s32s36s
+__copy_helper_block_e4_20s24s28s32s36b
+__destroy_helper_block_e4_20s24s28s32s36s40s
+__copy_helper_block_e4_20s24s28s32s36s40b
+__78-[BNCSpotlightService indexWithBranchUniversalObject:linkProperties:callback:]_block_invoke_3
+__78-[BNCSpotlightService indexWithBranchUniversalObject:linkProperties:callback:]_block_invoke_2
+__78-[BNCSpotlightService indexWithBranchUniversalObject:linkProperties:callback:]_block_invoke
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchConstants.m
++[BranchLink linkWithUniversalObject:properties:]
+-[BranchLink universalObject]
+-[BranchLink setUniversalObject:]
+-[BranchLink linkProperties]
+-[BranchLink setLinkProperties:]
+-[BranchLink .cxx_destruct]
++[Branch openLog]
++[Branch closeLog]
++[Branch load]
+___14+[Branch load]_block_invoke
++[Branch getTestInstance]
++[Branch getInstance]
++[Branch getInstance:]
+-[Branch initWithInterface:queue:cache:preferenceHelper:key:]
++[Branch setNetworkServiceClass:]
++[Branch networkServiceClass]
++[Branch getBranchActivityItemWithParams:]
++[Branch getBranchActivityItemWithParams:feature:]
++[Branch getBranchActivityItemWithParams:feature:stage:]
++[Branch getBranchActivityItemWithParams:feature:stage:tags:]
++[Branch getBranchActivityItemWithParams:feature:stage:campaign:tags:alias:]
++[Branch getBranchActivityItemWithParams:feature:stage:tags:alias:]
++[Branch getBranchActivityItemWithParams:feature:stage:tags:alias:delegate:]
++[Branch resetBranchKey]
++[Branch setUseTestBranchKey:]
++[Branch useTestBranchKey]
++[Branch setBranchKey:]
++[Branch setBranchKey:error:]
++[Branch branchKey]
++[Branch branchKeyIsSet]
++[Branch setEnableFingerprintIDInCrashlyticsReports:]
++[Branch enableFingerprintIDInCrashlyticsReports]
+-[Branch enableLogging]
+-[Branch setDebug]
+-[Branch validateSDKIntegration]
+-[Branch resetUserSession]
+___26-[Branch resetUserSession]_block_invoke
+-[Branch isUserIdentified]
+-[Branch disableAdNetworkCallouts:]
+-[Branch setNetworkTimeout:]
+-[Branch setMaxRetries:]
+-[Branch setRetryInterval:]
+-[Branch disableCookieBasedMatching]
+-[Branch accountForFacebookSDKPreventingAppLaunch]
+-[Branch suppressWarningLogs]
+-[Branch setRequestMetadataKey:value:]
+-[Branch enableDelayedInit]
+-[Branch disableDelayedInit]
+-[Branch getUrlForOnboardingWithRedirectUrl:]
+-[Branch resumeInit]
+-[Branch setInstallRequestDelay:]
++[Branch trackingDisabled]
++[Branch setTrackingDisabled:]
+-[Branch initSessionWithLaunchOptions:]
+-[Branch initSessionWithLaunchOptions:andRegisterDeepLinkHandler:]
+-[Branch initSessionWithLaunchOptions:andRegisterDeepLinkHandlerUsingBranchUniversalObject:]
+-[Branch initSessionWithLaunchOptions:isReferrable:]
+-[Branch initSessionWithLaunchOptions:automaticallyDisplayDeepLinkController:]
+-[Branch initSessionWithLaunchOptions:isReferrable:andRegisterDeepLinkHandler:]
+-[Branch initSessionWithLaunchOptions:automaticallyDisplayDeepLinkController:deepLinkHandler:]
+-[Branch initSessionWithLaunchOptions:isReferrable:automaticallyDisplayDeepLinkController:]
+-[Branch initSessionWithLaunchOptions:automaticallyDisplayDeepLinkController:isReferrable:deepLinkHandler:]
+-[Branch initSessionWithLaunchOptions:isReferrable:explicitlyRequestedReferrable:automaticallyDisplayController:registerDeepLinkHandlerUsingBranchUniversalObject:]
+___163-[Branch initSessionWithLaunchOptions:isReferrable:explicitlyRequestedReferrable:automaticallyDisplayController:registerDeepLinkHandlerUsingBranchUniversalObject:]_block_invoke
+-[Branch initSessionWithLaunchOptions:isReferrable:explicitlyRequestedReferrable:automaticallyDisplayController:registerDeepLinkHandler:]
+___137-[Branch initSessionWithLaunchOptions:isReferrable:explicitlyRequestedReferrable:automaticallyDisplayController:registerDeepLinkHandler:]_block_invoke
+-[Branch initSceneSessionWithLaunchOptions:isReferrable:explicitlyRequestedReferrable:automaticallyDisplayController:registerDeepLinkHandler:]
+-[Branch initSessionWithLaunchOptions:isReferrable:explicitlyRequestedReferrable:automaticallyDisplayController:]
+-[Branch checkAttributionStatusAndInitialize]
+___45-[Branch checkAttributionStatusAndInitialize]_block_invoke
+-[Branch setDeepLinkDebugMode:]
+-[Branch setWhiteListedSchemes:]
+-[Branch addWhiteListedScheme:]
+-[Branch setBlackListURLRegex:]
+-[Branch blackListURLRegex]
+-[Branch handleDeepLinkWithNewSession:]
+-[Branch handleDeepLink:]
+-[Branch handleDeepLink:sceneIdentifier:]
+-[Branch handleSchemeDeepLink_private:sceneIdentifier:]
+-[Branch application:openURL:sourceApplication:annotation:]
+-[Branch sceneIdentifier:openURL:sourceApplication:annotation:]
+-[Branch application:openURL:options:]
+-[Branch handleUniversalDeepLink_private:sceneIdentifier:]
+-[Branch continueUserActivity:]
+-[Branch continueUserActivity:sceneIdentifier:]
+-[Branch isBranchLink:]
+-[Branch handlePushNotification:]
+-[Branch loadUserAgent]
+___23-[Branch loadUserAgent]_block_invoke
+___23-[Branch loadUserAgent]_block_invoke_2
+-[Branch loadApplicationData]
+___29-[Branch loadApplicationData]_block_invoke
+___29-[Branch loadApplicationData]_block_invoke_2
+-[Branch delayInitToCheckForSearchAds]
+-[Branch useLongerWaitForAppleSearchAds]
+-[Branch ignoreAppleSearchAdsTestData]
+-[Branch checkAppleSearchAdsAttribution]
+___40-[Branch checkAppleSearchAdsAttribution]_block_invoke
+___40-[Branch checkAppleSearchAdsAttribution]_block_invoke_2
+-[Branch dispatchToIsolationQueue:]
+-[Branch registerFacebookDeepLinkingClass:]
+-[Branch checkFacebookAppLinks]
+___31-[Branch checkFacebookAppLinks]_block_invoke
+___31-[Branch checkFacebookAppLinks]_block_invoke_2
+-[Branch registerDeepLinkController:forKey:]
+-[Branch registerDeepLinkController:forKey:withPresentation:]
+-[Branch setIdentity:]
+-[Branch setIdentity:withCallback:]
+___35-[Branch setIdentity:withCallback:]_block_invoke
+___copy_helper_block_e4_20s24b28s
+-[Branch logout]
+-[Branch logoutWithCallback:]
+___29-[Branch logoutWithCallback:]_block_invoke
+-[Branch userCompletedAction:]
+-[Branch userCompletedAction:withState:]
+___40-[Branch userCompletedAction:withState:]_block_invoke
+___copy_helper_block_e4_20s24s28s
+-[Branch userCompletedAction:withState:withDelegate:]
+-[Branch sendServerRequest:]
+___28-[Branch sendServerRequest:]_block_invoke
+___copy_helper_block_e4_20s24s
+-[Branch sendServerRequestWithoutSession:]
+-[Branch sendCommerceEvent:metadata:withCompletion:]
+___52-[Branch sendCommerceEvent:metadata:withCompletion:]_block_invoke
+___copy_helper_block_e4_20s24s28b32s
+-[Branch loadRewardsWithCallback:]
+___34-[Branch loadRewardsWithCallback:]_block_invoke
+-[Branch getCredits]
+-[Branch redeemRewards:]
+-[Branch redeemRewards:callback:]
+-[Branch getCreditsForBucket:]
+-[Branch redeemRewards:forBucket:]
+-[Branch redeemRewards:forBucket:callback:]
+___43-[Branch redeemRewards:forBucket:callback:]_block_invoke
+-[Branch getCreditHistoryWithCallback:]
+-[Branch getCreditHistoryForBucket:andCallback:]
+-[Branch getCreditHistoryAfter:number:order:andCallback:]
+-[Branch getCreditHistoryForBucket:after:number:order:andCallback:]
+___67-[Branch getCreditHistoryForBucket:after:number:order:andCallback:]_block_invoke
+-[Branch getFirstReferringBranchUniversalObject]
+-[Branch getFirstReferringBranchLinkProperties]
+-[Branch getFirstReferringParams]
+-[Branch getLatestReferringParams]
+-[Branch getLatestReferringParamsSynchronous]
+-[Branch getLatestReferringBranchUniversalObject]
+-[Branch getLatestReferringBranchLinkProperties]
+-[Branch crossPlatformIdDataWithCompletion:]
+___44-[Branch crossPlatformIdDataWithCompletion:]_block_invoke
+-[Branch lastAttributedTouchDataWithAttributionWindow:completion:]
+___66-[Branch lastAttributedTouchDataWithAttributionWindow:completion:]_block_invoke
+-[Branch getShortURL]
+-[Branch getShortURLWithParams:]
+-[Branch getShortURLWithParams:andTags:andChannel:andFeature:andStage:]
+-[Branch getShortURLWithParams:andTags:andChannel:andFeature:andStage:andAlias:]
+-[Branch getShortURLWithParams:andTags:andChannel:andFeature:andStage:andAlias:ignoreUAString:]
+-[Branch getShortURLWithParams:andTags:andChannel:andFeature:andStage:andCampaign:andAlias:ignoreUAString:forceLinkCreation:]
+-[Branch getShortURLWithParams:andTags:andChannel:andFeature:andStage:andType:]
+-[Branch getShortURLWithParams:andTags:andChannel:andFeature:andStage:andMatchDuration:]
+-[Branch getShortURLWithParams:andChannel:andFeature:andStage:]
+-[Branch getShortURLWithParams:andChannel:andFeature:andStage:andAlias:]
+-[Branch getShortURLWithParams:andChannel:andFeature:andStage:andType:]
+-[Branch getShortURLWithParams:andChannel:andFeature:andStage:andMatchDuration:]
+-[Branch getShortURLWithParams:andChannel:andFeature:]
+-[Branch getShortUrlWithParams:andTags:andAlias:andChannel:andFeature:andStage:andCampaign:andMatchDuration:]
+-[Branch getShortUrlWithParams:andTags:andAlias:andChannel:andFeature:andStage:andMatchDuration:]
+-[Branch getShortURLWithCallback:]
+-[Branch getShortURLWithParams:andCallback:]
+-[Branch getShortURLWithParams:andTags:andChannel:andFeature:andStage:andCallback:]
+-[Branch getShortURLWithParams:andTags:andChannel:andFeature:andStage:andAlias:andCallback:]
+-[Branch getShortURLWithParams:andTags:andChannel:andFeature:andStage:andType:andCallback:]
+-[Branch getShortURLWithParams:andTags:andChannel:andFeature:andStage:andMatchDuration:andCallback:]
+-[Branch getShortURLWithParams:andChannel:andFeature:andStage:andCallback:]
+-[Branch getShortURLWithParams:andChannel:andFeature:andStage:andAlias:andCallback:]
+-[Branch getShortURLWithParams:andChannel:andFeature:andStage:andType:andCallback:]
+-[Branch getShortURLWithParams:andChannel:andFeature:andStage:andMatchDuration:andCallback:]
+-[Branch getShortURLWithParams:andChannel:andFeature:andCallback:]
+-[Branch getShortUrlWithParams:andTags:andAlias:andMatchDuration:andChannel:andFeature:andStage:andCampaign:andCallback:]
+-[Branch getShortUrlWithParams:andTags:andAlias:andMatchDuration:andChannel:andFeature:andStage:andCallback:]
+-[Branch getSpotlightUrlWithParams:callback:]
+___45-[Branch getSpotlightUrlWithParams:callback:]_block_invoke
+-[Branch getLongURLWithParams:andChannel:andTags:andFeature:andStage:andAlias:]
+-[Branch getLongURLWithParams:]
+-[Branch getLongURLWithParams:andFeature:]
+-[Branch getLongURLWithParams:andFeature:andStage:]
+-[Branch getLongURLWithParams:andFeature:andStage:andTags:]
+-[Branch getLongURLWithParams:andFeature:andStage:andAlias:]
+-[Branch createDiscoverableContentWithTitle:description:]
+-[Branch createDiscoverableContentWithTitle:description:callback:]
+-[Branch createDiscoverableContentWithTitle:description:publiclyIndexable:callback:]
+-[Branch createDiscoverableContentWithTitle:description:type:publiclyIndexable:callback:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:type:publiclyIndexable:callback:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:type:publiclyIndexable:keywords:callback:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:linkParams:publiclyIndexable:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:linkParams:publiclyIndexable:keywords:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:linkParams:type:publiclyIndexable:keywords:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:type:publiclyIndexable:keywords:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:linkParams:type:publiclyIndexable:keywords:callback:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:linkParams:type:publiclyIndexable:keywords:expirationDate:callback:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:canonicalId:linkParams:type:publiclyIndexable:keywords:expirationDate:callback:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:linkParams:type:publiclyIndexable:keywords:expirationDate:spotlightCallback:]
+-[Branch createDiscoverableContentWithTitle:description:thumbnailUrl:canonicalId:linkParams:type:publiclyIndexable:keywords:expirationDate:spotlightCallback:]
+-[Branch indexOnSpotlightWithBranchUniversalObject:linkProperties:completion:]
+___78-[Branch indexOnSpotlightWithBranchUniversalObject:linkProperties:completion:]_block_invoke
+-[Branch indexOnSpotlightUsingSearchableItems:completion:]
+___58-[Branch indexOnSpotlightUsingSearchableItems:completion:]_block_invoke
+-[Branch removeSearchableItemWithBranchUniversalObject:callback:]
+___65-[Branch removeSearchableItemWithBranchUniversalObject:callback:]_block_invoke
+-[Branch removeSearchableItemsWithBranchUniversalObjects:callback:]
+___67-[Branch removeSearchableItemsWithBranchUniversalObjects:callback:]_block_invoke
+-[Branch removeAllPrivateContentFromSpotLightWithCallback:]
+___59-[Branch removeAllPrivateContentFromSpotLightWithCallback:]_block_invoke
++[Branch getInstanceInternal:]
+___30+[Branch getInstanceInternal:]_block_invoke
+-[Branch generateShortUrl:andAlias:andType:andMatchDuration:andChannel:andFeature:andStage:andCampaign:andParams:andCallback:]
+___126-[Branch generateShortUrl:andAlias:andType:andMatchDuration:andChannel:andFeature:andStage:andCampaign:andParams:andCallback:]_block_invoke
+___126-[Branch generateShortUrl:andAlias:andType:andMatchDuration:andChannel:andFeature:andStage:andCampaign:andParams:andCallback:]_block_invoke_2
+___copy_helper_block_e4_20s24s28s32s36s40s44s48s52b
+___destroy_helper_block_e4_20s24s28s32s36s40s44s48s52s
+-[Branch generateShortUrl:andAlias:andType:andMatchDuration:andChannel:andFeature:andStage:andCampaign:andParams:ignoreUAString:forceLinkCreation:]
+-[Branch generateLongURLWithParams:andChannel:andTags:andFeature:andStage:andAlias:]
+-[Branch longUrlWithBaseUrl:params:tags:feature:channel:stage:alias:duration:type:]
+-[Branch prepareLinkDataFor:andAlias:andType:andMatchDuration:andChannel:andFeature:andStage:andCampaign:andParams:ignoreUAString:]
+-[Branch registerViewWithParams:andCallback:]
+___45-[Branch registerViewWithParams:andCallback:]_block_invoke
+___45-[Branch registerViewWithParams:andCallback:]_block_invoke_2
+-[Branch applicationDidBecomeActive]
+-[Branch applicationWillResignActive]
+-[Branch callClose]
+-[Branch networkCount]
+-[Branch setNetworkCount:]
+-[Branch insertRequestAtFront:]
+-[Branch processRequest:response:error:]
+___40-[Branch processRequest:response:error:]_block_invoke
+___40-[Branch processRequest:response:error:]_block_invoke_2
+-[Branch isReplayableRequest:]
+-[Branch processNextQueueItem]
+___30-[Branch processNextQueueItem]_block_invoke
+___30-[Branch processNextQueueItem]_block_invoke_2
+___30-[Branch processNextQueueItem]_block_invoke_3
+___30-[Branch processNextQueueItem]_block_invoke_4
+-[Branch clearNetworkQueue]
+-[Branch initSafetyCheck]
+-[Branch initUserSessionAndCallCallback:sceneIdentifier:]
+___57-[Branch initUserSessionAndCallCallback:sceneIdentifier:]_block_invoke
+___57-[Branch initUserSessionAndCallCallback:sceneIdentifier:]_block_invoke_2
+-[Branch initializeSessionAndCallCallback:sceneIdentifier:]
+___59-[Branch initializeSessionAndCallCallback:sceneIdentifier:]_block_invoke
+___59-[Branch initializeSessionAndCallCallback:sceneIdentifier:]_block_invoke_2
+-[Branch removeInstallOrOpen]
+-[Branch handleInitSuccessAndCallCallback:sceneIdentifier:]
+___59-[Branch handleInitSuccessAndCallCallback:sceneIdentifier:]_block_invoke
+-[Branch automaticallyDeeplinkWithReferringParams:]
+___51-[Branch automaticallyDeeplinkWithReferringParams:]_block_invoke
+-[Branch sendOpenNotificationWithLinkParameters:error:]
+-[Branch removeViewControllerFromRootNavigationController:]
+-[Branch presentSharingViewController:]
+___39-[Branch presentSharingViewController:]_block_invoke
+-[Branch handleInitFailure:callCallback:sceneIdentifier:]
+-[Branch dealloc]
+-[Branch registerPluginName:version:]
+-[Branch deepLinkingControllerCompleted]
+-[Branch deepLinkingControllerCompletedFrom:]
+___45-[Branch deepLinkingControllerCompletedFrom:]_block_invoke
++[Branch logLowMemoryToCrashlytics]
+___35+[Branch logLowMemoryToCrashlytics]_block_invoke
++[Branch addBranchSDKVersionToCrashlyticsReport]
++[Branch clearAll]
+-[Branch delegate]
+-[Branch setDelegate:]
+-[Branch sessionInitWithParamsCallback]
+-[Branch setSessionInitWithParamsCallback:]
+-[Branch sessionInitWithBranchUniversalObjectCallback]
+-[Branch setSessionInitWithBranchUniversalObjectCallback:]
+-[Branch serverInterface]
+-[Branch setServerInterface:]
+-[Branch isolationQueue]
+-[Branch setIsolationQueue:]
+-[Branch requestQueue]
+-[Branch setRequestQueue:]
+-[Branch processing_sema]
+-[Branch setProcessing_sema:]
+-[Branch initializationStatus]
+-[Branch setInitializationStatus:]
+-[Branch shouldAutomaticallyDeepLink]
+-[Branch setShouldAutomaticallyDeepLink:]
+-[Branch linkCache]
+-[Branch setLinkCache:]
+-[Branch preferenceHelper]
+-[Branch setPreferenceHelper:]
+-[Branch contentDiscoveryManager]
+-[Branch setContentDiscoveryManager:]
+-[Branch deepLinkControllers]
+-[Branch setDeepLinkControllers:]
+-[Branch deepLinkPresentingController]
+-[Branch setDeepLinkPresentingController:]
+-[Branch deepLinkDebugParams]
+-[Branch setDeepLinkDebugParams:]
+-[Branch whiteListedSchemeList]
+-[Branch setWhiteListedSchemeList:]
+-[Branch URLBlackList]
+-[Branch setURLBlackList:]
+-[Branch sceneSessionInitWithCallback]
+-[Branch setSceneSessionInitWithCallback:]
+-[Branch .cxx_destruct]
+__OBJC_$_CLASS_METHODS_BranchLink
+__OBJC_METACLASS_RO_$_BranchLink
+__OBJC_$_INSTANCE_METHODS_BranchLink
+_OBJC_IVAR_$_BranchLink._universalObject
+_OBJC_IVAR_$_BranchLink._linkProperties
+__OBJC_$_INSTANCE_VARIABLES_BranchLink
+__OBJC_$_PROP_LIST_BranchLink
+__OBJC_CLASS_RO_$_BranchLink
+_bnc_logURL
+_OBJC_CLASSLIST_REFERENCES_$_.84
+_OBJC_CLASSLIST_REFERENCES_$_.103
+_load.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.134
+_OBJC_CLASSLIST_REFERENCES_$_.135
+_OBJC_CLASSLIST_REFERENCES_$_.142
+_bnc_networkServiceClass
+__OBJC_PROTOCOL_REFERENCE_$_BNCNetworkServiceProtocol
+_OBJC_CLASSLIST_REFERENCES_$_.218
+_bnc_branchKey
+_bnc_useTestBranchKey
+_OBJC_CLASSLIST_REFERENCES_$_.235
+_OBJC_SELECTOR_REFERENCES_.237
+_OBJC_SELECTOR_REFERENCES_.245
+_OBJC_CLASSLIST_REFERENCES_$_.254
+_OBJC_SELECTOR_REFERENCES_.264
+_bnc_enableFingerprintIDInCrashlyticsReports
+_OBJC_SELECTOR_REFERENCES_.268
+_OBJC_SELECTOR_REFERENCES_.270
+_OBJC_SELECTOR_REFERENCES_.272
+_OBJC_SELECTOR_REFERENCES_.274
+_OBJC_SELECTOR_REFERENCES_.276
+_OBJC_SELECTOR_REFERENCES_.278
+_OBJC_SELECTOR_REFERENCES_.280
+_OBJC_SELECTOR_REFERENCES_.282
+_OBJC_SELECTOR_REFERENCES_.284
+_OBJC_SELECTOR_REFERENCES_.288
+_OBJC_CLASSLIST_REFERENCES_$_.289
+_OBJC_SELECTOR_REFERENCES_.291
+_OBJC_SELECTOR_REFERENCES_.293
+_OBJC_SELECTOR_REFERENCES_.297
+_OBJC_SELECTOR_REFERENCES_.299
+_OBJC_SELECTOR_REFERENCES_.301
+_OBJC_SELECTOR_REFERENCES_.305
+_OBJC_SELECTOR_REFERENCES_.308
+_OBJC_CLASSLIST_REFERENCES_$_.310
+_OBJC_CLASSLIST_REFERENCES_$_.311
+___block_descriptor_24_e4_20bs_e43_v12?0"BNCInitSessionResponse"4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.318
+_OBJC_SELECTOR_REFERENCES_.320
+_OBJC_SELECTOR_REFERENCES_.322
+_OBJC_SELECTOR_REFERENCES_.324
+_OBJC_SELECTOR_REFERENCES_.326
+_OBJC_SELECTOR_REFERENCES_.336
+_OBJC_SELECTOR_REFERENCES_.338
+_OBJC_SELECTOR_REFERENCES_.348
+_OBJC_SELECTOR_REFERENCES_.350
+_OBJC_SELECTOR_REFERENCES_.352
+_OBJC_SELECTOR_REFERENCES_.354
+_OBJC_SELECTOR_REFERENCES_.356
+_OBJC_SELECTOR_REFERENCES_.358
+_OBJC_SELECTOR_REFERENCES_.360
+_OBJC_SELECTOR_REFERENCES_.362
+_OBJC_SELECTOR_REFERENCES_.364
+_OBJC_SELECTOR_REFERENCES_.366
+_OBJC_SELECTOR_REFERENCES_.368
+_OBJC_SELECTOR_REFERENCES_.374
+_OBJC_SELECTOR_REFERENCES_.378
+_OBJC_CLASSLIST_REFERENCES_$_.379
+_OBJC_SELECTOR_REFERENCES_.382
+_OBJC_SELECTOR_REFERENCES_.384
+_OBJC_SELECTOR_REFERENCES_.386
+_OBJC_SELECTOR_REFERENCES_.388
+_OBJC_CLASSLIST_REFERENCES_$_.391
+_OBJC_SELECTOR_REFERENCES_.393
+_OBJC_SELECTOR_REFERENCES_.397
+_OBJC_CLASSLIST_REFERENCES_$_.404
+_OBJC_SELECTOR_REFERENCES_.412
+_OBJC_SELECTOR_REFERENCES_.414
+_OBJC_SELECTOR_REFERENCES_.418
+_OBJC_SELECTOR_REFERENCES_.420
+___block_literal_global.444
+_OBJC_CLASSLIST_REFERENCES_$_.445
+___block_descriptor_24_e4_20s_e17_v8?0"NSString"4l
+_OBJC_SELECTOR_REFERENCES_.450
+___block_literal_global.451
+_OBJC_CLASSLIST_REFERENCES_$_.452
+___block_descriptor_24_e4_20s_e23_v8?0"BNCApplication"4l
+_OBJC_SELECTOR_REFERENCES_.455
+_OBJC_CLASSLIST_REFERENCES_$_.456
+_OBJC_SELECTOR_REFERENCES_.462
+_OBJC_SELECTOR_REFERENCES_.464
+_OBJC_SELECTOR_REFERENCES_.466
+___block_literal_global.467
+_OBJC_SELECTOR_REFERENCES_.469
+_OBJC_SELECTOR_REFERENCES_.473
+_OBJC_CLASSLIST_REFERENCES_$_.474
+_OBJC_SELECTOR_REFERENCES_.476
+___block_literal_global.477
+___block_descriptor_24_e4_20s_e26_v12?0"NSURL"4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.482
+_OBJC_CLASSLIST_REFERENCES_$_.487
+_OBJC_SELECTOR_REFERENCES_.489
+_OBJC_SELECTOR_REFERENCES_.493
+___block_descriptor_32_e4_20s24bs28s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.510
+_OBJC_CLASSLIST_REFERENCES_$_.513
+_OBJC_CLASSLIST_REFERENCES_$_.514
+___block_descriptor_28_e4_20s24bs_e19_v12?0c4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.523
+_OBJC_SELECTOR_REFERENCES_.525
+_OBJC_CLASSLIST_REFERENCES_$_.526
+_OBJC_SELECTOR_REFERENCES_.528
+___block_descriptor_32_e4_20s24s28s_e5_v4?0l
+___block_descriptor_28_e4_20s24s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.530
+_OBJC_CLASSLIST_REFERENCES_$_.531
+_OBJC_SELECTOR_REFERENCES_.533
+___block_descriptor_36_e4_20s24s28bs32s_e5_v4?0l
+_OBJC_CLASSLIST_REFERENCES_$_.534
+___block_descriptor_28_e4_20bs24s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.542
+_OBJC_CLASSLIST_REFERENCES_$_.547
+___block_descriptor_36_e4_20s24bs28s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.551
+_OBJC_CLASSLIST_REFERENCES_$_.552
+___block_descriptor_44_e4_20s24s28bs32s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.558
+_OBJC_SELECTOR_REFERENCES_.560
+_OBJC_SELECTOR_REFERENCES_.562
+_OBJC_SELECTOR_REFERENCES_.564
+_OBJC_SELECTOR_REFERENCES_.568
+_OBJC_CLASSLIST_REFERENCES_$_.577
+_OBJC_SELECTOR_REFERENCES_.579
+_OBJC_SELECTOR_REFERENCES_.581
+_OBJC_CLASSLIST_REFERENCES_$_.582
+___block_descriptor_32_e4_20s24bs_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.586
+_OBJC_CLASSLIST_REFERENCES_$_.589
+_OBJC_SELECTOR_REFERENCES_.591
+_OBJC_SELECTOR_REFERENCES_.593
+_OBJC_SELECTOR_REFERENCES_.603
+_OBJC_SELECTOR_REFERENCES_.611
+_OBJC_SELECTOR_REFERENCES_.613
+_OBJC_SELECTOR_REFERENCES_.615
+_OBJC_SELECTOR_REFERENCES_.617
+_OBJC_SELECTOR_REFERENCES_.619
+_OBJC_SELECTOR_REFERENCES_.621
+_OBJC_CLASSLIST_REFERENCES_$_.622
+_OBJC_SELECTOR_REFERENCES_.627
+___block_descriptor_24_e4_20bs_e28_v12?0"NSArray"4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.630
+_OBJC_SELECTOR_REFERENCES_.632
+_OBJC_SELECTOR_REFERENCES_.635
+_OBJC_SELECTOR_REFERENCES_.637
+_OBJC_SELECTOR_REFERENCES_.639
+_getInstanceInternal:.branch
+_getInstanceInternal:.onceToken
+_OBJC_SELECTOR_REFERENCES_.641
+_OBJC_SELECTOR_REFERENCES_.645
+_OBJC_SELECTOR_REFERENCES_.647
+_OBJC_SELECTOR_REFERENCES_.649
+_OBJC_SELECTOR_REFERENCES_.651
+_OBJC_SELECTOR_REFERENCES_.653
+_OBJC_SELECTOR_REFERENCES_.655
+_OBJC_SELECTOR_REFERENCES_.657
+_OBJC_CLASSLIST_REFERENCES_$_.658
+_OBJC_SELECTOR_REFERENCES_.660
+_OBJC_SELECTOR_REFERENCES_.662
+_OBJC_CLASSLIST_REFERENCES_$_.663
+_OBJC_SELECTOR_REFERENCES_.665
+_OBJC_SELECTOR_REFERENCES_.667
+_OBJC_SELECTOR_REFERENCES_.669
+_OBJC_SELECTOR_REFERENCES_.671
+_OBJC_CLASSLIST_REFERENCES_$_.672
+_OBJC_SELECTOR_REFERENCES_.674
+_OBJC_SELECTOR_REFERENCES_.676
+___block_descriptor_32_e4_20bs24s28s_e5_v4?0l
+_OBJC_CLASSLIST_REFERENCES_$_.677
+_OBJC_SELECTOR_REFERENCES_.679
+___block_descriptor_64_e4_20s24s28s32s36s40s44s48s52bs_e5_v4?0l
+_OBJC_CLASSLIST_REFERENCES_$_.680
+_OBJC_SELECTOR_REFERENCES_.682
+_OBJC_SELECTOR_REFERENCES_.686
+_OBJC_SELECTOR_REFERENCES_.688
+_OBJC_SELECTOR_REFERENCES_.690
+_OBJC_SELECTOR_REFERENCES_.692
+_OBJC_SELECTOR_REFERENCES_.698
+_OBJC_SELECTOR_REFERENCES_.700
+_OBJC_SELECTOR_REFERENCES_.704
+_OBJC_SELECTOR_REFERENCES_.706
+_OBJC_SELECTOR_REFERENCES_.720
+_OBJC_SELECTOR_REFERENCES_.722
+_OBJC_CLASSLIST_REFERENCES_$_.725
+_OBJC_SELECTOR_REFERENCES_.727
+_OBJC_SELECTOR_REFERENCES_.729
+_OBJC_SELECTOR_REFERENCES_.731
+_OBJC_SELECTOR_REFERENCES_.733
+_OBJC_SELECTOR_REFERENCES_.735
+_OBJC_SELECTOR_REFERENCES_.737
+_OBJC_SELECTOR_REFERENCES_.739
+_OBJC_SELECTOR_REFERENCES_.741
+_OBJC_SELECTOR_REFERENCES_.743
+_OBJC_SELECTOR_REFERENCES_.745
+_OBJC_SELECTOR_REFERENCES_.747
+_OBJC_SELECTOR_REFERENCES_.749
+_OBJC_CLASSLIST_REFERENCES_$_.750
+_OBJC_SELECTOR_REFERENCES_.752
+_OBJC_SELECTOR_REFERENCES_.754
+_OBJC_SELECTOR_REFERENCES_.756
+___block_descriptor_24_e4_20bs_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.758
+_OBJC_SELECTOR_REFERENCES_.760
+_OBJC_SELECTOR_REFERENCES_.762
+_OBJC_SELECTOR_REFERENCES_.766
+_OBJC_CLASSLIST_REFERENCES_$_.767
+_OBJC_SELECTOR_REFERENCES_.769
+_OBJC_SELECTOR_REFERENCES_.771
+_OBJC_SELECTOR_REFERENCES_.773
+_OBJC_CLASSLIST_REFERENCES_$_.774
+_OBJC_SELECTOR_REFERENCES_.776
+_OBJC_SELECTOR_REFERENCES_.778
+_OBJC_SELECTOR_REFERENCES_.780
+_OBJC_SELECTOR_REFERENCES_.782
+_OBJC_CLASSLIST_REFERENCES_$_.783
+_OBJC_CLASSLIST_REFERENCES_$_.784
+_OBJC_SELECTOR_REFERENCES_.786
+_OBJC_SELECTOR_REFERENCES_.788
+_OBJC_SELECTOR_REFERENCES_.790
+_OBJC_SELECTOR_REFERENCES_.792
+_OBJC_SELECTOR_REFERENCES_.796
+_OBJC_SELECTOR_REFERENCES_.798
+_OBJC_SELECTOR_REFERENCES_.800
+_OBJC_SELECTOR_REFERENCES_.802
+_OBJC_CLASSLIST_REFERENCES_$_.805
+_OBJC_SELECTOR_REFERENCES_.807
+_OBJC_SELECTOR_REFERENCES_.809
+_OBJC_SELECTOR_REFERENCES_.811
+_OBJC_SELECTOR_REFERENCES_.813
+_OBJC_SELECTOR_REFERENCES_.815
+_OBJC_CLASSLIST_REFERENCES_$_.816
+_OBJC_SELECTOR_REFERENCES_.818
+_OBJC_SELECTOR_REFERENCES_.824
+___block_descriptor_28_e4_20s24s_e38_v12?0"BNCServerResponse"4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.827
+_OBJC_SELECTOR_REFERENCES_.831
+_OBJC_SELECTOR_REFERENCES_.833
+_OBJC_SELECTOR_REFERENCES_.835
+_OBJC_SELECTOR_REFERENCES_.837
+_OBJC_SELECTOR_REFERENCES_.839
+_OBJC_SELECTOR_REFERENCES_.841
+_OBJC_SELECTOR_REFERENCES_.845
+_OBJC_SELECTOR_REFERENCES_.847
+_OBJC_CLASSLIST_REFERENCES_$_.848
+_OBJC_SELECTOR_REFERENCES_.850
+_OBJC_SELECTOR_REFERENCES_.852
+_OBJC_SELECTOR_REFERENCES_.854
+_OBJC_SELECTOR_REFERENCES_.856
+___block_descriptor_29_e4_20s24s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.858
+_OBJC_SELECTOR_REFERENCES_.860
+___block_descriptor_33_e4_20s24s28s_e5_v4?0l
+___block_descriptor_29_e4_20s24s_e19_v12?0c4"NSError"8l
+_OBJC_SELECTOR_REFERENCES_.862
+_OBJC_SELECTOR_REFERENCES_.864
+_OBJC_SELECTOR_REFERENCES_.866
+_OBJC_SELECTOR_REFERENCES_.867
+_OBJC_SELECTOR_REFERENCES_.869
+_OBJC_SELECTOR_REFERENCES_.871
+_OBJC_SELECTOR_REFERENCES_.873
+_OBJC_SELECTOR_REFERENCES_.879
+_OBJC_SELECTOR_REFERENCES_.887
+_OBJC_CLASSLIST_REFERENCES_$_.888
+_OBJC_SELECTOR_REFERENCES_.890
+_OBJC_SELECTOR_REFERENCES_.891
+_OBJC_SELECTOR_REFERENCES_.893
+_OBJC_SELECTOR_REFERENCES_.895
+_OBJC_SELECTOR_REFERENCES_.896
+_OBJC_SELECTOR_REFERENCES_.898
+_OBJC_SELECTOR_REFERENCES_.900
+_OBJC_SELECTOR_REFERENCES_.902
+_OBJC_SELECTOR_REFERENCES_.904
+_OBJC_SELECTOR_REFERENCES_.906
+_OBJC_CLASSLIST_REFERENCES_$_.907
+_OBJC_SELECTOR_REFERENCES_.909
+_OBJC_SELECTOR_REFERENCES_.911
+_OBJC_SELECTOR_REFERENCES_.913
+_OBJC_SELECTOR_REFERENCES_.915
+_OBJC_SELECTOR_REFERENCES_.917
+_OBJC_CLASSLIST_REFERENCES_$_.920
+_OBJC_SELECTOR_REFERENCES_.922
+_OBJC_SELECTOR_REFERENCES_.924
+_OBJC_SELECTOR_REFERENCES_.926
+_OBJC_SELECTOR_REFERENCES_.930
+_OBJC_SELECTOR_REFERENCES_.932
+_OBJC_SELECTOR_REFERENCES_.934
+_OBJC_SELECTOR_REFERENCES_.936
+_OBJC_CLASSLIST_REFERENCES_$_.937
+_OBJC_SELECTOR_REFERENCES_.939
+_OBJC_SELECTOR_REFERENCES_.941
+_OBJC_SELECTOR_REFERENCES_.943
+_OBJC_SELECTOR_REFERENCES_.945
+_OBJC_SELECTOR_REFERENCES_.947
+_OBJC_SELECTOR_REFERENCES_.949
+_OBJC_SELECTOR_REFERENCES_.951
+_OBJC_SELECTOR_REFERENCES_.953
+_OBJC_SELECTOR_REFERENCES_.954
+_OBJC_SELECTOR_REFERENCES_.956
+_OBJC_SELECTOR_REFERENCES_.958
+_OBJC_SELECTOR_REFERENCES_.960
+_OBJC_SELECTOR_REFERENCES_.962
+_OBJC_SELECTOR_REFERENCES_.964
+_OBJC_SELECTOR_REFERENCES_.966
+_OBJC_SELECTOR_REFERENCES_.968
+_OBJC_SELECTOR_REFERENCES_.970
+_OBJC_SELECTOR_REFERENCES_.972
+_OBJC_CLASSLIST_REFERENCES_$_.973
+_OBJC_SELECTOR_REFERENCES_.975
+___block_descriptor_28_e4_20s24s_e14_v16?048^c12l
+_OBJC_SELECTOR_REFERENCES_.978
+_OBJC_CLASSLIST_REFERENCES_$_.979
+_OBJC_SELECTOR_REFERENCES_.981
+___block_descriptor_20_e23_v8?0"NSNotification"4l
+___block_literal_global.983
+_OBJC_SELECTOR_REFERENCES_.985
+_OBJC_SELECTOR_REFERENCES_.987
+_OBJC_SELECTOR_REFERENCES_.989
+__OBJC_$_CLASS_METHODS_Branch
+__OBJC_$_PROTOCOL_REFS_BranchDeepLinkingControllerCompletionDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_BranchDeepLinkingControllerCompletionDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_BranchDeepLinkingControllerCompletionDelegate
+__OBJC_PROTOCOL_$_BranchDeepLinkingControllerCompletionDelegate
+__OBJC_LABEL_PROTOCOL_$_BranchDeepLinkingControllerCompletionDelegate
+__OBJC_CLASS_PROTOCOLS_$_Branch
+__OBJC_METACLASS_RO_$_Branch
+__OBJC_$_INSTANCE_METHODS_Branch
+_OBJC_IVAR_$_Branch._networkCount
+_OBJC_IVAR_$_Branch._userURLBlackList
+_OBJC_IVAR_$_Branch._shouldAutomaticallyDeepLink
+_OBJC_IVAR_$_Branch._delegate
+_OBJC_IVAR_$_Branch._sessionInitWithParamsCallback
+_OBJC_IVAR_$_Branch._sessionInitWithBranchUniversalObjectCallback
+_OBJC_IVAR_$_Branch._serverInterface
+_OBJC_IVAR_$_Branch._isolationQueue
+_OBJC_IVAR_$_Branch._requestQueue
+_OBJC_IVAR_$_Branch._processing_sema
+_OBJC_IVAR_$_Branch._initializationStatus
+_OBJC_IVAR_$_Branch._linkCache
+_OBJC_IVAR_$_Branch._preferenceHelper
+_OBJC_IVAR_$_Branch._contentDiscoveryManager
+_OBJC_IVAR_$_Branch._deepLinkControllers
+_OBJC_IVAR_$_Branch._deepLinkPresentingController
+_OBJC_IVAR_$_Branch._deepLinkDebugParams
+_OBJC_IVAR_$_Branch._whiteListedSchemeList
+_OBJC_IVAR_$_Branch._URLBlackList
+_OBJC_IVAR_$_Branch._sceneSessionInitWithCallback
+__OBJC_$_INSTANCE_VARIABLES_Branch
+__OBJC_$_PROP_LIST_Branch
+__OBJC_CLASS_RO_$_Branch
+_OBJC_CLASSLIST_REFERENCES_$_.1279
+_OBJC_SELECTOR_REFERENCES_.1281
+_OBJC_LABEL_NONLAZY_CLASS_$
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Branch.m
+Branch-SDK/Branch-SDK/Branch.m
+Branch-SDK/Branch-SDK/Branch.h
+__35+[Branch logLowMemoryToCrashlytics]_block_invoke
+__45-[Branch deepLinkingControllerCompletedFrom:]_block_invoke
+__39-[Branch presentSharingViewController:]_block_invoke
+__51-[Branch automaticallyDeeplinkWithReferringParams:]_block_invoke
+__59-[Branch handleInitSuccessAndCallCallback:sceneIdentifier:]_block_invoke
+__59-[Branch initializeSessionAndCallCallback:sceneIdentifier:]_block_invoke_2
+__59-[Branch initializeSessionAndCallCallback:sceneIdentifier:]_block_invoke
+__57-[Branch initUserSessionAndCallCallback:sceneIdentifier:]_block_invoke_2
+__57-[Branch initUserSessionAndCallCallback:sceneIdentifier:]_block_invoke
+__30-[Branch processNextQueueItem]_block_invoke_4
+__30-[Branch processNextQueueItem]_block_invoke_3
+__30-[Branch processNextQueueItem]_block_invoke_2
+__30-[Branch processNextQueueItem]_block_invoke
+BNCPerformBlockOnMainThreadSync
+__40-[Branch processRequest:response:error:]_block_invoke_2
+__40-[Branch processRequest:response:error:]_block_invoke
+__45-[Branch registerViewWithParams:andCallback:]_block_invoke_2
+__45-[Branch registerViewWithParams:andCallback:]_block_invoke
+__destroy_helper_block_e4_20s24s28s32s36s40s44s48s52s
+__copy_helper_block_e4_20s24s28s32s36s40s44s48s52b
+__126-[Branch generateShortUrl:andAlias:andType:andMatchDuration:andChannel:andFeature:andStage:andCampaign:andParams:andCallback:]_block_invoke_2
+__126-[Branch generateShortUrl:andAlias:andType:andMatchDuration:andChannel:andFeature:andStage:andCampaign:andParams:andCallback:]_block_invoke
+__30+[Branch getInstanceInternal:]_block_invoke
+__59-[Branch removeAllPrivateContentFromSpotLightWithCallback:]_block_invoke
+__67-[Branch removeSearchableItemsWithBranchUniversalObjects:callback:]_block_invoke
+__65-[Branch removeSearchableItemWithBranchUniversalObject:callback:]_block_invoke
+__58-[Branch indexOnSpotlightUsingSearchableItems:completion:]_block_invoke
+__78-[Branch indexOnSpotlightWithBranchUniversalObject:linkProperties:completion:]_block_invoke
+__45-[Branch getSpotlightUrlWithParams:callback:]_block_invoke
+__66-[Branch lastAttributedTouchDataWithAttributionWindow:completion:]_block_invoke
+__44-[Branch crossPlatformIdDataWithCompletion:]_block_invoke
+__67-[Branch getCreditHistoryForBucket:after:number:order:andCallback:]_block_invoke
+__43-[Branch redeemRewards:forBucket:callback:]_block_invoke
+__34-[Branch loadRewardsWithCallback:]_block_invoke
+__copy_helper_block_e4_20s24s28b32s
+__52-[Branch sendCommerceEvent:metadata:withCompletion:]_block_invoke
+__copy_helper_block_e4_20s24s
+__28-[Branch sendServerRequest:]_block_invoke
+__copy_helper_block_e4_20s24s28s
+__40-[Branch userCompletedAction:withState:]_block_invoke
+__29-[Branch logoutWithCallback:]_block_invoke
+__copy_helper_block_e4_20s24b28s
+__35-[Branch setIdentity:withCallback:]_block_invoke
+__31-[Branch checkFacebookAppLinks]_block_invoke_2
+__31-[Branch checkFacebookAppLinks]_block_invoke
+__40-[Branch checkAppleSearchAdsAttribution]_block_invoke_2
+__40-[Branch checkAppleSearchAdsAttribution]_block_invoke
+__29-[Branch loadApplicationData]_block_invoke_2
+__29-[Branch loadApplicationData]_block_invoke
+__23-[Branch loadUserAgent]_block_invoke_2
+__23-[Branch loadUserAgent]_block_invoke
+__45-[Branch checkAttributionStatusAndInitialize]_block_invoke
+__137-[Branch initSessionWithLaunchOptions:isReferrable:explicitlyRequestedReferrable:automaticallyDisplayController:registerDeepLinkHandler:]_block_invoke
+__163-[Branch initSessionWithLaunchOptions:isReferrable:explicitlyRequestedReferrable:automaticallyDisplayController:registerDeepLinkHandlerUsingBranchUniversalObject:]_block_invoke
+__26-[Branch resetUserSession]_block_invoke
+__14+[Branch load]_block_invoke
+BranchClassInitializeLog
+ForceCategoriesToLoad
+-[BNCLinkCache init]
+-[BNCLinkCache setObject:forKey:]
+-[BNCLinkCache objectForKey:]
+-[BNCLinkCache clear]
+-[BNCLinkCache cache]
+-[BNCLinkCache setCache:]
+-[BNCLinkCache .cxx_destruct]
+__OBJC_METACLASS_RO_$_BNCLinkCache
+__OBJC_$_INSTANCE_METHODS_BNCLinkCache
+_OBJC_IVAR_$_BNCLinkCache._cache
+__OBJC_$_INSTANCE_VARIABLES_BNCLinkCache
+__OBJC_$_PROP_LIST_BNCLinkCache
+__OBJC_CLASS_RO_$_BNCLinkCache
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCLinkCache.m
+Branch-SDK/Branch-SDK/BNCLinkCache.m
++[BranchContentDiscoverer getInstance]
+-[BranchContentDiscoverer dealloc]
+-[BranchContentDiscoverer setContentManifest:]
+-[BranchContentDiscoverer startDiscoveryTaskWithManifest:]
+-[BranchContentDiscoverer startDiscoveryTask]
+-[BranchContentDiscoverer stopDiscoveryTask]
+-[BranchContentDiscoverer readContentDataIfNeeded]
+-[BranchContentDiscoverer readContentData:]
+-[BranchContentDiscoverer discoverViewContents:contentData:contentKeys:clearText:ID:]
+-[BranchContentDiscoverer discoverFilteredViewContents:contentData:contentKeys:clearText:]
+-[BranchContentDiscoverer getRootView:]
+-[BranchContentDiscoverer getViewText:forController:]
+-[BranchContentDiscoverer addFormattedContentData:withText:clearText:]
+-[BranchContentDiscoverer getContentText:]
+-[BranchContentDiscoverer contentManifest]
+-[BranchContentDiscoverer lastViewControllerName]
+-[BranchContentDiscoverer setLastViewControllerName:]
+-[BranchContentDiscoverer contentDiscoveryTimer]
+-[BranchContentDiscoverer setContentDiscoveryTimer:]
+-[BranchContentDiscoverer numOfViewsDiscovered]
+-[BranchContentDiscoverer setNumOfViewsDiscovered:]
+-[BranchContentDiscoverer .cxx_destruct]
+_getInstance.sharedInstance
+_OBJC_CLASSLIST_REFERENCES_$_.22
+_OBJC_CLASSLIST_REFERENCES_$_.57
+_OBJC_CLASSLIST_REFERENCES_$_.77
+_OBJC_CLASSLIST_REFERENCES_$_.82
+_OBJC_CLASSLIST_REFERENCES_$_.85
+_OBJC_CLASSLIST_REFERENCES_$_.115
+_OBJC_CLASSLIST_REFERENCES_$_.141
+__OBJC_$_CLASS_METHODS_BranchContentDiscoverer
+__OBJC_METACLASS_RO_$_BranchContentDiscoverer
+__OBJC_$_INSTANCE_METHODS_BranchContentDiscoverer
+_OBJC_IVAR_$_BranchContentDiscoverer._contentManifest
+_OBJC_IVAR_$_BranchContentDiscoverer._lastViewControllerName
+_OBJC_IVAR_$_BranchContentDiscoverer._contentDiscoveryTimer
+_OBJC_IVAR_$_BranchContentDiscoverer._numOfViewsDiscovered
+__OBJC_$_INSTANCE_VARIABLES_BranchContentDiscoverer
+__OBJC_$_PROP_LIST_BranchContentDiscoverer
+__OBJC_CLASS_RO_$_BranchContentDiscoverer
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchContentDiscoverer.m
+Branch-SDK/Branch-SDK/BranchContentDiscoverer.m
+Branch-SDK/Branch-SDK/BranchContentDiscoverer.h
+-[NSMutableDictionary(Branch) bnc_safeSetObject:forKey:]
+-[NSMutableDictionary(Branch) bnc_safeAddEntriesFromDictionary:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSMutableDictionary_$_Branch
+__OBJC_$_CATEGORY_NSMutableDictionary_$_Branch
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/NSMutableDictionary+Branch.m
+BNCForceNSMutableDictionaryCategoryToLoad
+Branch-SDK/Branch-SDK/NSMutableDictionary+Branch.m
+-[Branch(Validator) validateSDKIntegrationCore]
+___47-[Branch(Validator) validateSDKIntegrationCore]_block_invoke
+-[Branch(Validator) startValidation]
+___36-[Branch(Validator) startValidation]_block_invoke
+-[Branch(Validator) validateIntegrationWithServerResponse:]
+___59-[Branch(Validator) validateIntegrationWithServerResponse:]_block_invoke
+___59-[Branch(Validator) validateIntegrationWithServerResponse:]_block_invoke_2
+-[Branch(Validator) showNextStep]
+-[Branch(Validator) showAlertWithTitle:message:]
+___48-[Branch(Validator) showAlertWithTitle:message:]_block_invoke
+-[Branch(Validator) returnToBrowserBasedOnReferringLink:currentTest:newTestVal:]
+-[Branch(Validator) validateDeeplinkRouting:]
+___45-[Branch(Validator) validateDeeplinkRouting:]_block_invoke
+___45-[Branch(Validator) validateDeeplinkRouting:]_block_invoke_2
+___45-[Branch(Validator) validateDeeplinkRouting:]_block_invoke.224
++[Branch(Validator) returnNonUniversalLink:]
+___block_descriptor_24_e4_20s_e38_v12?0"BNCServerResponse"4"NSError"8l
+_OBJC_CLASSLIST_REFERENCES_$_.62
+_OBJC_CLASSLIST_REFERENCES_$_.118
+_OBJC_CLASSLIST_REFERENCES_$_.123
+___block_descriptor_24_e4_20s_e22_v8?0"UIAlertAction"4l
+_OBJC_CLASSLIST_REFERENCES_$_.159
+_OBJC_CLASSLIST_REFERENCES_$_.160
+_OBJC_CLASSLIST_REFERENCES_$_.167
+_OBJC_CLASSLIST_REFERENCES_$_.176
+_OBJC_CLASSLIST_REFERENCES_$_.203
+_OBJC_SELECTOR_REFERENCES_.211
+___block_descriptor_28_e4_20s24s_e22_v8?0"UIAlertAction"4l
+__OBJC_$_CATEGORY_INSTANCE_METHODS_Branch_$_Validator
+__OBJC_$_CATEGORY_CLASS_METHODS_Branch_$_Validator
+__OBJC_$_CATEGORY_Branch_$_Validator
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Branch+Validator.m
+Branch-SDK/Branch-SDK/Branch+Validator.m
+__45-[Branch(Validator) validateDeeplinkRouting:]_block_invoke.224
+__45-[Branch(Validator) validateDeeplinkRouting:]_block_invoke_2
+__45-[Branch(Validator) validateDeeplinkRouting:]_block_invoke
+BNCAfterSecondsPerformBlockOnMainThread
+BNCDispatchTimeFromSeconds
+__48-[Branch(Validator) showAlertWithTitle:message:]_block_invoke
+BNCPerformBlockOnMainThreadAsync
+__59-[Branch(Validator) validateIntegrationWithServerResponse:]_block_invoke_2
+__59-[Branch(Validator) validateIntegrationWithServerResponse:]_block_invoke
+__36-[Branch(Validator) startValidation]_block_invoke
+__47-[Branch(Validator) validateSDKIntegrationCore]_block_invoke
+BNCForceBranchValidatorCategoryToLoad
++[NSError(Branch) bncErrorDomain]
++[NSError(Branch) messageForCode:]
+___34+[NSError(Branch) messageForCode:]_block_invoke
++[NSError(Branch) branchErrorWithCode:error:localizedMessage:]
++[NSError(Branch) branchErrorWithCode:]
++[NSError(Branch) branchErrorWithCode:error:]
++[NSError(Branch) branchErrorWithCode:localizedMessage:]
+_messageForCode:.messages
+_messageForCode:.onceToken
+__OBJC_$_CATEGORY_CLASS_METHODS_NSError_$_Branch
+__OBJC_$_CATEGORY_NSError_$_Branch
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/NSError+Branch.m
+Branch-SDK/Branch-SDK/NSError+Branch.m
+__34+[NSError(Branch) messageForCode:]_block_invoke
+BNCForceNSErrorCategoryToLoad
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCThreads.m
++[BNCCallbackMap shared]
+___24+[BNCCallbackMap shared]_block_invoke
+-[BNCCallbackMap init]
+-[BNCCallbackMap storeRequest:withCompletion:]
+-[BNCCallbackMap containsRequest:]
+-[BNCCallbackMap callCompletionForRequest:withSuccessStatus:error:]
+-[BNCCallbackMap callbacks]
+-[BNCCallbackMap setCallbacks:]
+-[BNCCallbackMap .cxx_destruct]
+_shared.map
+__OBJC_$_CLASS_METHODS_BNCCallbackMap
+__OBJC_METACLASS_RO_$_BNCCallbackMap
+__OBJC_$_INSTANCE_METHODS_BNCCallbackMap
+_OBJC_IVAR_$_BNCCallbackMap._callbacks
+__OBJC_$_INSTANCE_VARIABLES_BNCCallbackMap
+__OBJC_$_PROP_LIST_BNCCallbackMap
+__OBJC_CLASS_RO_$_BNCCallbackMap
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCCallbackMap.m
+Branch-SDK/Branch-SDK/BNCCallbackMap.m
+__24+[BNCCallbackMap shared]_block_invoke
++[BNCCrashlyticsWrapper sharedInstance]
++[BNCCrashlyticsWrapper wrapper]
+-[BNCCrashlyticsWrapper init]
+-[BNCCrashlyticsWrapper setObjectValue:forKey:]
+-[BNCCrashlyticsWrapper setIntValue:forKey:]
+-[BNCCrashlyticsWrapper setFloatValue:forKey:]
+-[BNCCrashlyticsWrapper setBoolValue:forKey:]
+-[BNCCrashlyticsWrapper crashlytics]
+-[BNCCrashlyticsWrapper setCrashlytics:]
+-[BNCCrashlyticsWrapper .cxx_destruct]
+__OBJC_$_CLASS_METHODS_BNCCrashlyticsWrapper
+__OBJC_METACLASS_RO_$_BNCCrashlyticsWrapper
+__OBJC_$_INSTANCE_METHODS_BNCCrashlyticsWrapper
+_OBJC_IVAR_$_BNCCrashlyticsWrapper._crashlytics
+__OBJC_$_INSTANCE_VARIABLES_BNCCrashlyticsWrapper
+__OBJC_$_PROP_LIST_BNCCrashlyticsWrapper
+__OBJC_CLASS_RO_$_BNCCrashlyticsWrapper
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCCrashlyticsWrapper.m
+Branch-SDK/Branch-SDK/BNCCrashlyticsWrapper.m
+Branch-SDK/Branch-SDK/BNCCrashlyticsWrapper.h
+-[NSString(Branch) bnc_isEqualToMaskedString:]
+-[NSString(Branch) bnc_stringTruncatedAtNull]
+-[NSString(Branch) bnc_containsString:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSString_$_Branch
+__OBJC_$_CATEGORY_NSString_$_Branch
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/NSString+Branch.m
+Branch-SDK/Branch-SDK/NSString+Branch.m
+BNCForceNSStringCategoryToLoad
++[BranchLastAttributedTouchData buildFromJSON:]
++[BranchLastAttributedTouchData requestLastTouchAttributedData:key:attributionWindow:completion:]
+___97+[BranchLastAttributedTouchData requestLastTouchAttributedData:key:attributionWindow:completion:]_block_invoke
+-[BranchLastAttributedTouchData lastAttributedTouchJSON]
+-[BranchLastAttributedTouchData attributionWindow]
+-[BranchLastAttributedTouchData .cxx_destruct]
+___block_descriptor_28_e4_20bs_e38_v12?0"BNCServerResponse"4"NSError"8l
+__OBJC_$_CLASS_METHODS_BranchLastAttributedTouchData
+__OBJC_METACLASS_RO_$_BranchLastAttributedTouchData
+__OBJC_$_INSTANCE_METHODS_BranchLastAttributedTouchData
+_OBJC_IVAR_$_BranchLastAttributedTouchData._lastAttributedTouchJSON
+_OBJC_IVAR_$_BranchLastAttributedTouchData._attributionWindow
+__OBJC_$_INSTANCE_VARIABLES_BranchLastAttributedTouchData
+__OBJC_$_PROP_LIST_BranchLastAttributedTouchData
+__OBJC_CLASS_RO_$_BranchLastAttributedTouchData
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchLastAttributedTouchData.m
+Branch-SDK/Branch-SDK/BranchLastAttributedTouchData.m
+Branch-SDK/Branch-SDK/BranchLastAttributedTouchData.h
+__97+[BranchLastAttributedTouchData requestLastTouchAttributedData:key:attributionWindow:completion:]_block_invoke
++[BNCPreferenceHelper preferenceHelper]
+___39+[BNCPreferenceHelper preferenceHelper]_block_invoke
+-[BNCPreferenceHelper init]
++[BNCPreferenceHelper getInstance]
+___34+[BNCPreferenceHelper getInstance]_block_invoke
+-[BNCPreferenceHelper synchronize]
+-[BNCPreferenceHelper dealloc]
+-[BNCPreferenceHelper setBranchAPIURL:]
+-[BNCPreferenceHelper branchAPIURL]
+-[BNCPreferenceHelper getAPIBaseURL]
+-[BNCPreferenceHelper getAPIURL:]
+-[BNCPreferenceHelper getEndpointFromURL:]
+-[BNCPreferenceHelper lastRunBranchKey]
+-[BNCPreferenceHelper setLastRunBranchKey:]
+-[BNCPreferenceHelper lastStrongMatchDate]
+-[BNCPreferenceHelper setLastStrongMatchDate:]
+-[BNCPreferenceHelper appVersion]
+-[BNCPreferenceHelper setAppVersion:]
+-[BNCPreferenceHelper deviceFingerprintID]
+-[BNCPreferenceHelper setDeviceFingerprintID:]
+-[BNCPreferenceHelper sessionID]
+-[BNCPreferenceHelper setSessionID:]
+-[BNCPreferenceHelper identityID]
+-[BNCPreferenceHelper setIdentityID:]
+-[BNCPreferenceHelper userIdentity]
+-[BNCPreferenceHelper setUserIdentity:]
+-[BNCPreferenceHelper linkClickIdentifier]
+-[BNCPreferenceHelper setLinkClickIdentifier:]
+-[BNCPreferenceHelper spotlightIdentifier]
+-[BNCPreferenceHelper setSpotlightIdentifier:]
+-[BNCPreferenceHelper externalIntentURI]
+-[BNCPreferenceHelper setExternalIntentURI:]
+-[BNCPreferenceHelper referringURL]
+-[BNCPreferenceHelper setReferringURL:]
+-[BNCPreferenceHelper universalLinkUrl]
+-[BNCPreferenceHelper setUniversalLinkUrl:]
+-[BNCPreferenceHelper sessionParams]
+-[BNCPreferenceHelper setSessionParams:]
+-[BNCPreferenceHelper installParams]
+-[BNCPreferenceHelper setInstallParams:]
+-[BNCPreferenceHelper setAppleSearchAdDetails:]
+-[BNCPreferenceHelper appleSearchAdDetails]
+-[BNCPreferenceHelper setAppleSearchAdNeedsSend:]
+-[BNCPreferenceHelper appleSearchAdNeedsSend]
+-[BNCPreferenceHelper lastSystemBuildVersion]
+-[BNCPreferenceHelper setLastSystemBuildVersion:]
+-[BNCPreferenceHelper browserUserAgentString]
+-[BNCPreferenceHelper setBrowserUserAgentString:]
+-[BNCPreferenceHelper userUrl]
+-[BNCPreferenceHelper setUserUrl:]
+-[BNCPreferenceHelper sanitizedMutableBaseURL:]
+-[BNCPreferenceHelper checkedAppleSearchAdAttribution]
+-[BNCPreferenceHelper setCheckedAppleSearchAdAttribution:]
+-[BNCPreferenceHelper checkedFacebookAppLinks]
+-[BNCPreferenceHelper setCheckedFacebookAppLinks:]
+-[BNCPreferenceHelper clearUserCreditsAndCounts]
+-[BNCPreferenceHelper getBranchUniversalLinkDomains]
+-[BNCPreferenceHelper requestMetadataDictionary]
+-[BNCPreferenceHelper setRequestMetadataKey:value:]
+-[BNCPreferenceHelper instrumentationDictionary]
+-[BNCPreferenceHelper addInstrumentationDictionaryKey:value:]
+-[BNCPreferenceHelper clearInstrumentationDictionary]
+-[BNCPreferenceHelper limitFacebookTracking]
+-[BNCPreferenceHelper setLimitFacebookTracking:]
+-[BNCPreferenceHelper previousAppBuildDate]
+-[BNCPreferenceHelper setPreviousAppBuildDate:]
+-[BNCPreferenceHelper URLBlackList]
+-[BNCPreferenceHelper setURLBlackList:]
+-[BNCPreferenceHelper URLBlackListVersion]
+-[BNCPreferenceHelper setURLBlackListVersion:]
+-[BNCPreferenceHelper blacklistURLOpen]
+-[BNCPreferenceHelper setBlacklistURLOpen:]
+-[BNCPreferenceHelper trackingDisabled]
+-[BNCPreferenceHelper setTrackingDisabled:]
+-[BNCPreferenceHelper clearTrackingInformation]
+-[BNCPreferenceHelper creditsDictionary]
+-[BNCPreferenceHelper setCreditCount:]
+-[BNCPreferenceHelper setCreditCount:forBucket:]
+-[BNCPreferenceHelper removeCreditCountForBucket:]
+-[BNCPreferenceHelper getCreditDictionary]
+-[BNCPreferenceHelper getCreditCount]
+-[BNCPreferenceHelper getCreditCountForBucket:]
+-[BNCPreferenceHelper clearUserCredits]
+-[BNCPreferenceHelper saveBranchAnalyticsData:]
+-[BNCPreferenceHelper clearBranchAnalyticsData]
+-[BNCPreferenceHelper getBranchAnalyticsData]
+-[BNCPreferenceHelper saveContentAnalyticsManifest:]
+-[BNCPreferenceHelper getContentAnalyticsManifest]
+-[BNCPreferenceHelper writeIntegerToDefaults:value:]
+-[BNCPreferenceHelper writeBoolToDefaults:value:]
+-[BNCPreferenceHelper writeObjectToDefaults:value:]
+-[BNCPreferenceHelper persistPrefsToDisk]
+___41-[BNCPreferenceHelper persistPrefsToDisk]_block_invoke
++[BNCPreferenceHelper clearAll]
+-[BNCPreferenceHelper persistenceDict]
+-[BNCPreferenceHelper readObjectFromDefaults:]
+-[BNCPreferenceHelper readStringFromDefaults:]
+-[BNCPreferenceHelper readBoolFromDefaults:]
+-[BNCPreferenceHelper readIntegerFromDefaults:]
++[BNCPreferenceHelper prefsFile_deprecated]
++[BNCPreferenceHelper URLForPrefsFile]
++[BNCPreferenceHelper moveOldPrefsFile]
++[BNCPreferenceHelper initialize]
+-[BNCPreferenceHelper isDebug]
+-[BNCPreferenceHelper setIsDebug:]
+-[BNCPreferenceHelper retryCount]
+-[BNCPreferenceHelper setRetryCount:]
+-[BNCPreferenceHelper retryInterval]
+-[BNCPreferenceHelper setRetryInterval:]
+-[BNCPreferenceHelper timeout]
+-[BNCPreferenceHelper setTimeout:]
+-[BNCPreferenceHelper setRequestMetadataDictionary:]
+-[BNCPreferenceHelper setInstrumentationDictionary:]
+-[BNCPreferenceHelper savedAnalyticsData]
+-[BNCPreferenceHelper setSavedAnalyticsData:]
+-[BNCPreferenceHelper branchBlacklistURL]
+-[BNCPreferenceHelper setBranchBlacklistURL:]
+-[BNCPreferenceHelper disableAdNetworkCallouts]
+-[BNCPreferenceHelper setDisableAdNetworkCallouts:]
+-[BNCPreferenceHelper faceBookAppLink]
+-[BNCPreferenceHelper setFaceBookAppLink:]
+-[BNCPreferenceHelper setPersistenceDict:]
+-[BNCPreferenceHelper setCreditsDictionary:]
+-[BNCPreferenceHelper .cxx_destruct]
+___BNCURLForBranchDirectory_block_invoke
+_preferenceHelper.preferenceHelper
+_preferenceHelper.onceToken
+_getInstance.preferenceHelper
+___block_literal_global.55
+_OBJC_CLASSLIST_REFERENCES_$_.64
+_OBJC_CLASSLIST_REFERENCES_$_.138
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_CLASSLIST_REFERENCES_$_.161
+_OBJC_CLASSLIST_REFERENCES_$_.164
+_OBJC_CLASSLIST_REFERENCES_$_.175
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_CLASSLIST_REFERENCES_$_.232
+_OBJC_CLASSLIST_REFERENCES_$_.239
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_CLASSLIST_REFERENCES_$_.249
+_OBJC_CLASSLIST_REFERENCES_$_.258
+_OBJC_SELECTOR_REFERENCES_.260
+_OBJC_CLASSLIST_REFERENCES_$_.263
+_OBJC_SELECTOR_REFERENCES_.265
+_OBJC_CLASSLIST_REFERENCES_$_.266
+_OBJC_CLASSLIST_REFERENCES_$_.283
+_OBJC_SELECTOR_REFERENCES_.285
+_OBJC_SELECTOR_REFERENCES_.287
+_OBJC_SELECTOR_REFERENCES_.289
+__OBJC_$_CLASS_METHODS_BNCPreferenceHelper
+__OBJC_METACLASS_RO_$_BNCPreferenceHelper
+__OBJC_$_INSTANCE_METHODS_BNCPreferenceHelper
+_OBJC_IVAR_$_BNCPreferenceHelper._persistPrefsQueue
+_OBJC_IVAR_$_BNCPreferenceHelper._lastSystemBuildVersion
+_OBJC_IVAR_$_BNCPreferenceHelper._browserUserAgentString
+_OBJC_IVAR_$_BNCPreferenceHelper._branchAPIURL
+_OBJC_IVAR_$_BNCPreferenceHelper._referringURL
+_OBJC_IVAR_$_BNCPreferenceHelper._isDebug
+_OBJC_IVAR_$_BNCPreferenceHelper._checkedFacebookAppLinks
+_OBJC_IVAR_$_BNCPreferenceHelper._checkedAppleSearchAdAttribution
+_OBJC_IVAR_$_BNCPreferenceHelper._disableAdNetworkCallouts
+_OBJC_IVAR_$_BNCPreferenceHelper._lastRunBranchKey
+_OBJC_IVAR_$_BNCPreferenceHelper._appVersion
+_OBJC_IVAR_$_BNCPreferenceHelper._deviceFingerprintID
+_OBJC_IVAR_$_BNCPreferenceHelper._sessionID
+_OBJC_IVAR_$_BNCPreferenceHelper._spotlightIdentifier
+_OBJC_IVAR_$_BNCPreferenceHelper._identityID
+_OBJC_IVAR_$_BNCPreferenceHelper._linkClickIdentifier
+_OBJC_IVAR_$_BNCPreferenceHelper._userUrl
+_OBJC_IVAR_$_BNCPreferenceHelper._userIdentity
+_OBJC_IVAR_$_BNCPreferenceHelper._sessionParams
+_OBJC_IVAR_$_BNCPreferenceHelper._installParams
+_OBJC_IVAR_$_BNCPreferenceHelper._universalLinkUrl
+_OBJC_IVAR_$_BNCPreferenceHelper._externalIntentURI
+_OBJC_IVAR_$_BNCPreferenceHelper._retryCount
+_OBJC_IVAR_$_BNCPreferenceHelper._lastStrongMatchDate
+_OBJC_IVAR_$_BNCPreferenceHelper._appleSearchAdDetails
+_OBJC_IVAR_$_BNCPreferenceHelper._requestMetadataDictionary
+_OBJC_IVAR_$_BNCPreferenceHelper._instrumentationDictionary
+_OBJC_IVAR_$_BNCPreferenceHelper._savedAnalyticsData
+_OBJC_IVAR_$_BNCPreferenceHelper._branchBlacklistURL
+_OBJC_IVAR_$_BNCPreferenceHelper._faceBookAppLink
+_OBJC_IVAR_$_BNCPreferenceHelper._persistenceDict
+_OBJC_IVAR_$_BNCPreferenceHelper._creditsDictionary
+_OBJC_IVAR_$_BNCPreferenceHelper._retryInterval
+_OBJC_IVAR_$_BNCPreferenceHelper._timeout
+__OBJC_$_INSTANCE_VARIABLES_BNCPreferenceHelper
+__OBJC_$_PROP_LIST_BNCPreferenceHelper
+__OBJC_CLASS_RO_$_BNCPreferenceHelper
+_OBJC_SELECTOR_REFERENCES_.509
+_OBJC_SELECTOR_REFERENCES_.515
+_OBJC_SELECTOR_REFERENCES_.519
+_OBJC_SELECTOR_REFERENCES_.521
+_OBJC_SELECTOR_REFERENCES_.527
+_BNCURLForBranchDirectory.urlForBranchDirectory
+_BNCURLForBranchDirectory.onceToken
+___block_literal_global.532
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCPreferenceHelper.m
+__BNCURLForBranchDirectory_block_invoke
+Branch-SDK/Branch-SDK/BNCPreferenceHelper.m
+BNCURLForBranchDirectory_Unthreaded
+BNCCreateDirectoryForBranchURLWithSearchPath_Unthreaded
+Branch-SDK/Branch-SDK/BNCPreferenceHelper.h
+BNCURLForBranchDirectory
+__41-[BNCPreferenceHelper persistPrefsToDisk]_block_invoke
+__34+[BNCPreferenceHelper getInstance]_block_invoke
+__39+[BNCPreferenceHelper preferenceHelper]_block_invoke
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCConfig.m
+-[BranchCSSearchableItemAttributeSet init]
+-[BranchCSSearchableItemAttributeSet initWithContentType:]
+-[BranchCSSearchableItemAttributeSet setIdentifier:]
+-[BranchCSSearchableItemAttributeSet indexWithCallback:]
+___56-[BranchCSSearchableItemAttributeSet indexWithCallback:]_block_invoke
+___56-[BranchCSSearchableItemAttributeSet indexWithCallback:]_block_invoke_2
+___56-[BranchCSSearchableItemAttributeSet indexWithCallback:]_block_invoke_3
+___copy_helper_block_e4_20s24s28s32b
+-[BranchCSSearchableItemAttributeSet indexContentWithUrl:spotlightIdentifier:callback:]
+___87-[BranchCSSearchableItemAttributeSet indexContentWithUrl:spotlightIdentifier:callback:]_block_invoke
+-[BranchCSSearchableItemAttributeSet params]
+-[BranchCSSearchableItemAttributeSet setParams:]
+-[BranchCSSearchableItemAttributeSet keywords]
+-[BranchCSSearchableItemAttributeSet setKeywords:]
+-[BranchCSSearchableItemAttributeSet publiclyIndexable]
+-[BranchCSSearchableItemAttributeSet setPubliclyIndexable:]
+-[BranchCSSearchableItemAttributeSet userActivity]
+-[BranchCSSearchableItemAttributeSet setUserActivity:]
+-[BranchCSSearchableItemAttributeSet .cxx_destruct]
+___block_descriptor_36_e4_20s24s28s32bs_e5_v4?0l
+___block_descriptor_32_e4_20s24s28bs_e5_v4?0l
+___block_descriptor_29_e4_20bs24s_e33_v12?0"NSDictionary"4"NSError"8l
+___block_descriptor_32_e4_20bs24s28s_e16_v8?0"NSError"4l
+_OBJC_IVAR_$_BranchCSSearchableItemAttributeSet._params
+_OBJC_IVAR_$_BranchCSSearchableItemAttributeSet._keywords
+_OBJC_IVAR_$_BranchCSSearchableItemAttributeSet._publiclyIndexable
+_OBJC_IVAR_$_BranchCSSearchableItemAttributeSet._userActivity
+__OBJC_METACLASS_RO_$_BranchCSSearchableItemAttributeSet
+__OBJC_$_INSTANCE_METHODS_BranchCSSearchableItemAttributeSet
+__OBJC_$_INSTANCE_VARIABLES_BranchCSSearchableItemAttributeSet
+__OBJC_$_PROP_LIST_BranchCSSearchableItemAttributeSet
+__OBJC_CLASS_RO_$_BranchCSSearchableItemAttributeSet
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchCSSearchableItemAttributeSet.m
+Branch-SDK/Branch-SDK/BranchCSSearchableItemAttributeSet.m
+Branch-SDK/Branch-SDK/BranchCSSearchableItemAttributeSet.h
+__87-[BranchCSSearchableItemAttributeSet indexContentWithUrl:spotlightIdentifier:callback:]_block_invoke
+__copy_helper_block_e4_20s24s28s32b
+__56-[BranchCSSearchableItemAttributeSet indexWithCallback:]_block_invoke_3
+__56-[BranchCSSearchableItemAttributeSet indexWithCallback:]_block_invoke_2
+__56-[BranchCSSearchableItemAttributeSet indexWithCallback:]_block_invoke
++[BNCLocalization shared]
+___25+[BNCLocalization shared]_block_invoke
++[BNCLocalization applicationLanguage]
+-[BNCLocalization init]
+-[BNCLocalization currentLanguage]
+-[BNCLocalization setCurrentLanguage:]
+-[BNCLocalization localizeString:]
++[BNCLocalization languageDictionaries]
++[BNCLocalization en_localized]
++[BNCLocalization ru_localized]
+-[BNCLocalization currentLanguageDictionary]
+-[BNCLocalization .cxx_destruct]
+_shared.bnc_shared
+_OBJC_CLASSLIST_REFERENCES_$_.2
+__OBJC_$_CLASS_METHODS_BNCLocalization
+__OBJC_METACLASS_RO_$_BNCLocalization
+__OBJC_$_INSTANCE_METHODS_BNCLocalization
+_OBJC_IVAR_$_BNCLocalization._currentLanguage
+_OBJC_IVAR_$_BNCLocalization._currentLanguageDictionary
+__OBJC_$_INSTANCE_VARIABLES_BNCLocalization
+__OBJC_$_PROP_LIST_BNCLocalization
+__OBJC_CLASS_RO_$_BNCLocalization
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCLocalization.m
+Branch-SDK/Branch-SDK/BNCLocalization.m
+__25+[BNCLocalization shared]_block_invoke
+BNCLocalizedFormattedString
++[BNCJSONUtility isNumber:]
++[BNCJSONUtility isString:]
++[BNCJSONUtility isDictionary:]
++[BNCJSONUtility isArray:]
++[BNCJSONUtility dictionaryForKey:json:]
++[BNCJSONUtility stringDictionaryForKey:json:]
++[BNCJSONUtility arrayForKey:json:]
++[BNCJSONUtility stringArrayForKey:json:]
++[BNCJSONUtility stringForKey:json:]
++[BNCJSONUtility numberForKey:json:]
+__OBJC_$_CLASS_METHODS_BNCJSONUtility
+__OBJC_METACLASS_RO_$_BNCJSONUtility
+__OBJC_CLASS_RO_$_BNCJSONUtility
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCJSONUtility.m
+Branch-SDK/Branch-SDK/BNCJSONUtility.m
++[BNCSystemObserver getUniqueHardwareId:isDebug:andType:]
++[BNCSystemObserver getAdId]
++[BNCSystemObserver getVendorId]
++[BNCSystemObserver adTrackingSafe]
++[BNCSystemObserver getDefaultUriScheme]
++[BNCSystemObserver getAppVersion]
++[BNCSystemObserver getBundleID]
++[BNCSystemObserver getTeamIdentifier]
++[BNCSystemObserver getBrand]
++[BNCSystemObserver getModel]
++[BNCSystemObserver isSimulator]
++[BNCSystemObserver getOS]
++[BNCSystemObserver getOSVersion]
++[BNCSystemObserver getScreenWidth]
++[BNCSystemObserver getScreenHeight]
+_OBJC_CLASSLIST_REFERENCES_$_.71
+_OBJC_CLASSLIST_REFERENCES_$_.78
+__OBJC_$_CLASS_METHODS_BNCSystemObserver
+__OBJC_METACLASS_RO_$_BNCSystemObserver
+__OBJC_CLASS_RO_$_BNCSystemObserver
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCSystemObserver.m
+Branch-SDK/Branch-SDK/BNCSystemObserver.m
+-[BNCServerResponse description]
+-[BNCServerResponse statusCode]
+-[BNCServerResponse setStatusCode:]
+-[BNCServerResponse data]
+-[BNCServerResponse setData:]
+-[BNCServerResponse .cxx_destruct]
+__OBJC_METACLASS_RO_$_BNCServerResponse
+__OBJC_$_INSTANCE_METHODS_BNCServerResponse
+_OBJC_IVAR_$_BNCServerResponse._statusCode
+_OBJC_IVAR_$_BNCServerResponse._data
+__OBJC_$_INSTANCE_VARIABLES_BNCServerResponse
+__OBJC_$_PROP_LIST_BNCServerResponse
+__OBJC_CLASS_RO_$_BNCServerResponse
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/Networking/BNCServerResponse.m
+Branch-SDK/Branch-SDK/Networking/BNCServerResponse.m
+Branch-SDK/Branch-SDK/Networking/BNCServerResponse.h
++[BNCApplication loadCurrentApplicationWithCompletion:]
+___55+[BNCApplication loadCurrentApplicationWithCompletion:]_block_invoke
++[BNCApplication currentApplication]
+___36+[BNCApplication currentApplication]_block_invoke
++[BNCApplication createCurrentApplication]
++[BNCApplication currentBuildDate]
++[BNCApplication firstInstallBuildDate]
++[BNCApplication currentInstallDate]
++[BNCApplication firstInstallDate]
+-[BNCApplication deviceKeyIdentityValueDictionary]
+-[BNCApplication bundleID]
+-[BNCApplication displayName]
+-[BNCApplication shortDisplayName]
+-[BNCApplication displayVersionString]
+-[BNCApplication versionString]
+-[BNCApplication currentBuildDate]
+-[BNCApplication firstInstallBuildDate]
+-[BNCApplication currentInstallDate]
+-[BNCApplication firstInstallDate]
+-[BNCApplication teamID]
+-[BNCApplication .cxx_destruct]
+-[BNCApplication(BNCTest) setAppOriginalInstallDate:firstInstallDate:lastUpdateDate:]
+_currentApplication.bnc_currentApplication
+_currentApplication.onceToken
+__OBJC_$_CLASS_METHODS_BNCApplication
+__OBJC_METACLASS_RO_$_BNCApplication
+__OBJC_$_INSTANCE_METHODS_BNCApplication
+_OBJC_IVAR_$_BNCApplication._bundleID
+_OBJC_IVAR_$_BNCApplication._displayName
+_OBJC_IVAR_$_BNCApplication._shortDisplayName
+_OBJC_IVAR_$_BNCApplication._displayVersionString
+_OBJC_IVAR_$_BNCApplication._versionString
+_OBJC_IVAR_$_BNCApplication._currentBuildDate
+_OBJC_IVAR_$_BNCApplication._firstInstallBuildDate
+_OBJC_IVAR_$_BNCApplication._currentInstallDate
+_OBJC_IVAR_$_BNCApplication._firstInstallDate
+_OBJC_IVAR_$_BNCApplication._teamID
+__OBJC_$_INSTANCE_VARIABLES_BNCApplication
+__OBJC_$_PROP_LIST_BNCApplication
+__OBJC_CLASS_RO_$_BNCApplication
+__OBJC_$_CATEGORY_INSTANCE_METHODS_BNCApplication_$_BNCTest
+__OBJC_$_CATEGORY_BNCApplication_$_BNCTest
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCApplication.m
+Branch-SDK/Branch-SDK/BNCApplication.m
+Branch-SDK/Branch-SDK/BNCApplication.h
+__36+[BNCApplication currentApplication]_block_invoke
+__55+[BNCApplication loadCurrentApplicationWithCompletion:]_block_invoke
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchDelegate.m
+-[BranchContentPathProperties init:]
+-[BranchContentPathProperties getFilteredElements]
+-[BranchContentPathProperties isSkipContentDiscovery]
+-[BranchContentPathProperties isClearText]
+-[BranchContentPathProperties pathInfo]
+-[BranchContentPathProperties setPathInfo:]
+-[BranchContentPathProperties setIsClearText:]
+-[BranchContentPathProperties .cxx_destruct]
+__OBJC_METACLASS_RO_$_BranchContentPathProperties
+__OBJC_$_INSTANCE_METHODS_BranchContentPathProperties
+_OBJC_IVAR_$_BranchContentPathProperties._isClearText
+_OBJC_IVAR_$_BranchContentPathProperties._pathInfo
+__OBJC_$_INSTANCE_VARIABLES_BranchContentPathProperties
+__OBJC_$_PROP_LIST_BranchContentPathProperties
+__OBJC_CLASS_RO_$_BranchContentPathProperties
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BranchContentPathProperties.m
+Branch-SDK/Branch-SDK/BranchContentPathProperties.m
+Branch-SDK/Branch-SDK/BranchContentPathProperties.h
++[BNCFacebookAppLinks sharedInstance]
+___37+[BNCFacebookAppLinks sharedInstance]_block_invoke
+-[BNCFacebookAppLinks init]
+-[BNCFacebookAppLinks registerFacebookDeepLinkingClass:]
+-[BNCFacebookAppLinks isDeepLinkingClassAvailable]
+-[BNCFacebookAppLinks fetchFacebookAppLinkWithCompletion:]
+___58-[BNCFacebookAppLinks fetchFacebookAppLinkWithCompletion:]_block_invoke
+___58-[BNCFacebookAppLinks fetchFacebookAppLinkWithCompletion:]_block_invoke.22
+-[BNCFacebookAppLinks appLinkUtility]
+-[BNCFacebookAppLinks setAppLinkUtility:]
+-[BNCFacebookAppLinks fetchDeferredAppLink]
+-[BNCFacebookAppLinks setFetchDeferredAppLink:]
+-[BNCFacebookAppLinks .cxx_destruct]
+___block_descriptor_24_e4_20bs_e26_v12?0"NSURL"4"NSError"8l
+__OBJC_$_CLASS_METHODS_BNCFacebookAppLinks
+__OBJC_METACLASS_RO_$_BNCFacebookAppLinks
+__OBJC_$_INSTANCE_METHODS_BNCFacebookAppLinks
+_OBJC_IVAR_$_BNCFacebookAppLinks._appLinkUtility
+_OBJC_IVAR_$_BNCFacebookAppLinks._fetchDeferredAppLink
+__OBJC_$_INSTANCE_VARIABLES_BNCFacebookAppLinks
+__OBJC_$_PROP_LIST_BNCFacebookAppLinks
+__OBJC_CLASS_RO_$_BNCFacebookAppLinks
+/Users/echo/github/ios-branch-deep-linking-attribution/Branch-SDK/Branch-SDK/BNCFacebookAppLinks.m
+Branch-SDK/Branch-SDK/BNCFacebookAppLinks.m
+__58-[BNCFacebookAppLinks fetchFacebookAppLinkWithCompletion:]_block_invoke.22
+__58-[BNCFacebookAppLinks fetchFacebookAppLinkWithCompletion:]_block_invoke
+__37+[BNCFacebookAppLinks sharedInstance]_block_invoke
+__ZL15__ARCLite__loadv
+__ZL30add_image_hook_autoreleasepoolPK11mach_headerl
+__ZL34__arclite_objc_autoreleasePoolPushv
+__ZL33__arclite_objc_autoreleasePoolPopPv
+__ZL19patch_lazy_pointersPK11mach_headerP7patch_tm
+__ZL42__arclite_NSArray_objectAtIndexedSubscriptP7NSArrayP13objc_selectorj
+__ZL53__arclite_NSMutableArray_setObject_atIndexedSubscriptP14NSMutableArrayP13objc_selectorP11objc_objectj
+__ZL46__arclite_NSDictionary_objectForKeyedSubscriptP12NSDictionaryP13objc_selectorP11objc_object
+__ZL47__arclite_NSOrderedSet_objectAtIndexedSubscriptP12NSOrderedSetP13objc_selectorj
+__ZL58__arclite_NSMutableOrderedSet_setObject_atIndexedSubscriptP19NSMutableOrderedSetP13objc_selectorP11objc_objectj
+__ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+__ZL18add_image_hook_ARCPK11mach_headerl
+__ZL27__arclite_objc_loadClassrefPP10objc_class
+__ZL36__arclite_object_setInstanceVariableP11objc_objectPKcPv
+__ZL24__arclite_object_setIvarP11objc_objectP9objc_ivarS0_
+__ZL21__arclite_object_copyP11objc_objectm
+__ZL21__arclite_objc_retainP11objc_object
+__ZL26__arclite_objc_retainBlockP11objc_object
+__ZL22__arclite_objc_releaseP11objc_object
+__ZL26__arclite_objc_autoreleaseP11objc_object
+__ZL32__arclite_objc_retainAutoreleaseP11objc_object
+__ZL37__arclite_objc_autoreleaseReturnValueP11objc_object
+__ZL43__arclite_objc_retainAutoreleaseReturnValueP11objc_object
+__ZL44__arclite_objc_retainAutoreleasedReturnValueP11objc_object
+__ZL26__arclite_objc_storeStrongPP11objc_objectS0_
+__ZL22add_image_hook_swiftV1PK11mach_headerl
+__ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+__ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+__ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+__ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+__ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+__ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+__ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+__ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+__ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+__ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+__ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+__ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+__ZL32__arclite_object_getIndexedIvarsP11objc_object
+__ZL23__arclite_objc_getClassPKc
+__ZL27__arclite_objc_getMetaClassPKc
+__ZL31__arclite_objc_getRequiredClassPKc
+__ZL26__arclite_objc_lookUpClassPKc
+__ZL26__arclite_objc_getProtocolPKc
+__ZL23__arclite_class_getNameP10objc_class
+__ZL26__arclite_protocol_getNameP8Protocol
+__ZL37__arclite_objc_copyClassNamesForImagePKcPj
+__ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+__ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+__ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+__ZL14initialize_impP11objc_objectP13objc_selector
+__ZL18allocateMaybeSwiftP18glue_swift_class_tm
+__ZL22copySwiftV1MangledNamePKcb
+__ZL13demangledNamePKcb
+__ZL16scanMangledFieldRPKcS0_S1_Ri
+__ZL30arclite_uninitialized_functionv
+__ZL12cxxConstructP11objc_object
+__ZL20fixStringForCoreDataP11objc_object
+_OBJC_METACLASS_$___ARCLite__
+__ZL24OBJC_CLASS_$___ARCLite__
+__ZL31OBJC_METACLASS_RO_$___ARCLite__
+__non_lazy_classes
+__ZL27OBJC_CLASS_RO_$___ARCLite__
+__ZL11_class_name
+__ZL32OBJC_$_CLASS_METHODS___ARCLite__
+__ZL17_load_method_name
+__ZL17_load_method_type
+__ZL23NSAutoreleasePool_class
+__ZZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
+__ZGVZL30add_image_hook_autoreleasepoolPK11mach_headerlE7patches
+__OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteIndexedSubscripting__
+__OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteIndexedSubscripting__
+__OBJC_PROTOCOL_$___ARCLiteIndexedSubscripting__
+__OBJC_LABEL_PROTOCOL_$___ARCLiteIndexedSubscripting__
+__OBJC_PROTOCOL_REFERENCE_$___ARCLiteIndexedSubscripting__
+__OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteKeyedSubscripting__
+__OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteKeyedSubscripting__
+__OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+__OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+__OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+__ZZL18add_image_hook_ARCPK11mach_headerlE7patches
+__ZGVZL18add_image_hook_ARCPK11mach_headerlE7patches
+__ZL30NSUndoManagerProxy_targetClass
+__ZL29original_NSManagedObject_init
+__ZL40original_NSManagedObject_allocWithEntity
+__ZL35original_NSManagedObject_allocBatch
+__ZL25NSMutableDictionary_class
+__ZL22NSConstantString_class
+__ZL14NSString_class
+__ZL36original_NSKKMS_fastIndexForKnownKey
+__ZL27original_NSKKMS_indexForKey
+__ZL28original_NSKKsD_objectForKey
+__ZL34original_NSKKsD_removeObjectForKey
+__ZL32original_NSKKsD_setObject_forKey
+__ZL40original_NSKKsD_addEntriesFromDictionary
+__ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+__ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+__ZL31original_objc_allocateClassPair
+__ZL31original_object_getIndexedIvars
+__ZL22original_objc_getClass
+__ZL26original_objc_getMetaClass
+__ZL30original_objc_getRequiredClass
+__ZL25original_objc_lookUpClass
+__ZL25original_objc_getProtocol
+__ZL22original_class_getName
+__ZL25original_protocol_getName
+__ZL36original_objc_copyClassNamesForImage
+__ZL12demangleLock
+__ZL9Demangled
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ --target=armv7-apple-ios4.3 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -fno-sanitize=vptr -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-objc-interface-ivars -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-float-conversion -Wno-non-literal-null-conversion -Wno-objc-literal-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -D OBJC_OLD_DISPATCH_PROTOTYPES=0 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fno-threadsafe-statics -Wno-sign-conversion -Wno-infinite-recursion -Wno-move -Wno-comma -Wno-block-capture-autoreleasing -Wno-strict-prototypes -Wno-range-loop-analysis -Wno-semicolon-before-method-body -fembed-bitcode=all -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources-normal/armv7 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources/armv7 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/Symbols/BuiltProducts -iframework /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -Wno-error=incomplete-umbrella -Wno-error=invalid-ios-deployment-target -Wno-error=deprecated-declarations -Wno-error=documentation -Wno-error=incomplete-umbrella -Wno-error=invalid-ios-deployment-target -Wno-error=deprecated-declarations -Wno-error=documentation -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-76/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/install/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/armv7/arclite.o -Wno-objc-signed-char-bool-implicit-int-conversion -Wno-extra-semi-stmt -Wno-quoted-include-in-framework-header -mlinker-version=556.6 -march=armv7a
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-76/source/arclite.mm
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-76
+fixStringForCoreData
+source/arclite.mm
+cxxConstruct
+arclite_uninitialized_function
+scanMangledField
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.Internal.sdk/usr/include/_ctype.h
+__isctype
+demangledName
+copySwiftV1DemangledName
+copySwiftV1MangledName
+allocateMaybeSwift
+word_align
+isSwift
+initialize_imp
+transcribeProperties
+property_list_nth
+transcribeProtocols
+transcribeMethods
+data
+method_list_nth
+__arclite_objc_copyClassNamesForImage
+__arclite_protocol_getName
+__arclite_class_getName
+__arclite_objc_getProtocol
+__arclite_objc_lookUpClass
+__arclite_objc_getRequiredClass
+__arclite_objc_getMetaClass
+__arclite_objc_getClass
+__arclite_object_getIndexedIvars
+__arclite_objc_allocateClassPair
+metaclass
+__arclite_objc_readClassPair
+transcribeIvars
+ivar_list_nth
+max
+alignment
+ro
+fastFlags
+__arclite_NSKKsD_addEntriesFromDictionary
+__arclite_NSKKsD_setObject_forKey
+__arclite_NSKKsD_removeObjectForKey
+__arclite_NSKKsD_objectForKey
+__arclite_NSKKMS_indexForKey
+__arclite_NSKKMS_fastIndexForKnownKey
+__arclite_NSManagedObject_allocBatch
+__arclite_NSManagedObject_allocWithEntity
+__arclite_NSManagedObject_init
+__arclite_NSUndoManagerProxy_isKindOfClass
+add_image_hook_swiftV1
+patch_t<const char **(const char *, unsigned int *)>
+patch_t<const char *(Protocol *)>
+patch_t<const char *(Class)>
+patch_t<Protocol *(const char *)>
+patch_t<Class (const char *)>
+patch_t<void *(id)>
+patch_t<Class (Class, const char *, unsigned long)>
+patch_t<Class (Class, const objc_image_info *)>
+__arclite_objc_storeStrong
+__arclite_objc_release
+__arclite_objc_retain
+__arclite_objc_retainAutoreleasedReturnValue
+__arclite_objc_retainAutoreleaseReturnValue
+__arclite_objc_autoreleaseReturnValue
+__arclite_objc_retainAutorelease
+__arclite_objc_autorelease
+__arclite_objc_retainBlock
+__arclite_object_copy
+fixupCopiedReferences
+_class_getInstanceStart
+alignedInstanceStart
+__arclite_class_usesAutomaticRetainRelease
+classOrSuperClassesUseARR
+__arclite_object_setIvar
+isScannedOffset
+_ivar_getClass
+__arclite_object_setInstanceVariable
+__arclite_objc_loadClassref
+add_image_hook_ARC
+patch_t<void (id *, id)>
+patch_t<id (id)>
+patch_t<void (id)>
+patch_t<id (id, unsigned long)>
+patch_t<void (id, objc_ivar *, id)>
+patch_t<objc_ivar *(id, const char *, void *)>
+patch_t<Class (Class *)>
+__arclite_NSMutableDictionary__setObject_forKeyedSubscript
+__arclite_NSMutableOrderedSet_setObject_atIndexedSubscript
+__arclite_NSOrderedSet_objectAtIndexedSubscript
+__arclite_NSDictionary_objectForKeyedSubscript
+__arclite_NSMutableArray_setObject_atIndexedSubscript
+__arclite_NSArray_objectAtIndexedSubscript
+patch_lazy_pointers
+__arclite_objc_autoreleasePoolPop
+__arclite_objc_autoreleasePoolPush
+add_image_hook_autoreleasepool
+patch_t<void (void *)>
+patch_t<void *()>
+__ARCLite__load
+install_swiftV1
+replaceMethod
+install_ARC
+install_dict_nil_value
+addOrReplaceMethod
+keyedGetter
+install_subscripting
+addMethod
+indexedGetter
+install_autoreleasepool

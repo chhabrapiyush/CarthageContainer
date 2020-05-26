@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "0.33.1",
+  "iOS" : [
+    {
+      "name" : "Branch",
+      "hash" : "f0dfb012a147d6156b300ebca4d5e0e2e15f46cea529125fddcbfe5f39c97d5f"
+    }
+  ]
+}

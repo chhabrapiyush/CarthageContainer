@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "6.1.0",
+  "iOS" : [
+    {
+      "name" : "Intercom",
+      "hash" : "b61186bb43be21d83f637eb0f19bb811d25a65f5d84ea5498f2b38f5d47ea423"
+    }
+  ]
+}

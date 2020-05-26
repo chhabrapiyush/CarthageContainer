@@ -1,0 +1,4 @@
+framework module RNCryptor {
+  header "RNCryptor-Swift.h"
+  requires objc
+}

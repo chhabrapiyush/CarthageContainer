@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.1.32",
+  "iOS" : [
+    {
+      "name" : "LinkKit",
+      "hash" : "61e56ec71e73fed92674742cb9785572bc374e426b32a4c798a778d69c38b2f6"
+    }
+  ]
+}

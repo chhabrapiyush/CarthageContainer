@@ -1,0 +1,10 @@
+{
+  "commitish" : "3691aee441feadd0608a35abc137203e23e6b2ce",
+  "iOS" : [
+    {
+      "name" : "PopupDialog",
+      "hash" : "2e1b4c3bf77b17730bf2b3c0b8e6b2b826370e17cba408a8b18e4f8efb6c29b1",
+      "swiftToolchainVersion" : "5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+    }
+  ]
+}

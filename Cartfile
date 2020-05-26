@@ -1,0 +1,27 @@
+github "Alamofire/Alamofire" ~> 4.0
+github "airbnb/lottie-ios" "master"
+github "malcommac/SwiftDate" ~> 4.5.1
+github "kishikawakatsumi/KeychainAccess"
+github "danielgindi/Charts"
+github "BranchMetrics/ios-branch-deep-linking"
+github "marmelroy/PhoneNumberKit"
+github "intercom/intercom-ios"
+github "jverdi/JVFloatLabeledTextField"
+github "marmelroy/Localize-Swift"
+github "Hearst-DD/ObjectMapper"
+github "mxcl/PromiseKit"
+github "ashleymills/Reachability.swift"
+github "RNCryptor/RNCryptor"
+github "SnapKit/SnapKit"
+github "SVProgressHUD/SVProgressHUD"
+github "realm/realm-cocoa"
+git "https://github.com/zmian/SwiftPasscodeLock" "master"
+git "https://github.com/zmian/Haring" "master"
+git "https://github.com/clarity-fatih/PopupDialog" "master"
+
+binary "https://raw.githubusercontent.com/plaid/plaid-link-ios/master/LinkKit.json"
+
+
+
+
+

@@ -1,0 +1,10 @@
+{
+  "commitish" : "c3bd1214dee9047f8c87f5e51932a360be1031fa",
+  "iOS" : [
+    {
+      "name" : "PasscodeLock",
+      "hash" : "54fa3a1053ee155bc01a7cf78aa589fb721daafd6d48350dfb1fc5cdaa33e714",
+      "swiftToolchainVersion" : "5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+    }
+  ]
+}
